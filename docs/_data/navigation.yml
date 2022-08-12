@@ -139,11 +139,9 @@ docs-en:
         url:    books
   - title:      Software
     children:
-      - title:  R
-        url:    r
       - title:  shinyapps
         url:    shinyapps
-      - title:  All types
+      - title:  Software
         url:    software
   - title:      WWW
     children:
