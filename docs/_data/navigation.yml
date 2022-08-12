@@ -128,23 +128,23 @@ docs-en:
   - title:      Projects
     children:
       - title:  Consortium
-        url:    en/consortium
+        url:    consortium
       - title:  Others
-        url:    en/others
+        url:    others
   - title:      Publications
     children:
       - title:  Biosketch
         url:    jing_cv.pdf
       - title:  Books
-        url:    en/books
+        url:    books
   - title:      Software
     children:
       - title:  R
-        url:    en/r
+        url:    r
       - title:  shinyapps
-        url:    en/shinyapps
-      - title:  Standalone
-        url:    en/standalone
+        url:    shinyapps
+      - title:  Software
+        url:    software
   - title:      WWW
     children:
       - title:  Cambridge-CEU
