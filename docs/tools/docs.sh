@@ -3,7 +3,7 @@
 cd docs
 bundle exec jekyll build --incremental
 cd -
-for f in $(ls)
+for f in .gitignore $(ls)
 do
   git add ${f}
   git commit -m "${f}" --no-verify
