@@ -21,14 +21,12 @@ models is described in [Mixed Modeling with Whole Genome
 Data](http://www.hindawi.com/journals/jps/2012/485174/) and [Bayesian
 Linear Mixed Models with Polygenic Effects](https://www.jstatsoft.org/article/view/v085i06).
 
-- [C programs](c-progs.md)
-- [R packages](r-progs.md) (notably [Genetic Analysis Package](http://www.jstatsoft.org/v23/i08) and [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127))
+- GitHub repositories
+  * [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
+  * [![](bees.svg)](https://github.com/jinghuazhao/misc) [Miscellaneous codings](https://jinghuazhao.github.io/misc/) based on [Miscellaneous programs](misc-progs.md)
+  * [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md) (notably [Genetic Analysis Package](http://www.jstatsoft.org/v23/i08) and [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127))
 - [SAS programs](sas-progs.md)
 - [Stata programs](stata-progs.md)
-- [Miscellaneous programs](misc-progs.md)
-- GitHub repositories
-  * [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/)
-  * [![](bees.svg)](https://github.com/jinghuazhao/misc) [Miscellaneous codings](https://jinghuazhao.github.io/misc/)
 
 I also made a [University of London](http://www.lon.ac.uk/)
 [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
