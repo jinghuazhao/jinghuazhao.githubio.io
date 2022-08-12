@@ -1,7 +1,15 @@
 ---
 layout: article
 title: Computer software by Jing Hua Zhao
+permalink: software
+key: page-software
+show_title: true
+sidebar:
+  nav: docs-en
 ---
+
+* [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/)
+* [![](bees.svg)](https://github.com/jinghuazhao/misc) [Miscellaneous codings](https://jinghuazhao.github.io/misc/)
 
 I have converted some functionality of my programs, implemented new
 functions or maintained packages by colleagues into R. as reported in
