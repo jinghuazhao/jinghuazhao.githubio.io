@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Other projects
-permalink: /en/others
+permalink: others
 key: page-others
 footer: true
 show_title: true

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: R packages
-permalink: /en/r
+permalink: r
 key: page-r
 show_title: true
 sidebar:

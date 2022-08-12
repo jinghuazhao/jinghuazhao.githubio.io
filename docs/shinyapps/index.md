@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Shiny Apps
-permalink: /en/shinyapps
+permalink: shinyapps
 key: page-shinyapps
 show_title: true
 sidebar:

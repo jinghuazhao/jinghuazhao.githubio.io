@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Standalone programs
-permalink: /en/standalone
-key: page-standalone
+title: All types
+permalink: software
+key: page-software
 show_title: true
 sidebar:
   nav: docs-en
