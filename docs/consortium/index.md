@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Consortium work
-permalink: /en/consortium
+permalink: consortium
 key: page-consortium
 show_title: true
 sidebar:
