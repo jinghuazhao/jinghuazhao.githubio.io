@@ -33,5 +33,3 @@ I also made a [University of London](http://www.lon.ac.uk/)
 [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
 together with [Endnote](http://www.endnote.com/) [genetic reference library](iop/jinghua/refs/genetics.enl)
 and keep some notes on [MFC programming](iop/jinghua/winprog/winprog.html) and [some programs for genetic data analysis](software/softlink.html)
-
-*Date last changed* 12/8/2022
