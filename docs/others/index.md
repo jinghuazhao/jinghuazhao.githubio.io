@@ -12,28 +12,28 @@ sidebar:
 ---
 
 These involve the following aspects:
-#### A. Epigenomics
+- Epigenomics
   : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)[^longnote]
   : [![](bees.svg)](https://github.com/jinghuazhao/QTR) [QTR](https://jinghuazhao.github.io/QTR/)
-#### B. Genomics
+- Genomics
   : [![](bees.svg)](https://github.com/jinghuazhao/FM-pipeline) [FM-pipeline](https://jinghuazhao.github.io/FM-pipeline/) ([wiki](https://github.com/jinghuazhao/FM-pipeline/wiki))
   : [![](bees.svg)](https://github.com/jinghuazhao/gwas2) [gwas2](https://jinghuazhao.github.io/gwas2)
   : [![](bees.svg)](https://github.com/jinghuazhao/hess-pipeline) [hess-pipeline](https://jinghuazhao.github.io/hess-pipeline/)
   : [![](bees.svg)](https://github.com/jinghuazhao/PW-pipeline) [PW-pipeline](https://jinghuazhao.github.io/PW-pipeline/) ([wiki](https://github.com/jinghuazhao/PW-pipeline/wiki))
   : [![](bees.svg)](https://github.com/jinghuazhao/SUMSTATS) [SUMSTATS](https://jinghuazhao.github.io/SUMSTATS/)
   : [![](bees.svg)](https://github.com/jinghuazhao/TWAS-pipeline) [TWAS-pipeline](https://jinghuazhao.github.io/TWAS-pipeline/)
-#### C. Proteomics
+- Proteomics
   : [![](bees.svg)](https://github.com/jinghuazhao/Caprion) [Caprion](https://jinghuazhao.github.io/Caprion/)
   : [![](bees.svg)](https://github.com/jinghuazhao/HbF) [HbF](https://jinghuazhao.github.io/HbF/)
   : [![](bees.svg)](https://github.com/jinghuazhao/Olink-NGS) [Olink-NGS](https://jinghuazhao.github.io/Olink-NGS/)
   : [![](bees.svg)](https://github.com/jinghuazhao/SomaLogic) [SomaLogic](https://jinghuazhao.github.io/SomaLogic/)
   : [![](bees.svg)](https://github.com/jinghuazhao/SWATH-MS) [SWATH-MS](https://jinghuazhao.github.io/SWATH-MS/)
-#### D. Statistics
+- Statistics
   : [![](bees.svg)](https://github.com/jinghuazhao/Computational-Statistics) [Computational statistics](https://jinghuazhao.github.io/Computational-Statistics/)
   : [![](bees.svg)](https://github.com/jinghuazhao/DSA) [DSA](https://jinghuazhao.github.io/DSA/)
   : [![](bees.svg)](https://github.com/jinghuazhao/Mixed-Models) [Mixed models](https://jinghuazhao.github.io/Mixed-Models/)
   : [![](bees.svg)](https://github.com/jinghuazhao/Numerical-Analysis) [Numerical analysis](https://jinghuazhao.github.io/Numerical-Analysis/)
-#### E. Miscellaneous categories
+- Miscellaneous categories
   : [![](bees.svg)](https://github.com/jinghuazhao/Believe) [Believe](https://jinghuazhao.github.io/Believe/)
   : [![](bees.svg)](https://github.com/jinghuazhao/GDCT) [GDCT](https://jinghuazhao.github.io/GDCT/)
   : [![](bees.svg)](https://github.com/jinghuazhao/GWAS-course) [GWAS course](https://jinghuazhao.github.io/GWAS-course/)
