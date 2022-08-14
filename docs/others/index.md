@@ -11,7 +11,6 @@ sidebar:
   nav: docs-en
 ---
 
-These involve the following aspects:
 - Epigenomics
   : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)[^longnote]
   : [![](bees.svg)](https://github.com/jinghuazhao/QTR) [QTR](https://jinghuazhao.github.io/QTR/)
