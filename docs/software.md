@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Computer software
+title: Software
 permalink: software
 key: page-software
 show_title: true
