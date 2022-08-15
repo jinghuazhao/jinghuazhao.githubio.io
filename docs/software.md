@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Computer software by Jing Hua Zhao
+title: Computer software
 permalink: software
 key: page-software
 show_title: true
