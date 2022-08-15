@@ -21,7 +21,7 @@ sidebar:
   : [![](bees.svg)](https://github.com/jinghuazhao/PW-pipeline) [PW-pipeline](https://jinghuazhao.github.io/PW-pipeline/) ([wiki](https://github.com/jinghuazhao/PW-pipeline/wiki))
   : [![](bees.svg)](https://github.com/jinghuazhao/SUMSTATS) [SUMSTATS](https://jinghuazhao.github.io/SUMSTATS/)
   : [![](bees.svg)](https://github.com/jinghuazhao/TWAS-pipeline) [TWAS-pipeline](https://jinghuazhao.github.io/TWAS-pipeline/)
-- Proteomics
+- Proteogenomics
   : [![](bees.svg)](https://github.com/jinghuazhao/Caprion) [Caprion](https://jinghuazhao.github.io/Caprion/)
   : [![](bees.svg)](https://github.com/jinghuazhao/HbF) [HbF](https://jinghuazhao.github.io/HbF/)
   : [![](bees.svg)](https://github.com/jinghuazhao/Olink-NGS) [Olink-NGS](https://jinghuazhao.github.io/Olink-NGS/)
