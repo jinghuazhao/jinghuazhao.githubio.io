@@ -8,7 +8,7 @@ sidebar:
   nav: docs-en
 ---
 
-"  "
+~~~
 : [![](bees.svg)](https://github.com/jinghuazhao/ShinyApps) [shinyapps](https://jinghuazhao.shinyapps.io/shinyapps/) ([shiny examples](https://github.com/rstudio/shiny-examples) `hello` with `ui.R` and `server.R` instead of `app.R`)
 : [![](bees.svg)](https://github.com/jinghuazhao/R) [shinygap](https://jinghuazhao.shinyapps.io/shinygap/) (gap/inst/shinygap)
 : [![](bees.svg)](https://github.com/jinghuazhao/ShinyApps) [shinySurvival](https://jinghuazhao.shinyapps.io/shinysurvival/)
