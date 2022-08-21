@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 cd docs
-bundle exec jekyll build --incremental
+bundle exec jekyll build
 cd -
 for f in .gitignore $(ls)
 do
