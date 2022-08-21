@@ -135,8 +135,8 @@ docs-en:
     children:
       - title:  Biosketch
         url:    jing_cv.pdf
-      - title:  Books
-        url:    books
+      - title:  Book
+        url:    book
   - title:      Software
     children:
       - title:  shinyapps

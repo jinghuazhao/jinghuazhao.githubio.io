@@ -1,7 +1,7 @@
 ---
 layout: article
-permalink: books
-key: page-books
+permalink: book
+key: page-book
 show_title: false
 sidebar:
   nav: docs-en
