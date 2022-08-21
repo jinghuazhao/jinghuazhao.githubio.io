@@ -1,8 +1,7 @@
 #!/usr/bin/bash
 
-cd docs
 bundle exec jekyll build --incremental
-cd -
+mv _site docs
 for f in .gitignore $(ls)
 do
   git add ${f}
