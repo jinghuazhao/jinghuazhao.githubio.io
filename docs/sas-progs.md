@@ -47,7 +47,7 @@ My earlier programs are as follows,
     Wareham, N. J. (2007). \"[Analysis of Large Genomic Data *in
     Silico*: The EPIC-Norfolk Study of
     Obesity]{style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: SimSun; mso-ansi-language: EN-GB; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"}
-    . Submitted to ICIC\'07.](paper/icic07.pdf)
+    . Submitted to ICIC\'07.](paper/ICIC07.pdf)
 
 **QTLSIM**
 
