@@ -42,4 +42,6 @@ sidebar:
   : [![](bees.svg)](https://github.com/jinghuazhao/software-notes) [Software notes](https://jinghuazhao.github.io/software-notes/)
   : [![](bees.svg)](https://github.com/jinghuazhao/tests) [tests](https://jinghuazhao.github.io/tests/)
 
-[^longnote]: Details of the rationale and setup in the desired format is now readily seen from the hyperlink here.
+[^longnote]: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069993.svg)](https://zenodo.org/record/5069993)
+
+Details of the rationale and setup in the desired format is now readily seen from the hyperlink here.
