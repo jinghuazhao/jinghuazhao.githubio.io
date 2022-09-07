@@ -12,7 +12,7 @@ sidebar:
 ---
 
 - Epigenomics
-  : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)[^longnote]
+  : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069993.svg)](https://zenodo.org/record/5069993)
   : [![](bees.svg)](https://github.com/jinghuazhao/QTR) [QTR](https://jinghuazhao.github.io/QTR/)
 - Genomics
   : [![](bees.svg)](https://github.com/jinghuazhao/FM-pipeline) [FM-pipeline](https://jinghuazhao.github.io/FM-pipeline/) ([wiki](https://github.com/jinghuazhao/FM-pipeline/wiki))
@@ -41,7 +41,3 @@ sidebar:
   : [![](bees.svg)](https://github.com/jinghuazhao/physalia) [physalia](https://jinghuazhao.github.io/physalia/)
   : [![](bees.svg)](https://github.com/jinghuazhao/software-notes) [Software notes](https://jinghuazhao.github.io/software-notes/)
   : [![](bees.svg)](https://github.com/jinghuazhao/tests) [tests](https://jinghuazhao.github.io/tests/)
-
-[^longnote]: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069993.svg)](https://zenodo.org/record/5069993)
-
-Details of the rationale and setup in the desired format is now readily seen from the hyperlink here.
