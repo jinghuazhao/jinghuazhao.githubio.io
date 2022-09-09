@@ -12,7 +12,7 @@ sidebar:
 ---
 
 - Epigenomics
-  : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069993.svg)](https://zenodo.org/record/5069993)
+  : [![](bees.svg)](https://github.com/jinghuazhao/EWAS-fusion)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5069993.svg)](https://zenodo.org/record/5069993) [EWAS-fusion](https://jinghuazhao.github.io/EWAS-fusion/)
   : [![](bees.svg)](https://github.com/jinghuazhao/QTR) [QTR](https://jinghuazhao.github.io/QTR/)
 - Genomics
   : [![](bees.svg)](https://github.com/jinghuazhao/FM-pipeline) [FM-pipeline](https://jinghuazhao.github.io/FM-pipeline/) ([wiki](https://github.com/jinghuazhao/FM-pipeline/wiki))
