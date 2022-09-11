@@ -11,11 +11,10 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [bitesize](https://www.bbc.co.uk/bitesize)
   * [CB1](https://www.bbc.co.uk/weather/cb1)
   * [CB2](https://www.bbc.co.uk/weather/cb2)
-- [Bing webmaster tool](https://www.bing.com/webmasters/about)
 - [Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/)
 - [CRAN](https://cran.r-project.org/)
 - DVLA ([vehicle-tax](https://www.gov.uk/vehicle-tax), [Contact](https://www.gov.uk/contact-the-dvla))
-- Google
+- [Google](https://www.google.co.uk/)
   * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
   * [Search console](https://search.google.com/search-console/about)
   * [Translate](https://translate.google.co.uk/)
@@ -24,6 +23,9 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [INBO tutorials](https://inbo.github.io/tutorials/)
 - [jqplay](https://jqplay.org/)
 - [Merriam-Webster dictionary](https://www.merriam-webster.com/)
+- [MicroSoft](https://www.microsoft.com/)
+  * [Bing webmaster tool](https://www.bing.com/webmasters/about)
+  * [Sway](https://sway.office.com/)
 - [Mozilla](https://www.mozilla.org/en-GB/about/)
 - [MyEndNoteWeb](http://www.myendnoteweb.com)
 - [MySQL](https://dev.mysql.com/)
@@ -139,4 +141,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 27/7/2022*
+***Created on** 3/5/2021 and **last changed** 11/9/2022*
