@@ -105,6 +105,10 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
   * [ParentPay](https://www.parentpay.com/)
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
+  * Recommended websites and helplines for support
+    . [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
+    . [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
+    . [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * [School Photograph Company](https://orders.schoolphotographs.co.uk/tspc/Home)
   * [Term dates](https://www.perse.co.uk/term-dates/)
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
@@ -142,4 +146,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 11/9/2022*
+***Created on** 3/5/2021 and **last changed** 12/9/2022*
