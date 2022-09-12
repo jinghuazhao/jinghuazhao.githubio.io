@@ -106,9 +106,9 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [ParentPay](https://www.parentpay.com/)
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
   * Recommended websites and helplines for support
-    : [![](bees.svg)][https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/]](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
-    : [![](bees.svg)][https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/]](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
-    : [![](bees.svg)][https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/]](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
+    : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
+    : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
+    : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * [School Photograph Company](https://orders.schoolphotographs.co.uk/tspc/Home)
   * [Term dates](https://www.perse.co.uk/term-dates/)
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
