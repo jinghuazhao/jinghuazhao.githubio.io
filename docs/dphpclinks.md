@@ -119,7 +119,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 
 - [Adobe online](https://www.adobe.com/uk/acrobat/online.html)
 - [DjVuLibre](http://djvu.sourceforge.net/)
-- [djvu.org](djvu.org)
+- [djvu.org](http://djvu.org)
 - [foxit](https://www.foxitsoftware.com/)
 - [iLovePDF](https://www.ilovepdf.com/)
 - [MConverter](https://mconverter.eu/) ([docx2html](https://mconverter.eu/convert/docx/html/))
@@ -146,4 +146,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 10/10/2022*
+***Created on** 3/5/2021 and **last changed** 11/10/2022*
