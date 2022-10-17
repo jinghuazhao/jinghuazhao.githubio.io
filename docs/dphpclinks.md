@@ -127,7 +127,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Online2PDF](https://online2pdf.com/docx2pdf)
 - [pdf24](https://en.pdf24.org/)
 - [pdf2djvu](https://pdf2djvu.com/)
-- [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
+- Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
 - [Typora](https://typora.io/)
 - [yozosoft](https://www.yozosoft.com/)
 
