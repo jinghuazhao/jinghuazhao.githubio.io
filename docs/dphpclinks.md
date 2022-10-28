@@ -13,7 +13,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [CB2](https://www.bbc.co.uk/weather/cb2)
 - [Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/)
 - [CRAN](https://cran.r-project.org/)
-- DVLA ([vehicle-tax](https://www.gov.uk/vehicle-tax), [Contact](https://www.gov.uk/contact-the-dvla))
+- DVLA ([Sold, transferred or bought a vehicle](https://www.gov.uk/sold-bought-vehicle), [vehicle-tax](https://www.gov.uk/vehicle-tax) ([direct debit](https://www.gov.uk/vehicle-tax-direct-debit)), [Contact](https://www.gov.uk/contact-the-dvla))
 - [Google](https://www.google.co.uk/)
   * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
   * [Search console](https://search.google.com/search-console/about)
@@ -150,4 +150,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 20/10/2022*
+***Created on** 3/5/2021 and **last changed** 28/10/2022*
