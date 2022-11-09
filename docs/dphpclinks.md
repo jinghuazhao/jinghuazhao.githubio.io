@@ -104,7 +104,8 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Schengen visa requirement](https://www.schengenvisainfo.com/schengen-visa-application-requirements/)
 - [Tax service](https://www.tax.service.gov.uk/personal-account) ([tax relief](https://www.gov.uk/tax-relief-for-employees))
 - [The Perse School](https://www.perse.co.uk/)
-  * [Lower Sixth Update -- July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
+  * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
+  * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
   * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
   * [ParentPay](https://www.parentpay.com/)
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
@@ -150,4 +151,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 28/10/2022*
+***Created on** 3/5/2021 and **last changed** 9/11/2022*
