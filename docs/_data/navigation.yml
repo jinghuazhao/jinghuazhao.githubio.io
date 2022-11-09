@@ -151,5 +151,5 @@ docs-en:
         url:    https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io
       - title:  SRCF (legacy)
         url:    jhz22.user.srcf.net
-      - title:  ![QR code](assets/images/jhz-50.png)
-        url:    <a href="assets/images/jhz-50.png">QR</a>
+      - title:  QR code
+        url:    assets/images/jhz-50.png
