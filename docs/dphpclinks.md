@@ -138,7 +138,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 ## Other sites
 
 - [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
-- Qatar 2022 [on BBC](https://www.bbc.co.uk/sport/football/60959746)
+- Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - Chinese sites
   * [CCTV](https://tv.cctv.com/)
   * Chinese Embassy [FAQ](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/zyxx/t1836400.htm) and [Passport/Travel certificatte](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/t1827718.htm)
