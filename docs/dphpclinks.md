@@ -57,7 +57,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [GWAS Central](https://www.gwascentral.org/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
   * [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-- [PGSCatalog](http://www.pgscatalog.org/) ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
+- [PGSCatalog](http://www.pgscatalog.org/) ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5), [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
 - [PLINK2 mailing list](https://groups.google.com/g/plink2-users)
 
 ## Linux related sites
