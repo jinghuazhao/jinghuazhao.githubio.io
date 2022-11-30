@@ -51,8 +51,10 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [hail](https://hail.is/index.html)
 - [LocusTrack](https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html)
 - [GATK](https://gatk.broadinstitute.org/hc/en-us)
+- [GBMI](https://www.globalbiobankmeta.org/resources)
 - [GTEx](https://gtexportal.org/home/datasets)
 - [GWAS atlas](https://atlas.ctglab.nl/traitDB)
+- [GWAS Central](https://www.gwascentral.org/)
 - [NCBI](https://www.ncbi.nlm.nih.gov/)
   * [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [PGSCatalog](http://www.pgscatalog.org/)
@@ -153,4 +155,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 23/11/2022*
+***Created on** 3/5/2021 and **last changed** 30/11/2022*
