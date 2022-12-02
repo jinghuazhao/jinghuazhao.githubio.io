@@ -124,6 +124,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 ## Online utilities/software
 
 - [Adobe online](https://www.adobe.com/uk/acrobat/online.html)
+- [AuthorArranger](https://authorarranger.nci.nih.gov/)
 - [DjVuLibre](http://djvu.sourceforge.net/)
 - [djvu.org](http://djvu.org)
 - [foxit](https://www.foxitsoftware.com/)
@@ -155,4 +156,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 30/11/2022*
+***Created on** 3/5/2021 and **last changed** 2/12/2022*
