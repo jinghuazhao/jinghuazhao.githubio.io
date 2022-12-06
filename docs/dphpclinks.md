@@ -79,8 +79,9 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Bletchly Park](https://bletchleypark.org.uk/)
 - B&Q [clubcard](https://www.diy.com/customer/my_account/members)
 - [Boardingware](https://www.boardingware.com/)
-- [Cambridge City Council](https://www.cambridge.gov.uk/)
-  * bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
+- Cambridge
+  * [Cambridge City Council](https://www.cambridge.gov.uk/)  bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
+  * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
 - [Cambridgeshire County Council](https://www.cambridgeshire.gov.uk/) (https://www.cambridgeshire.gov.uk/buslane)
 - [Cambridge Water](https://www.cambridge-water.co.uk) ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), account [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
 - COVID-19 vaccine
@@ -157,4 +158,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 5/12/2022*
+***Created on** 3/5/2021 and **last changed** 6/12/2022*
