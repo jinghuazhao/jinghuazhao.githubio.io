@@ -11,7 +11,7 @@ mermaid: true
 
 The workflow to set up
 
-```
+```mermaid
 graph TB;
 photo --> |to square + to resize| docs/sunflower.jpg --> |to generate favicon| docs/assets
 docs/sunflower.jpg --> |to generate SVG + to resize SVG| _includes/logo/logo.svg
