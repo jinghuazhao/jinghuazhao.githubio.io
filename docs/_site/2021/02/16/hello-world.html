@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>世界，你好 (Hello, world)! - 赵京华个人网页 | Personal page of Jing Hua Zhao</title>
 
-<meta name="description" content="The jekyll-themed site is up!">
+<meta name="description" content="The jekyll-themed site is up!The workflow to set upgraph TB;photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assetsd...">
 <link rel="canonical" href="/2021/02/16/hello-world.html"><link rel="alternate" type="application/rss+xml" title="赵京华个人网页 | Personal page of Jing Hua Zhao" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
 
 <meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
@@ -3037,6 +3037,16 @@ AABJRU5ErkJggg==
 <!-- end custom article top snippet -->
 <div class="article__content" itemprop="articleBody"><h1 id="the-jekyll-themed-site-is-up">The jekyll-themed site is up!</h1>
 
+<p>The workflow to set up</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TB;
+photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assets
+docs/sunflower.jpg --&gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
+painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
+</code></pre></div></div>
+
+<p><img src="mermaid-diagram-20210224082643.svg" alt="" /></p>
+
 <!--more-->
 
 <h1 id="notes">NOTES</h1>
@@ -3051,16 +3061,6 @@ AABJRU5ErkJggg==
   </li>
   <li>
     <p>Old page: <a href="https://jhz22.user.srcf.net/">https://jhz22.user.srcf.net/</a></p>
-
-    <p>The workflow to set up</p>
-
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TB;
-photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assets
-docs/sunflower.jpg --&gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
-painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
-</code></pre></div>    </div>
-
-    <p><img src="mermaid-diagram-20210224082643.svg" alt="" /></p>
   </li>
   <li>Image at work
     <ul>
