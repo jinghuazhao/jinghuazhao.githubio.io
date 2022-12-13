@@ -24,7 +24,7 @@ painting --> |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.s
 
 # NOTES
 
-* 13/12/2022 add-on: Fotor (https://www.fotor.com/) 
+* 13/12/2022 add-on: Fotor ([https://www.fotor.com/](https://www.fotor.com/)) 
 
   > a free and great photo editing & graphic design resource that popular among 380 million users from 230 countries.
 
