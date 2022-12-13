@@ -3039,6 +3039,12 @@ AABJRU5ErkJggg==
 
 <p>The workflow to set up</p>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TB;
+photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assets
+docs/sunflower.jpg --&gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
+painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
+</code></pre></div></div>
+
 <pre><code class="language-mermaid">graph TB;
 photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assets
 docs/sunflower.jpg --&gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
@@ -3099,9 +3105,7 @@ painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bee
 
 <hr />
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```javascript
-(() =&gt; console.log('Updated!'))();
-```
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(()</span> <span class="o">=&gt;</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">Updated!</span><span class="dl">'</span><span class="p">))();</span>
 </code></pre></div></div>
 </div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-02-16T00:00:00+00:00"><!-- start custom article footer snippet -->
 
