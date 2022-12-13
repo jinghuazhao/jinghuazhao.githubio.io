@@ -2,8 +2,6 @@
 layout: article
 title: 世界，你好 (Hello, world)!
 tags: info
-mathjax: true
-mathjax_autoNumber: false
 mermaid: true
 ---
 
@@ -17,8 +15,6 @@ photo --> |to square + to resize| docs/sunflower.jpg --> |to generate favicon| d
 docs/sunflower.jpg --> |to generate SVG + to resize SVG| _includes/logo/logo.svg
 painting --> |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
 ```
-
-![](mermaid-diagram-20210224082643.svg)
 
 <!--more-->
 
