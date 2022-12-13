@@ -13,22 +13,30 @@ mermaid: true
 
 # NOTES
 
+* 13/12/2022 add-on: Fotor (https://www.fotor.com/) 
+
+  > a free and great photo editing & graphic design resource that popular among 380 million users from 230 countries.
+
 * Old page: [https://jhz22.user.srcf.net/](https://jhz22.user.srcf.net/)
 
-The workflow to set up
-```
-graph TB;
-photo --> |to square + to resize| docs/sunflower.jpg --> |to generate favicon| docs/assets
-docs/sunflower.jpg --> |to generate SVG + to resize SVG| _includes/logo/logo.svg
-painting --> |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
-```
-![](mermaid-diagram-20210224082643.svg)
+  The workflow to set up
+
+  ```
+  graph TB;
+  photo --> |to square + to resize| docs/sunflower.jpg --> |to generate favicon| docs/assets
+  docs/sunflower.jpg --> |to generate SVG + to resize SVG| _includes/logo/logo.svg
+  painting --> |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
+  ```
+
+  ![](mermaid-diagram-20210224082643.svg)
 * Image at work
   * To square, [https://www.oddprints.com/edit](https://www.oddprints.com/edit)
   * To resize JPG, [https://imagemagick.org/index.php](https://imagemagick.org/index.php)
-```bash
-convert sunflower.jpg -resize 15% sun15.jpg
-```  
+
+  ```bash
+  convert sunflower.jpg -resize 15% sun15.jpg
+  ```
+
 * Favicon
   * To generate favicon, [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
 * Site logo
@@ -46,6 +54,6 @@ convert sunflower.jpg -resize 15% sun15.jpg
 
 ---
 
-```javascript
-(() => console.log('Updated!'))();
-```
+    ```javascript
+    (() => console.log('Updated!'))();
+    ```

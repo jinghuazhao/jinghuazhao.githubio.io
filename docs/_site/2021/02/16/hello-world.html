@@ -3042,25 +3042,34 @@ AABJRU5ErkJggg==
 <h1 id="notes">NOTES</h1>
 
 <ul>
-  <li>Old page: <a href="https://jhz22.user.srcf.net/">https://jhz22.user.srcf.net/</a></li>
-</ul>
+  <li>
+    <p>13/12/2022 add-on: Fotor (https://www.fotor.com/)</p>
 
-<p>The workflow to set up</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TB;
+    <blockquote>
+      <p>a free and great photo editing &amp; graphic design resource that popular among 380 million users from 230 countries.</p>
+    </blockquote>
+  </li>
+  <li>
+    <p>Old page: <a href="https://jhz22.user.srcf.net/">https://jhz22.user.srcf.net/</a></p>
+
+    <p>The workflow to set up</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>graph TB;
 photo --&gt; |to square + to resize| docs/sunflower.jpg --&gt; |to generate favicon| docs/assets
 docs/sunflower.jpg --&gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
 painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
-</code></pre></div></div>
-<p><img src="mermaid-diagram-20210224082643.svg" alt="" /></p>
-<ul>
+</code></pre></div>    </div>
+
+    <p><img src="mermaid-diagram-20210224082643.svg" alt="" /></p>
+  </li>
   <li>Image at work
     <ul>
       <li>To square, <a href="https://www.oddprints.com/edit">https://www.oddprints.com/edit</a></li>
-      <li>To resize JPG, <a href="https://imagemagick.org/index.php">https://imagemagick.org/index.php</a>
-        <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>convert sunflower.jpg <span class="nt">-resize</span> 15% sun15.jpg
-</code></pre></div>        </div>
-      </li>
+      <li>To resize JPG, <a href="https://imagemagick.org/index.php">https://imagemagick.org/index.php</a></li>
     </ul>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>convert sunflower.jpg <span class="nt">-resize</span> 15% sun15.jpg
+</code></pre></div>    </div>
   </li>
   <li>Favicon
     <ul>
@@ -3092,7 +3101,9 @@ painting --&gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bee
 
 <hr />
 
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(()</span> <span class="o">=&gt;</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="dl">'</span><span class="s1">Updated!</span><span class="dl">'</span><span class="p">))();</span>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```javascript
+(() =&gt; console.log('Updated!'))();
+```
 </code></pre></div></div>
 </div><section class="article__sharing d-print-none"></section><div class="d-print-none"><footer class="article__footer"><meta itemprop="dateModified" content="2021-02-16T00:00:00+00:00"><!-- start custom article footer snippet -->
 
