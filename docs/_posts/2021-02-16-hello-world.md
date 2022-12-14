@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 世界，你好 (Hello, world)!
-tags: info
+tags: TeXt
 mermaid: true
 ---
 
