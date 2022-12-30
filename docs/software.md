@@ -25,8 +25,8 @@ Linear Mixed Models with Polygenic Effects](https://www.jstatsoft.org/article/vi
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md) (notably [Genetic Analysis Package](http://www.jstatsoft.org/v23/i08) and [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127))
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) pQTLdata
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/)
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) pQTLdata ([vignette](https://jinghuazhao.github.io/R/vignettes/pQTLdata.html))
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/) ([vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html))
 - [SAS programs](sas-progs.md)
 - [Stata programs](stata-progs.md)
 
