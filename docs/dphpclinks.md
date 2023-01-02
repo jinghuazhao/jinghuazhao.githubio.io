@@ -137,6 +137,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [pdf24](https://en.pdf24.org/)
 - [pdf2djvu](https://pdf2djvu.com/)
 - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
+- [text-utils](https://www.text-utils.com/)
 - [Typora](https://typora.io/)
 - [yozosoft](https://www.yozosoft.com/)
 
@@ -159,4 +160,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 16/12/2022*
+***Created on** 3/5/2021 and **last changed** 2/1/2023*
