@@ -10,7 +10,7 @@ sidebar:
 
 I have converted some functionality of my programs, implemented new
 functions or maintained packages by colleagues into R. as reported in
-[gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08). Most are on
+[gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08) ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)). Most are on
 the [Rockefeller list of genetic software](https://github.com/gaow/genetic-analysis-software). The
 examples provided for [SAS](http://en.wikipedia.org/wiki/SAS_System),
 [Stata](http://en.wikipedia.org/wiki/Stata) and
