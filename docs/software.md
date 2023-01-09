@@ -22,8 +22,7 @@ Data](http://www.hindawi.com/journals/jps/2012/485174/) and [Bayesian
 Linear Mixed Models with Polygenic Effects](https://www.jstatsoft.org/article/view/v085i06).
 
 - GitHub repositories
-  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/)
-    - ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md). Notably,
+  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md).
     - [Genetic Analysis Package](http://www.jstatsoft.org/v23/i08) ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html))
     - [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127)) ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
     - CRAN submission, [https://cran.r-project.org/submit.html](https://cran.r-project.org/submit.html)
