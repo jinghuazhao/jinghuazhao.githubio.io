@@ -20,11 +20,12 @@ A summary of my recent work on mixed models is described in [Mixed Modeling with
 
 - GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
-      - CRAN submission, [https://cran.r-project.org/submit.html](https://cran.r-project.org/submit.html)
 
       - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html))
 
       - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
+
+      - CRAN submission, [https://cran.r-project.org/submit.html](https://cran.r-project.org/submit.html)
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) pQTLdata ([vignette](https://jinghuazhao.github.io/R/vignettes/pQTLdata.html))
