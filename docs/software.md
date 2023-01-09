@@ -15,12 +15,12 @@ implemented new functions or maintained packages by colleagues into R. as report
 
 2. The examples provided for [SAS](http://en.wikipedia.org/wiki/SAS_System), [Stata](http://en.wikipedia.org/wiki/Stata) and
 [R](http://www.r-project.org/) can be considered as extension to those in
-[Genetic Dissection of Complex Traits *In Silico*: Approaches, Problems and Solutions](paper/cbio06.pdf).
+[Genetic dissection of complex traits *In silico*: approaches, problems and solutions](paper/cbio06.pdf).
 
 3. My work on mixed models is described in the following papers
   - [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127)
-  - [Mixed Modeling with Whole Genome Data](http://www.hindawi.com/journals/jps/2012/485174/)
-  - [Bayesian Linear Mixed Models with Polygenic Effects](https://www.jstatsoft.org/article/view/v085i06)
+  - [Mixed modeling with whole genome data](http://www.hindawi.com/journals/jps/2012/485174/)
+  - [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06)
 
 - GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
