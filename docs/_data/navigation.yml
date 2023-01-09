@@ -146,7 +146,7 @@ docs-en:
   - title:      WWW
     children:
       - title:  Cambridge-CEU
-        url:    https://cambridge-ceu.github.io
+        url:    cambridge-ceu.github.io
       - title:  Cambridge-CEU (minima)
         url:    https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io
       - title:  SRCF (legacy)
