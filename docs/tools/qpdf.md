@@ -1,4 +1,10 @@
-# Page manipulation with qpdf
+---
+layout: article
+title: Page manipulation with qpdf
+permalink: qpdf
+key: page-qpdf
+show_title: true
+---
 
 The `R Markdown` has a front page that is too small (paradoxically with many books) compared to the other pages in the book; this is to be amended 
 by replacing it with page 2 to hold the front cover (extracted as .png and pull inside IceCream editor, which also can cut and paste pages of a 
