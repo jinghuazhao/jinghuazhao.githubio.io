@@ -145,7 +145,7 @@ docs-en:
         url:    software
   - title:      WWW
     children:
-      - title:  Cambridge-CEU
+      - title:  Cambridge-CEU (responsive)
         url:    cambridge-ceu.github.io
       - title:  Cambridge-CEU (minima)
         url:    https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io
