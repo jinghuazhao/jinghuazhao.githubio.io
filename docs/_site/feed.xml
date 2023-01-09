@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2023-01-09T20:40:48+00:00</updated><id>/feed.xml</id><title type="html">赵京华个人网页 | Personal page of Jing Hua Zhao</title><subtitle>Personal page
-</subtitle><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><entry><title type="html">pQTLdata is spun off pQTLtools</title><link href="/2022/12/23/pQTLdata.html" rel="alternate" type="text/html" title="pQTLdata is spun off pQTLtools" /><published>2022-12-23T00:00:00+00:00</published><updated>2022-12-23T00:00:00+00:00</updated><id>/2022/12/23/pQTLdata</id><content type="html" xml:base="/2022/12/23/pQTLdata.html">&lt;p&gt;The package is available from GitHub, &lt;a href=&quot;https://github.com/jinghuazhao/pQTLdata&quot;&gt;https://github.com/jinghuazhao/pQTLdata&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2023-01-09T20:49:39+00:00</updated><id>/feed.xml</id><title type="html">赵京华个人网页 | Personal page of Jing Hua Zhao</title><subtitle>Personal page
+</subtitle><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><entry><title type="html">R/gap is updated on CRAN</title><link href="/2023/01/09/gap.html" rel="alternate" type="text/html" title="R/gap is updated on CRAN" /><published>2023-01-09T00:00:00+00:00</published><updated>2023-01-09T00:00:00+00:00</updated><id>/2023/01/09/gap</id><content type="html" xml:base="/2023/01/09/gap.html">&lt;p&gt;Updates can be seen from here, &lt;a href=&quot;https://cran.r-project.org/web/packages/gap/ChangeLog&quot;&gt;https://cran.r-project.org/web/packages/gap/ChangeLog&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;See &lt;a href=&quot;https://cran.r-project.org/package=gap&quot;&gt;https://cran.r-project.org/package=gap&lt;/a&gt;&lt;/p&gt;</content><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><category term="info" /><summary type="html">Updates can be seen from here, https://cran.r-project.org/web/packages/gap/ChangeLog</summary></entry><entry><title type="html">pQTLdata is spun off pQTLtools</title><link href="/2022/12/23/pQTLdata.html" rel="alternate" type="text/html" title="pQTLdata is spun off pQTLtools" /><published>2022-12-23T00:00:00+00:00</published><updated>2022-12-23T00:00:00+00:00</updated><id>/2022/12/23/pQTLdata</id><content type="html" xml:base="/2022/12/23/pQTLdata.html">&lt;p&gt;The package is available from GitHub, &lt;a href=&quot;https://github.com/jinghuazhao/pQTLdata&quot;&gt;https://github.com/jinghuazhao/pQTLdata&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -49,75 +53,4 @@
 
 &lt;h2 id=&quot;web-page-httpsjinghuazhaogithubioenbooks&quot;&gt;Web page: &lt;a href=&quot;https://jinghuazhao.github.io/en/books&quot;&gt;https://jinghuazhao.github.io/en/books&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;The original html was converted to Markdown and links to ps.gz files were dropped all for clarity.&lt;/p&gt;</content><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><category term="info" /><summary type="html"></summary></entry><entry><title type="html">世界，你好 (Hello, world)!</title><link href="/2021/02/16/hello-world.html" rel="alternate" type="text/html" title="世界，你好 (Hello, world)!" /><published>2021-02-16T00:00:00+00:00</published><updated>2021-02-16T00:00:00+00:00</updated><id>/2021/02/16/hello-world</id><content type="html" xml:base="/2021/02/16/hello-world.html">&lt;h1 id=&quot;the-jekyll-themed-site-is-up&quot;&gt;The jekyll-themed site is up!&lt;/h1&gt;
-
-&lt;p&gt;The workflow to set up&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;graph TB;
-photo --&amp;gt; |to square + to resize| docs/sunflower.jpg --&amp;gt; |to generate favicon| docs/assets
-docs/sunflower.jpg --&amp;gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
-painting --&amp;gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;graph TB;
-photo --&amp;gt; |to square + to resize| docs/sunflower.jpg --&amp;gt; |to generate favicon| docs/assets
-docs/sunflower.jpg --&amp;gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg
-painting --&amp;gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;!--more--&gt;
-
-&lt;h1 id=&quot;notes&quot;&gt;NOTES&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;13/12/2022 add-on: Fotor (&lt;a href=&quot;https://www.fotor.com/&quot;&gt;https://www.fotor.com/&lt;/a&gt;)&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;a free and great photo editing &amp;amp; graphic design resource that popular among 380 million users from 230 countries.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Old page: &lt;a href=&quot;https://jhz22.user.srcf.net/&quot;&gt;https://jhz22.user.srcf.net/&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Image at work
-    &lt;ul&gt;
-      &lt;li&gt;To square, &lt;a href=&quot;https://www.oddprints.com/edit&quot;&gt;https://www.oddprints.com/edit&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To resize JPG, &lt;a href=&quot;https://imagemagick.org/index.php&quot;&gt;https://imagemagick.org/index.php&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;convert sunflower.jpg &lt;span class=&quot;nt&quot;&gt;-resize&lt;/span&gt; 15% sun15.jpg
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Favicon
-    &lt;ul&gt;
-      &lt;li&gt;To generate favicon, &lt;a href=&quot;https://realfavicongenerator.net/&quot;&gt;https://realfavicongenerator.net/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Site logo
-    &lt;ul&gt;
-      &lt;li&gt;To generate/resize SVG, &lt;a href=&quot;https://inkscape.org/&quot;&gt;https://inkscape.org/&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To replace logo.svg at assets/image/logo and _includes/svg&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Project icon
-    &lt;ul&gt;
-      &lt;li&gt;To crop circle, &lt;a href=&quot;https://crop-circle.imageonline.co/&quot;&gt;https://crop-circle.imageonline.co/&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To generate SVG, &lt;a href=&quot;https://inkscape.org/&quot;&gt;https://inkscape.org/&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To resize SVG (simpler), &lt;a href=&quot;https://www.iloveimg.com/resize-image/resize-svg&quot;&gt;https://www.iloveimg.com/resize-image/resize-svg&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Homepage banner
-    &lt;ul&gt;
-      &lt;li&gt;To export JPG (1200dpi), &lt;a href=&quot;https://www.tracker-software.com/product/pdf-xchange-viewer&quot;&gt;https://www.tracker-software.com/product/pdf-xchange-viewer&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To crop JPG, mspaint under Windows&lt;/li&gt;
-      &lt;li&gt;To generate SVG, &lt;a href=&quot;https://convertio.co/jpg-svg/&quot;&gt;https://convertio.co/jpg-svg/&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;To resize SVG (25%), &lt;a href=&quot;https://www.iloveimg.com/resize-image/resize-svg&quot;&gt;https://www.iloveimg.com/resize-image/resize-svg&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;(()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Updated!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))();&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><category term="TeXt" /><summary type="html">The jekyll-themed site is up! The workflow to set up graph TB; photo --&amp;gt; |to square + to resize| docs/sunflower.jpg --&amp;gt; |to generate favicon| docs/assets docs/sunflower.jpg --&amp;gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg painting --&amp;gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg graph TB; photo --&amp;gt; |to square + to resize| docs/sunflower.jpg --&amp;gt; |to generate favicon| docs/assets docs/sunflower.jpg --&amp;gt; |to generate SVG + to resize SVG| _includes/logo/logo.svg painting --&amp;gt; |to crop circle + to generate SVG + to resize SVG| docs/en/*/bees.svg</summary></entry></feed>
+&lt;p&gt;The original html was converted to Markdown and links to ps.gz files were dropped all for clarity.&lt;/p&gt;</content><author><name>赵京华(Jing Hua Zhao)</name><email>jinghuazhao@hotmail.com</email></author><category term="info" /><summary type="html"></summary></entry></feed>
