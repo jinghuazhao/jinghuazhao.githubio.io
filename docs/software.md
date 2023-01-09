@@ -16,12 +16,14 @@ the [Rockefeller list of genetic software](https://github.com/gaow/genetic-analy
 [Genetic Dissection of Complex Traits *In Silico*: Approaches, Problems and Solutions](paper/cbio06.pdf).
 A summary of my recent work on mixed models is described in [Mixed Modeling with Whole Genome Data](http://www.hindawi.com/journals/jps/2012/485174/),
 [Bayesian Linear Mixed Models with Polygenic Effects](https://www.jstatsoft.org/article/view/v085i06) and also
-[Mixed-effects Cox models of alcohol dependence in extended families)](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127).
+[Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127).
 
 - GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
       - CRAN submission, [https://cran.r-project.org/submit.html](https://cran.r-project.org/submit.html)
+
       - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html))
+
       - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
