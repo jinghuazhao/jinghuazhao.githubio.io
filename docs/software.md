@@ -25,7 +25,7 @@ implemented new functions or maintained packages by colleagues into R. as report
 - GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
       - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
-      - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html),[shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html))
+      - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html), [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html))
       - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
       - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
       - CRAN submission, <https://cran.r-project.org/submit.html>
