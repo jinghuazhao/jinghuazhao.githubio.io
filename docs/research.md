@@ -35,7 +35,7 @@ I have promoted reproducible research through curation and software implementati
 
 ## Bookmarks
 
- [software collections](r-genetics.md), web site collections at
+ [software collections](r-genetics.md), [suggested web sites](suggests.md) ([suggests.txt](suggests.txt)) and collections at
  [DPHPC](dphpclinks.md),
  [MRC](mrclinks.md) with [comments](mrc/comments.txt),
  [UCL](ucllinks.md) with [comments](ucl/comments.txt),
