@@ -65,6 +65,6 @@ F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
 
 ## Projects
 
- [consortium](https://jinghuazhao.github.io/en/consortium) work,
- [other](https://jinghuazhao.github.io/en/others) projects,
+ [consortium](https://jinghuazhao.github.io/consortium) work,
+ [other](https://jinghuazhao.github.io/others) projects,
  [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
