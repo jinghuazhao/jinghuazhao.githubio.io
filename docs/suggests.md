@@ -3,7 +3,7 @@ layout: article
 title: Suggested sites
 ---
 
-## Organizations
+## Drug and substance abuse
 
 - Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
