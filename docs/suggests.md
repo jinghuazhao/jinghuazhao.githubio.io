@@ -13,7 +13,7 @@ title: Suggested sites
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 
-## Physical, Mental and Behavioral Health
+## Physical, mental and behavioral Health
 
 * Adler Health, <https://adlerhealth.com/>
 * West Valley Detox, <https://westvalleydetox.com/>
