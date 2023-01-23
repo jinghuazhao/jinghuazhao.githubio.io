@@ -32,7 +32,7 @@ implemented new functions or maintained packages by colleagues into R. as report
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) pQTLdata ([vignette](https://jinghuazhao.github.io/R/vignettes/pQTLdata.html))
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/) ([vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html),[SCALLOP-INF scripts](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html))
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/) ([vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF scripts](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html))
 - [SAS programs](sas-progs.md)
 - [Stata programs](stata-progs.md)
 
