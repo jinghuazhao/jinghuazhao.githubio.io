@@ -1,6 +1,6 @@
 ---
 layout: article
-title: C programs by Jing Hua Zhao
+title: C programs
 ---
 
 2LD, EH+, FASTEH+, GENECOUNTING, HAP can be put in the same directory

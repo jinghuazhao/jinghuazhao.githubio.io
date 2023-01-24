@@ -1,6 +1,6 @@
 ---
 layout: article
-title: R packages Maintained by Jing Hua Zhao
+title: R packages
 ---
 
 This section now has a new home, [https://jinghuazhao.github.io/R/](https://jinghuazhao.github.io/R/).

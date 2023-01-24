@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Miscellaneous programs by Jing Hua Zhao
+title: Miscellaneous programs
 ---
 
 -   **KIN**
