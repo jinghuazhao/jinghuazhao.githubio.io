@@ -1,6 +1,6 @@
 ---
 layout: article
-title: SAS programs by Jing Hua Zhao
+title: SAS programs
 ---
 
 My initiative includes [gearing up software systems for genome data, a

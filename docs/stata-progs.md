@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Stata programs by Jing Hua Zhao
+title: Stata programs
 ---
 
 The following is for Hardy-Weinberg equilibrium exact test.
