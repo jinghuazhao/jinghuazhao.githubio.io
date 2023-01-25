@@ -28,6 +28,7 @@ implemented new functions or maintained packages by colleagues into R. as report
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
         - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
         - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html), [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html))
+        - gap.datasets
         - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
         - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
         - pan ([vignette](https://jinghuazhao.github.io/R/vignettes/pan-tr.pdf))
