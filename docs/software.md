@@ -29,6 +29,9 @@ implemented new functions or maintained packages by colleagues into R. as report
         - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
         - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html), [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html))
         - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
+        - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
+        - pan ([vignette](https://jinghuazhao.github.io/R/vignettes/pan-tr.pdf))
+        - tdthap ([vignette](https://jinghuazhao.github.io/R/vignettes/tdthap-paper.pdf))
         - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
         - CRAN submission, <https://cran.r-project.org/submit.html>
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
