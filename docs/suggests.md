@@ -9,6 +9,7 @@ title: Suggested sites
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
+* Drug and Alcohol Addiction Treatment Services <https://addiction-treatment-services.com/>
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
@@ -28,4 +29,4 @@ title: Suggested sites
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 18/1/2023*
+***Created on** 12/1/2023 and **last changed** 26/1/2023*
