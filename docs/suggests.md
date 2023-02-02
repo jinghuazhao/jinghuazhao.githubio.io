@@ -7,6 +7,7 @@ title: Suggested sites
 
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
+* Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
 * Drug and Alcohol Addiction Treatment Services, <https://addiction-treatment-services.com/>
@@ -17,6 +18,7 @@ title: Suggested sites
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
+* The Freedom Center, <https://www.thefreedomcenter.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
 
 ## Physical, mental and behavioral Health
@@ -29,4 +31,4 @@ title: Suggested sites
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 26/1/2023*
+***Created on** 12/1/2023 and **last changed** 2/2/2023*
