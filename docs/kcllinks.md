@@ -23,6 +23,24 @@ Here are links to general information, E-journals, supplementary information for
 - [The Research Assessment Exercise](http://www.rae.ac.uk/) (RAE, [KCL](http://www.kcl.ac.uk/kis/college/committees/RAE2001.html))
 - [UK Universities](http://www.scit.wlv.ac.uk/ukinfo/uk.map.html) ([NISS](http://www.niss.ac.uk/sites/he-cis.html))
 
+** Other sites of general interst
+
+- 34 Great Apps and Resources to Help You Learn a Language, <https://www.ireviews.com/language-apps>
+- [ABCnews](http://abcnews.go.com/)
+- [Calendopeadia](http://www.geocities.com/calendopaedia/)
+- [Digitalglobe](http://www.digitalglobe.com/)
+- [Earthshots](http://edcwww.cr.usgs.gov/earthshots/slow/tableofcontents)
+- [Global image information](http://www.orbimage.com/)
+- [Jennifer\'s Language page](http://www.elite.net/~runner/jennifers/)
+- [Landsat 7 gateway](http://landsat.gsfc.nasa.gov/)
+- [New York Times](http://www.nytimes.com/) online
+- [Scotish law online](http://www.scottishlaw.org.uk/index.html)
+- [Space image](http://www.spaceimaging.com/)
+- [Spin-2](http://www.spin-2.com/)
+- [Spot image](http://www.spotimage.com/home/welcome.htm)
+- [Teaching English as a second or foreign language](http://www-writing.berkeley.edu/TESL-EJ/ej21/toc.html) (TESL-EJ)
+- [The Gutenberg Project](http://www.gutenberg.net/)
+
 ### Online Journals ([Journal Browser](http://www.ncbi.nlm.nih.gov/entrez/jrbrowser.cgi))
 
 - [Advances in Applied Mathematics](http://www.idealibrary.com/servlet/useragent?func=showAllIssues&curIssueID=aama) (IDEAL)
@@ -472,21 +490,6 @@ Here are links to general information, E-journals, supplementary information for
 - [South and Southeast network](http://www.shnet.edu.cn/)
 - [WTO documents](http://www.moftec.gov.cn/moftec_cn/wto/wtolaw.html)
 
-- [ABCnews](http://abcnews.go.com/)
-- [Calendopeadia](http://www.geocities.com/calendopaedia/)
-- [Digitalglobe](http://www.digitalglobe.com/)
-- [Earthshots](http://edcwww.cr.usgs.gov/earthshots/slow/tableofcontents)
-- [Global image information](http://www.orbimage.com/)
-- [Jennifer\'s Language page](http://www.elite.net/~runner/jennifers/)
-- [Landsat 7 gateway](http://landsat.gsfc.nasa.gov/)
-- [New York Times](http://www.nytimes.com/) online
-- [Scotish law online](http://www.scottishlaw.org.uk/index.html)
-- [Space image](http://www.spaceimaging.com/)
-- [Spin-2](http://www.spin-2.com/)
-- [Spot image](http://www.spotimage.com/home/welcome.htm)
-- [Teaching English as a second or foreign language](http://www-writing.berkeley.edu/TESL-EJ/ej21/toc.html) (TESL-EJ)
-- [The Gutenberg Project](http://www.gutenberg.net/)
-
 - [A Chinese poem](archive/shu-shi.gif)
 - [A poem from and for friend](archive/poemFrie.gif)
 - [Bunny](archive/bunny.jpg)
@@ -502,4 +505,4 @@ Here are links to general information, E-journals, supplementary information for
 - [Space shuttle](archive/shutt.jpg)
 - [Toil](archive/plough.jpg)
 
-***Date last modified**: 12/8/2022*
+***Date last modified**: 5/2/2023*
