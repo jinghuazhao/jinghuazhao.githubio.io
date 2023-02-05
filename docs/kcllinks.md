@@ -23,7 +23,7 @@ Here are links to general information, E-journals, supplementary information for
 - [The Research Assessment Exercise](http://www.rae.ac.uk/) (RAE, [KCL](http://www.kcl.ac.uk/kis/college/committees/RAE2001.html))
 - [UK Universities](http://www.scit.wlv.ac.uk/ukinfo/uk.map.html) ([NISS](http://www.niss.ac.uk/sites/he-cis.html))
 
-** Other sites of general interst
+## Other sites of general interst
 
 - 34 Great Apps and Resources to Help You Learn a Language, <https://www.ireviews.com/language-apps>
 - [ABCnews](http://abcnews.go.com/)
