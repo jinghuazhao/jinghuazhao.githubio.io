@@ -35,7 +35,7 @@ Here are links to general information, E-journals, supplementary information for
 - [New York Times](http://www.nytimes.com/) online
 - [Scotish law online](http://www.scottishlaw.org.uk/index.html)
 - [Space image](http://www.spaceimaging.com/)
-- [The Gutenberg Project](http://www.gutenberg.net/)
+- [The Gutenberg Project](https://www.gutenberg.org/)
 
 ### Online Journals ([Journal Browser](http://www.ncbi.nlm.nih.gov/entrez/jrbrowser.cgi))
 
