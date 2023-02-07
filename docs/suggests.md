@@ -13,6 +13,7 @@ title: Suggested sites
 * Drug and Alcohol Addiction Treatment Services, <https://addiction-treatment-services.com/>
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
+* Jay Walker Lodge, <https://jaywalkerlodge.com/>
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
@@ -31,4 +32,4 @@ title: Suggested sites
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 2/2/2023*
+***Created on** 12/1/2023 and **last changed** 7/2/2023*
