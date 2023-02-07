@@ -27,18 +27,14 @@ Here are links to general information, E-journals, supplementary information for
 
 - 34 Great Apps and Resources to Help You Learn a Language, <https://www.ireviews.com/language-apps>
 - [ABCnews](http://abcnews.go.com/)
-- [Calendopeadia](http://www.geocities.com/calendopaedia/)
+- [Calendopeadia](https://www.calendarpedia.co.uk/)
 - [Digitalglobe](http://www.digitalglobe.com/)
-- [Earthshots](http://edcwww.cr.usgs.gov/earthshots/slow/tableofcontents)
-- [Global image information](http://www.orbimage.com/)
-- [Jennifer\'s Language page](http://www.elite.net/~runner/jennifers/)
-- [Landsat 7 gateway](http://landsat.gsfc.nasa.gov/)
+- [Earthshots](https://earthshotprize.org/)
+- [Jennifer\'s Language page](https://users.elite.net/runner/jennifers/)
+- [Landsat 7 gateway](https://www.eoportal.org/satellite-missions/landsat-7)
 - [New York Times](http://www.nytimes.com/) online
 - [Scotish law online](http://www.scottishlaw.org.uk/index.html)
 - [Space image](http://www.spaceimaging.com/)
-- [Spin-2](http://www.spin-2.com/)
-- [Spot image](http://www.spotimage.com/home/welcome.htm)
-- [Teaching English as a second or foreign language](http://www-writing.berkeley.edu/TESL-EJ/ej21/toc.html) (TESL-EJ)
 - [The Gutenberg Project](http://www.gutenberg.net/)
 
 ### Online Journals ([Journal Browser](http://www.ncbi.nlm.nih.gov/entrez/jrbrowser.cgi))
@@ -505,4 +501,4 @@ Here are links to general information, E-journals, supplementary information for
 - [Space shuttle](archive/shutt.jpg)
 - [Toil](archive/plough.jpg)
 
-***Date last modified**: 5/2/2023*
+***Date last modified**: 7/2/2023*
