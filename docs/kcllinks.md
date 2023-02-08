@@ -11,8 +11,7 @@ Here are links to general information, E-journals, supplementary information for
 - [Britannica](http://www.britannica.com/)
 - [MicroSoft World English Dictionary](http://dictionary.msn.com/)([Encyclopedia](http://encarta.msn.com/))
 - [Oxford English Dictionary (OED) online](http://dictionary.oed.com/entrance.dtl)
-- [Dictionnaire Francais Anglais](http://umr6061.univ-rennes1.fr/) and [Word Reference](http://wordreference.com/)
-
+- [Dictionnaire anglais-francais](https://dictionary.cambridge.org/fr/dictionnaire/anglais-francais/) and [Word Reference](http://wordreference.com/)
 - UK map ([multimap](http://www.multimap.com/), [streetmap](http://www.streetmap.co.uk/)) and [railtrack](http://www.railtrack.co.uk/)
 - [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi), [Journals](http://www.ncbi.nlm.nih.gov/PubMed/fulltext.html), [Gateway](http://gateway.nlm.nih.gov/gw/Cmd) and [Workbench](http://www.cshl.org/medline/) (National Library of Medicine)
 - [Find articles]https://www.findarticles.com/)
@@ -501,4 +500,4 @@ Here are links to general information, E-journals, supplementary information for
 - [Space shuttle](archive/shutt.jpg)
 - [Toil](archive/plough.jpg)
 
-***Date last modified**: 7/2/2023*
+***Date last modified**: 8/2/2023*
