@@ -14,7 +14,7 @@ Here are links to general information, E-journals, supplementary information for
 - [Dictionnaire anglais-francais](https://dictionary.cambridge.org/fr/dictionnaire/anglais-francais/) and [Word Reference](http://wordreference.com/)
 - UK map ([multimap](http://www.multimap.com/), [streetmap](http://www.streetmap.co.uk/)) and [railtrack](http://www.railtrack.co.uk/)
 - [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi), [Journals](http://www.ncbi.nlm.nih.gov/PubMed/fulltext.html), [Gateway](http://gateway.nlm.nih.gov/gw/Cmd) and [Workbench](http://www.cshl.org/medline/) (National Library of Medicine)
-- [Find articles]https://www.findarticles.com/)
+- [Find articles](https://www.findarticles.com/)
 - [Blackwell](http://www.blackwellpublishers.co.uk/asp/listofj.asp), [Cambridge](http://uk.cambridge.org/journals/), [Elsevier](http://www.sciencedirect.com/science?_ob=JournalListURL&_type=all&_stype=&_subjColl=all&_auth=y&_update=y&_acct=C000010000&_version=1&_urlVersion=0&_userid=121727&md5=bddf0b25a79cfc82f33c92851f441bee), [IDEAL](http://www.idealibrary.com/servlet/useragent?func=showBrowse&switchFrame=/browse/index.jsp), [Kluver](http://www.wkap.nl/journal/), [Oxford](http://www3.oup.co.uk/jnls/list/), [Springer](http://link.springer.de/ol/index.htm) & [Wiley](http://www3.interscience.wiley.com/cgi-bin/browsepj) journals
 - [WWW virtual library](http://vlib.org/Overview.html)
 - [The Higher Education Funding Council for England](http://www.hefce.ac.uk/) (HEFCE)
