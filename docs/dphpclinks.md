@@ -97,7 +97,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Devon & Cornwall Police](https://www.devon-cornwall.police.uk/) ([UKROEd](https://www.ukroed.org.uk/), [Information Commissioner's Office](https://ico.org.uk/))
 - [Dart Charge](https://www.gov.uk/dart-charge)
 - [Encore Estates](https://portal.encoreestates.co.uk/)
-- GP patient survey, [www.gp-patient.co.uk/survey](www.gp-patient.co.uk/survey)
+- GP patient survey, [https://www.gp-patient.co.uk/survey](https://www.gp-patient.co.uk/survey)
 - [Greater Anglia](https://www.greateranglia.co.uk/) [parking portal](https://gaparking.co.uk/#home)
 - [giffgaff](https://www.giffgaff.com/) ([account](https://www.giffgaff.com/auth/login?redirect=%2Fdashboard))
 - [jetcost](https://www.jetcost.co.uk/)
