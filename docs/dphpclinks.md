@@ -6,7 +6,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 ## 101 resources
 
 - [APKmirror](https://www.apkmirror.com/)
-- [Barclays](https://www.barclays.co.uk/)
+- [Barclays](https://www.barclays.co.uk/) ([App](https://www.barclays.co.uk/app))
 - [BBC](https://www.bbc.co.uk/)
   * [bitesize](https://www.bbc.co.uk/bitesize)
   * [CB1](https://www.bbc.co.uk/weather/cb1)
