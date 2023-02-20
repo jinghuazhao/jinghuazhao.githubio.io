@@ -32,13 +32,14 @@ implemented new functions or maintained packages by colleagues into R. as report
         - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
         - pan ([vignette](https://jinghuazhao.github.io/R/vignettes/pan-tr.pdf))
         - tdthap ([vignette](https://jinghuazhao.github.io/R/vignettes/tdthap-paper.pdf))
-          - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
-          - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
-          - CRAN submission, <https://cran.r-project.org/submit.html>
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) pQTLdata ([vignette](https://jinghuazhao.github.io/R/vignettes/pQTLdata.html))
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/) ([vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html), [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html))
+5. JumpStart sites
+   - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
+   - CRAN submission, <https://cran.r-project.org/submit.html>
+   - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
 
 I also made a [University of London](http://www.lon.ac.uk/) [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
 together with [Endnote](http://www.endnote.com/) [genetic reference library](iop/jinghua/refs/genetics.enl)
