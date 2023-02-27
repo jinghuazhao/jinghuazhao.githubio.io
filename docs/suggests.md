@@ -17,6 +17,7 @@ title: Suggested sites
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
+* Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
@@ -32,4 +33,4 @@ title: Suggested sites
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 7/2/2023*
+***Created on** 12/1/2023 and **last changed** 27/2/2023*
