@@ -25,7 +25,6 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Tax relief for expenses of employment](https://www.tax.service.gov.uk/digital-forms/form/tax-relief-for-expenses-of-employment/draft/guide)
 - [Hotmail](https://outlook.live.com/owa/)
 - [INBO tutorials](https://inbo.github.io/tutorials/)
-- [JabRef](https://www.jabref.org/), <https://zbib.org/> and <https://lead.to/amazon/uk/>
 - [jqplay](https://jqplay.org/)
 - [Merriam-Webster dictionary](https://www.merriam-webster.com/)
 - [MicroSoft](https://www.microsoft.com/)
@@ -33,9 +32,13 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
   * [Sway](https://sway.office.com/)
 - [Mozilla](https://www.mozilla.org/en-GB/about/)
-- [MyEndNoteWeb](http://www.myendnoteweb.com)
 - [MySQL](https://dev.mysql.com/)
 - [Nationwide](https://www.nationwide.co.uk/)
+- Reference management
+  - JabRef, <https://www.jabref.org/>
+  - Lead2Amazon, <https://lead.to/amazon/uk/>
+  - MyEndNoteWeb, <http://www.myendnoteweb.com>
+  - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
 - [RStudio](https://www.rstudio.com/) [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
 - [Springer Link](https://link.springer.com/)
 - [slack](https://systems-genomics.slack.com/)
@@ -167,4 +170,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 26/2/2023*
+***Created on** 3/5/2021 and **last changed** 27/2/2023*
