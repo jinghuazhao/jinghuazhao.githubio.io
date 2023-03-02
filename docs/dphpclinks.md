@@ -83,7 +83,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 
 ## Local information
 
-- Active lives survey, <www.activelivessurvey.org>
+- Active lives survey, <https://www.activelivessurvey.org>
 - Addenbrookes [facebook](https://en-gb.facebook.com/CambridgeUniversityHospitals/), [Volunteering at CUH](https://twitter.com/cuh_volunteers?lang=en)
 - [Alina](https://www.alina.co.uk/)
 - [Bletchly Park](https://bletchleypark.org.uk/)
