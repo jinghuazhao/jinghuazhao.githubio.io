@@ -83,7 +83,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 
 ## Local information
 
-- Active lives survey, <https://www.activelivessurvey.org>
+- Active lives survey, <https://www.activelivessurvey.org> (Email: activelives@ipsos.com, Tel: 0808 129 6801)
 - Addenbrookes [facebook](https://en-gb.facebook.com/CambridgeUniversityHospitals/), [Volunteering at CUH](https://twitter.com/cuh_volunteers?lang=en)
 - [Alina](https://www.alina.co.uk/)
 - [Bletchly Park](https://bletchleypark.org.uk/)
