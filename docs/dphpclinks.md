@@ -134,6 +134,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Term dates](https://www.perse.co.uk/term-dates/)
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
+- Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - [VFS appointment](https://www.vfsglobal.com/Denmark/UK/Schedule_an_appointment.html)
 
 ## Online utilities/software
