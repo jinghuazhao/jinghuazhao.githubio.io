@@ -141,6 +141,8 @@ title: Jing Hua Zhao's virtual library at DPHPC
 
 - [Adobe online](https://www.adobe.com/uk/acrobat/online.html)
 - [AuthorArranger](https://authorarranger.nci.nih.gov/)
+- CS rankings, <https://csrankings.org/>
+- CRA, <https://cra.org/>
 - [DjVuLibre](http://djvu.sourceforge.net/)
 - [djvu.org](http://djvu.org)
 - [foxit](https://www.foxitsoftware.com/)
@@ -148,6 +150,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [MConverter](https://mconverter.eu/) ([docx2html](https://mconverter.eu/convert/docx/html/))
 - [OddPrints](https://www.oddprints.com/)
 - [Online2PDF](https://online2pdf.com/docx2pdf)
+- Paper with code, <https://paperswithcode.com/>
 - [pdf24](https://en.pdf24.org/)
 - [pdf2djvu](https://pdf2djvu.com/)
 - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
@@ -174,4 +177,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 3/3/2023*
+***Created on** 3/5/2021 and **last changed** 6/3/2023*
