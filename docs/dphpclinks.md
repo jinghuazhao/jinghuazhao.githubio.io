@@ -147,6 +147,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - Handbook of Statistics, <https://www.sciencedirect.com/handbook/handbook-of-statistics>
     - Merriam-Webster dictionary, <https://www.merriam-webster.com/>
     - Springer Link, <https://link.springer.com/>
+    - The book of statistical proofs, <https://statproofbook.github.io/>
   - Reference management
     - AuthorArranger, <https://authorarranger.nci.nih.gov/>
     - JabRef, <https://www.jabref.org/>
