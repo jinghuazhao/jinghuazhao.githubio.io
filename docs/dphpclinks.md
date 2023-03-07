@@ -25,7 +25,6 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * booking a vaccine, [https://www.nhs.uk/covid-vaccination](https://www.nhs.uk/covid-vaccination)
   * booster vaccine, [https:///www.nhs.uk/book-covid-booster](https:///www.nhs.uk/book-covid-booster)
   * nearby walk-in services, [https:///www.nhs.uk/grab-a-jab](https:///www.nhs.uk/grab-a-jab)
-- [CyberChef](https://gchq.github.io/CyberChef/)
 - [Devon & Cornwall Police](https://www.devon-cornwall.police.uk/) ([UKROEd](https://www.ukroed.org.uk/), [Information Commissioner's Office](https://ico.org.uk/))
 - [Dart Charge](https://www.gov.uk/dart-charge)
 - DVLA ([Sold, transferred or bought a vehicle](https://www.gov.uk/sold-bought-vehicle), [vehicle-tax](https://www.gov.uk/vehicle-tax) ([direct debit](https://www.gov.uk/vehicle-tax-direct-debit)), [Contact](https://www.gov.uk/contact-the-dvla))
@@ -79,79 +78,80 @@ title: Jing Hua Zhao's virtual library at DPHPC
 ## Computing resources
 
   - Genetics sites
-    - [Bioconductor support](https://support.bioconductor.org/)
-    - [https://cellprofiler.org/](https://cellprofiler.org/)
-    - [CoffeeProt](https://coffeeprot.com/)
-    - [hail](https://hail.is/index.html)
-    - [LocusTrack](https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html)
-    - [GATK](https://gatk.broadinstitute.org/hc/en-us)
-    - [GBMI](https://www.globalbiobankmeta.org/resources)
-    - [GTEx](https://gtexportal.org/home/datasets)
-    - [GWAS atlas](https://atlas.ctglab.nl/traitDB)
-    - [GWAS Catalog](https://www.ebi.ac.uk/gwas/)
-    - [GWAS Central](https://www.gwascentral.org/)
-    - [NCBI](https://www.ncbi.nlm.nih.gov/)
-    - [PGSCatalog](http://www.pgscatalog.org/) ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
-    - [PLINK2 mailing list](https://groups.google.com/g/plink2-users)
+    - Bioconductor support, <https://support.bioconductor.org/>
+    - https://cellprofiler.org/, <https://cellprofiler.org/>
+    - CoffeeProt, <https://coffeeprot.com/>
+    - hail, <https://hail.is/index.html>
+    - LocusTrack, <https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html>
+    - GATK, <https://gatk.broadinstitute.org/hc/en-us>
+    - GBMI, <https://www.globalbiobankmeta.org/resources>
+    - GTEx, <https://gtexportal.org/home/datasets>
+    - GWAS atlas, <https://atlas.ctglab.nl/traitDB>
+    - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
+    - GWAS Central, <https://www.gwascentral.org/>
+    - NCBI, <https://www.ncbi.nlm.nih.gov/>
+    - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
+    - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
+    - Systems-Genomics, <https://systems-genomics.slack.com/>
   - Linux sites
     - [Entroware](https://www.entroware.com/store/index.php)
-    - [Fedora](https://getfedora.org/)
-    - [GNU parallel](https://www.biostars.org/p/63816/)
-    - [linuxconfig.org](https://linuxconfig.org/)
-    - [Linux command](https://wangchujiang.com/linux-command/)
-    - [mythic-beasts](https://www.mythic-beasts.com/)
-    - [OBI download](https://www.oracle.com/middleware/technologies/business-intelligence-v12213-downloads.html)
-    - [SRCF](https://www.srcf.net/) [site](https://jhz22.user.srcf.net/)
-    - [VirtualBox](https://www.virtualbox.org/) ([all downloads](https://download.virtualbox.org/virtualbox/))
+    - Fedora, <https://getfedora.org/>
+    - GNU parallel, <https://www.biostars.org/p/63816/>
+    - linuxconfig.org, <https://linuxconfig.org/>
+    - Linux command, <https://wangchujiang.com/linux-command/>
+    - mythic-beasts, <https://www.mythic-beasts.com/>
+    - OBI download, <https://www.oracle.com/middleware/technologies/business-intelligence-v12213-downloads.html>
+    - SRCF, <https://www.srcf.net/> (site, https://jhz22.user.srcf.net/>)
+    - VirtualBox, <https://www.virtualbox.org/> (all downloads, <https://download.virtualbox.org/virtualbox/>)
   - Online utilities/software
-    - [Adobe online](https://www.adobe.com/uk/acrobat/online.html)
-    - [DjVuLibre](http://djvu.sourceforge.net/)
-    - [djvu.org](http://djvu.org)
-    - [foxit](https://www.foxitsoftware.com/)
-    - [iLovePDF](https://www.ilovepdf.com/)
-    - [INBO tutorials](https://inbo.github.io/tutorials/)
-    - [jqplay](https://jqplay.org/)
-    - [MConverter](https://mconverter.eu/) ([docx2html](https://mconverter.eu/convert/docx/html/))
-    - [OddPrints](https://www.oddprints.com/)
-    - [Online2PDF](https://online2pdf.com/docx2pdf)
-    - [pdf24](https://en.pdf24.org/)
-    - [pdf2djvu](https://pdf2djvu.com/)
-    - [RStudio](https://www.rstudio.com/) [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
-    - [slack](https://systems-genomics.slack.com/)
-    - [Speedtest](https://www.speedtest.net/)
-    - [text-utils](https://www.text-utils.com/)
-    - [time.is](https://time.is/)
-    - [Typora](https://typora.io/)
-    - [yozosoft](https://www.yozosoft.com/)
+    - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
+    - DjVuLibre, <http://djvu.sourceforge.net/>
+    - djvu.org, <http://djvu.org>
+    - foxit, <https://www.foxitsoftware.com/>
+    - iLovePDF, <https://www.ilovepdf.com/>
+    - INBO tutorials, <https://inbo.github.io/tutorials/>
+    - jqplay, <https://jqplay.org/>
+    - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
+    - OddPrints, <https://www.oddprints.com/>
+    - Online2PDF, <https://online2pdf.com/docx2pdf>
+    - pdf24, <https://en.pdf24.org/>
+    - pdf2djvu, <https://pdf2djvu.com/>
+    - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
+    - Speedtest, <https://www.speedtest.net/>
+    - text-utils, <https://www.text-utils.com/>
+    - time.is, <https://time.is/>
+    - Typora, <https://typora.io/>
+    - yozosoft, <https://www.yozosoft.com/>
   - Organisations
-    - [APKmirror](https://www.apkmirror.com/)
+    - APKmirror, <https://www.apkmirror.com/>
     - CRA, <https://cra.org/>
-    - [CRAN](https://cran.r-project.org/)
+    - CRAN, <https://cran.r-project.org/>
     - CS rankings, <https://csrankings.org/>
-    - [Google](https://www.google.co.uk/)
+    - CyberChef, <https://gchq.github.io/CyberChef/>
+    - Google, <https://www.google.co.uk/>
         * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
         * [Search console](https://search.google.com/search-console/about)
         * [Translate](https://translate.google.co.uk/)
-    - [MicroSoft](https://www.microsoft.com/)
+    - MicroSoft, <https://www.microsoft.com/>
         * [Bing webmaster tool](https://www.bing.com/webmasters/about)
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * [Hotmail](https://outlook.live.com/owa/)
         * [Sway](https://sway.office.com/)
-    - [Mozilla](https://www.mozilla.org/en-GB/about/)
-    - [MySQL](https://dev.mysql.com/)
+    - Mozilla, <https://www.mozilla.org/en-GB/about/>
+    - MySQL, <https://dev.mysql.com/>
     - Paper with code, <https://paperswithcode.com/>
-    - [zenodo](https://zenodo.org/)
+    - zenodo, <https://zenodo.org/>
   - Online publications
-    - [Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/)
-    - [Handbook of Statistics](https://www.sciencedirect.com/handbook/handbook-of-statistics)
-    - [Merriam-Webster dictionary](https://www.merriam-webster.com/)
-    - [Springer Link](https://link.springer.com/)
+    - Cambridge English Dictionary, <https://dictionary.cambridge.org/dictionary/>
+    - Handbook of Statistics, <https://www.sciencedirect.com/handbook/handbook-of-statistics>
+    - Merriam-Webster dictionary, <https://www.merriam-webster.com/>
+    - Springer Link, <https://link.springer.com/>
   - Reference management
-    - [AuthorArranger](https://authorarranger.nci.nih.gov/)
+    - AuthorArranger, <https://authorarranger.nci.nih.gov/>
     - JabRef, <https://www.jabref.org/>
     - Lead2Amazon, <https://lead.to/amazon/uk/>
     - MyEndNoteWeb, <http://www.myendnoteweb.com>
-    - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+    - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
     - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
     - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
 
