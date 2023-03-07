@@ -41,8 +41,8 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - jetcost, <https://www.jetcost.co.uk/>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
-- MRC
-  * [Pension scheme](https://www.mrcps.co.uk/) ([mercer](https://contact.mercer.com/))
+- MRC, <https://www.ukri.org/councils/mrc/>
+  * Pension scheme, <https://www.mrcps.co.uk/> ([mercer](https://contact.mercer.com/))
 - Marks out of tenancy, <https://www.marksoutoftenancy.com/>
 - National Driver Offender Retraining Scheme (NDORS)
   * Educational course, <https://offer.ndors.org.uk/> including record access & [feedback](https://www.smartsurvey.co.uk/s/NDORSCourseFeedback/)
@@ -68,9 +68,9 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - University, <https://www.cam.ac.uk/>
-   * [cmih](https://www.cmih.maths.cam.ac.uk/)
-   * [DPHPC](https://www.phpc.cam.ac.uk/) [PeopleHR](https://dphpc.peoplehr.net/) and [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/)
-   * [medschl login](https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx)
+   * cmih, <https://www.cmih.maths.cam.ac.uk/>
+   * DPHPC, <https://www.phpc.cam.ac.uk/> (PeopleHR, <https://dphpc.peoplehr.net/> and PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>)
+   * medschl login, <https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx>
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
    * [Self-Employment Service (ESS)](https://www.hr.admin.cam.ac.uk/hr-staff/information-new-starters/employee-self-service-ess)
 - [VFS appointment](https://www.vfsglobal.com/Denmark/UK/Schedule_an_appointment.html)
@@ -112,6 +112,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - INBO tutorials, <https://inbo.github.io/tutorials/>
     - jqplay, <https://jqplay.org/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
+    - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
     - OddPrints, <https://www.oddprints.com/>
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
