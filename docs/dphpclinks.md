@@ -18,7 +18,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - Boardingware, <https://www.boardingware.com/>
 - Cambridge
   * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
-  * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (https://www.cambridgeshire.gov.uk/buslane)
+  * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
   * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), account [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
 - COVID-19 vaccine
@@ -94,7 +94,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
   - Linux sites
-    - [Entroware](https://www.entroware.com/store/index.php)
+    - Entroware, <https://www.entroware.com/store/index.php>
     - Fedora, <https://getfedora.org/>
     - GNU parallel, <https://www.biostars.org/p/63816/>
     - linuxconfig.org, <https://linuxconfig.org/>
