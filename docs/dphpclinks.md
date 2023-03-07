@@ -7,51 +7,51 @@ title: Jing Hua Zhao's virtual library at DPHPC
 
 - Active lives survey, <https://www.activelivessurvey.org> (Email: <a href = "mailto:activelives@ipsos.com">activelives@ipsos.com</a>, Tel: <a href="tel:+448081296801">0808 129 6801</a>)
 - Addenbrookes [facebook](https://en-gb.facebook.com/CambridgeUniversityHospitals/), [Volunteering at CUH](https://twitter.com/cuh_volunteers?lang=en)
-- [Alina](https://www.alina.co.uk/)
-- [Barclays](https://www.barclays.co.uk/) ([App](https://www.barclays.co.uk/app))
-- [BBC](https://www.bbc.co.uk/)
-  * [bitesize](https://www.bbc.co.uk/bitesize)
-  * [CB1](https://www.bbc.co.uk/weather/cb1)
-  * [CB2](https://www.bbc.co.uk/weather/cb2)
-- [Bletchly Park](https://bletchleypark.org.uk/)
+- Alina, <https://www.alina.co.uk/>
+- Barclays, <https://www.barclays.co.uk/> (App, <https://www.barclays.co.uk/app>)
+- BBC, <https://www.bbc.co.uk/>
+  * bitesize, <https://www.bbc.co.uk/bitesize>
+  * Weather CB1, <https://www.bbc.co.uk/weather/cb1>
+  * weather CB2, <https://www.bbc.co.uk/weather/cb2>
+- Bletchly Park, <https://bletchleypark.org.uk/>
 - B&Q [clubcard](https://www.diy.com/customer/my_account/members)
 - [Boardingware](https://www.boardingware.com/)
 - Cambridge
-  * [Cambridge City Council](https://www.cambridge.gov.uk/)  bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
+  * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
+  * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (https://www.cambridgeshire.gov.uk/buslane)
+  * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), account [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
-- [Cambridgeshire County Council](https://www.cambridgeshire.gov.uk/) (https://www.cambridgeshire.gov.uk/buslane)
-- [Cambridge Water](https://www.cambridge-water.co.uk) ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), account [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
 - COVID-19 vaccine
   * booking a vaccine, [https://www.nhs.uk/covid-vaccination](https://www.nhs.uk/covid-vaccination)
   * booster vaccine, [https:///www.nhs.uk/book-covid-booster](https:///www.nhs.uk/book-covid-booster)
   * nearby walk-in services, [https:///www.nhs.uk/grab-a-jab](https:///www.nhs.uk/grab-a-jab)
-- [Devon & Cornwall Police](https://www.devon-cornwall.police.uk/) ([UKROEd](https://www.ukroed.org.uk/), [Information Commissioner's Office](https://ico.org.uk/))
-- [Dart Charge](https://www.gov.uk/dart-charge)
+- Devon & Cornwall Police, <https://www.devon-cornwall.police.uk/> ([UKROEd](https://www.ukroed.org.uk/), [Information Commissioner's Office](https://ico.org.uk/))
+- Dart Charge, <https://www.gov.uk/dart-charge>
 - DVLA ([Sold, transferred or bought a vehicle](https://www.gov.uk/sold-bought-vehicle), [vehicle-tax](https://www.gov.uk/vehicle-tax) ([direct debit](https://www.gov.uk/vehicle-tax-direct-debit)), [Contact](https://www.gov.uk/contact-the-dvla))
-- [Encore Estates](https://portal.encoreestates.co.uk/)
+- Encore Estates, <https://portal.encoreestates.co.uk/>
 - GP patient survey, [https://www.gp-patient.co.uk/survey](https://www.gp-patient.co.uk/survey)
-- [Greater Anglia](https://www.greateranglia.co.uk/) [parking portal](https://gaparking.co.uk/#home)
-- [giffgaff](https://www.giffgaff.com/) ([account](https://www.giffgaff.com/auth/login?redirect=%2Fdashboard))
+- Greater Anglia, <https://www.greateranglia.co.uk/> [parking portal](https://gaparking.co.uk/#home)
+- giffgaff, <https://www.giffgaff.com/> ([account](https://www.giffgaff.com/auth/login?redirect=%2Fdashboard))
 - HMRC [Sign in using Government Gateway](https://www.access.service.gov.uk/login/signin/creds)
   * [Approved professional organisations and learned societies](https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3/approved-professional-organisations-and-learned-societies#r)
   * Payment, <https://www.gov.uk/pay-self-assessment-tax-bill>
   * Personal account, <https://www.tax.service.gov.uk/personal-account>
   * Register for Self Assessment Online, <https://www.online.hmrc.gov.uk/>
   * [Tax relief for expenses of employment](https://www.tax.service.gov.uk/digital-forms/form/tax-relief-for-expenses-of-employment/draft/guide)
-- [jetcost](https://www.jetcost.co.uk/)
+- jetcost, <https://www.jetcost.co.uk/>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
 - MRC
   * [Pension scheme](https://www.mrcps.co.uk/) ([mercer](https://contact.mercer.com/))
-- [Marks out of tenancy](https://www.marksoutoftenancy.com/)
+- Marks out of tenancy, <https://www.marksoutoftenancy.com/>
 - National Driver Offender Retraining Scheme (NDORS)
-  * [Educational course](https://offer.ndors.org.uk/) including record access & [feedback](https://www.smartsurvey.co.uk/s/NDORSCourseFeedback/)
-  * [Penalty Notice Portal](https://penaltynotice.homeoffice.gov.uk/)
-- [Nationwide](https://www.nationwide.co.uk/)
+  * Educational course, <https://offer.ndors.org.uk/> including record access & [feedback](https://www.smartsurvey.co.uk/s/NDORSCourseFeedback/)
+  * Penalty Notice Portal, <https://penaltynotice.homeoffice.gov.uk/>
+- Nationwide, <https://www.nationwide.co.uk/>
 - [Nine Wells - MyPropertyOnline](https://portal.encoreestates.co.uk/)
-- [Schengen visa requirement](https://www.schengenvisainfo.com/schengen-visa-application-requirements/)
-- [Tax service](https://www.tax.service.gov.uk/personal-account) ([tax relief](https://www.gov.uk/tax-relief-for-employees))
-- [The Perse School](https://www.perse.co.uk/)
+- Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
+- Tax service, <https://www.tax.service.gov.uk/personal-account> ([tax relief](https://www.gov.uk/tax-relief-for-employees))
+- The Perse School, <https://www.perse.co.uk/>
   * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
   * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
   * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
@@ -67,7 +67,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
-- [University](https://www.cam.ac.uk/)
+- University, <https://www.cam.ac.uk/>
    * [cmih](https://www.cmih.maths.cam.ac.uk/)
    * [DPHPC](https://www.phpc.cam.ac.uk/) [PeopleHR](https://dphpc.peoplehr.net/) and [PhenoScanner](http://www.phenoscanner.medschl.cam.ac.uk/)
    * [medschl login](https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx)
@@ -160,17 +160,17 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - Chinese sites
-  * [CCTV](https://tv.cctv.com/)
+  * CCTV, <https://tv.cctv.com/>
   * Chinese Embassy [FAQ](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/zyxx/t1836400.htm) and [Passport/Travel certificatte](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/t1827718.htm)
-  * [gaokao](http://114.xixik.com/gaokao/)
-  * [GWXX](https://www.guwenxuexi.com/)
+  * gaokao, <http://114.xixik.com/gaokao/>
+  * GWXX, <https://www.guwenxuexi.com/>
   * [History of China](https://www.youtube.com/playlist?app=desktop&list=PLL8DPLaffjgC8-TUhfrSw-9ZHwRwLu5Rl)
   * NIA [rzsq](https://rzsq.nia.gov.cn/login), [zwfw](https://s.nia.gov.cn/mps/main.html)
-  * [toutiao](https://www.toutiao.com/)
-  * [ysyy](https://app.cctv.com/)
+  * toutiao, <https://www.toutiao.com/>
+  * ysyy, <https://app.cctv.com/>
 - Danish sites
-  * [dtb](http://dtb.cpr.ku.dk/)
-  * [itslearning](https://sdu.itslearning.com) (itsl-jhzh)
+  * dtb, <http://dtb.cpr.ku.dk/>
+  * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
