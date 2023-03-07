@@ -62,7 +62,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
     : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
     : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
-  * [School Photograph Company](https://orders.schoolphotographs.co.uk/tspc/Home)
+  * School Photograph Company, <https://orders.schoolphotographs.co.uk/tspc/Home>
   * Term dates, <https://www.perse.co.uk/term-dates/>
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
@@ -173,7 +173,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - Danish sites
   * dtb, <http://dtb.cpr.ku.dk/>
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
-- [honey.town.milky)](https://what3words.com/honey.town.milky)
-- [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
+- honey.town.milky, <https://what3words.com/honey.town.milky>
+- US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
 ***Created on** 3/5/2021 and **last changed** 7/3/2023*
