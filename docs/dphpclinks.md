@@ -14,8 +14,8 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * Weather CB1, <https://www.bbc.co.uk/weather/cb1>
   * weather CB2, <https://www.bbc.co.uk/weather/cb2>
 - Bletchly Park, <https://bletchleypark.org.uk/>
-- B&Q [clubcard](https://www.diy.com/customer/my_account/members)
-- [Boardingware](https://www.boardingware.com/)
+- B&Q clubcard, <https://www.diy.com/customer/my_account/members>
+- Boardingware, <https://www.boardingware.com/>
 - Cambridge
   * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (https://www.cambridgeshire.gov.uk/buslane)
@@ -32,7 +32,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - GP patient survey, [https://www.gp-patient.co.uk/survey](https://www.gp-patient.co.uk/survey)
 - Greater Anglia, <https://www.greateranglia.co.uk/> [parking portal](https://gaparking.co.uk/#home)
 - giffgaff, <https://www.giffgaff.com/> ([account](https://www.giffgaff.com/auth/login?redirect=%2Fdashboard))
-- HMRC [Sign in using Government Gateway](https://www.access.service.gov.uk/login/signin/creds)
+- HMRC Sign in using Government Gateway, <https://www.access.service.gov.uk/login/signin/creds>
   * [Approved professional organisations and learned societies](https://www.gov.uk/government/publications/professional-bodies-approved-for-tax-relief-list-3/approved-professional-organisations-and-learned-societies#r)
   * Payment, <https://www.gov.uk/pay-self-assessment-tax-bill>
   * Personal account, <https://www.tax.service.gov.uk/personal-account>
@@ -56,14 +56,14 @@ title: Jing Hua Zhao's virtual library at DPHPC
   * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
   * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
   * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
-  * [ParentPay](https://www.parentpay.com/)
+  * ParentPay, <https://www.parentpay.com/>
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
   * Recommended websites and helplines for support
     : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
     : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
     : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * [School Photograph Company](https://orders.schoolphotographs.co.uk/tspc/Home)
-  * [Term dates](https://www.perse.co.uk/term-dates/)
+  * Term dates, <https://www.perse.co.uk/term-dates/>
   * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
