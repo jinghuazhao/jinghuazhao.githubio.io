@@ -40,6 +40,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
   - JabRef, <https://www.jabref.org/>
   - Lead2Amazon, <https://lead.to/amazon/uk/>
   - MyEndNoteWeb, <http://www.myendnoteweb.com>
+  - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
   - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
 - [RStudio](https://www.rstudio.com/) [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
 - [Springer Link](https://link.springer.com/)
@@ -153,7 +154,6 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - Paper with code, <https://paperswithcode.com/>
 - [pdf24](https://en.pdf24.org/)
 - [pdf2djvu](https://pdf2djvu.com/)
-- Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
 - [text-utils](https://www.text-utils.com/)
 - [Typora](https://typora.io/)
 - [yozosoft](https://www.yozosoft.com/)
@@ -177,4 +177,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [honey.town.milky)](https://what3words.com/honey.town.milky)
 - [US election 2020](https://www.bbc.co.uk/news/election/us2020/results)
 
-***Created on** 3/5/2021 and **last changed** 6/3/2023*
+***Created on** 3/5/2021 and **last changed** 7/3/2023*
