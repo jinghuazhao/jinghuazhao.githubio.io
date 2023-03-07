@@ -131,13 +131,13 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - CyberChef, <https://gchq.github.io/CyberChef/>
     - Google, <https://www.google.co.uk/>
         * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
-        * [Search console](https://search.google.com/search-console/about)
-        * [Translate](https://translate.google.co.uk/)
+        * Search console, <https://search.google.com/search-console/about>
+        * Translate, <https://translate.google.co.uk/>
     - MicroSoft, <https://www.microsoft.com/>
-        * [Bing webmaster tool](https://www.bing.com/webmasters/about)
+        * Bing webmaster tool, <https://www.bing.com/webmasters/about>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
-        * [Hotmail](https://outlook.live.com/owa/)
-        * [Sway](https://sway.office.com/)
+        * Hotmail, <https://outlook.live.com/owa/>
+        * Sway, <https://sway.office.com/>
     - Mozilla, <https://www.mozilla.org/en-GB/about/>
     - MySQL, <https://dev.mysql.com/>
     - Paper with code, <https://paperswithcode.com/>
