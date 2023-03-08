@@ -51,20 +51,19 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - [Nine Wells - MyPropertyOnline](https://portal.encoreestates.co.uk/)
 - Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
 - Tax service, <https://www.tax.service.gov.uk/personal-account> ([tax relief](https://www.gov.uk/tax-relief-for-employees))
-- The Perse School, <https://www.perse.co.uk/>
-  * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
-  * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
-  * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
+- The Perse School, <https://www.perse.co.uk/>, Recommended websites and helplines for support
+  : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
+  : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
+  : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
   * ParentPay, <https://www.parentpay.com/>
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
-  * Recommended websites and helplines for support
-    : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
-    : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
-    : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * School Photograph Company, <https://orders.schoolphotographs.co.uk/tspc/Home>
   * Term dates, <https://www.perse.co.uk/term-dates/>
-  * [Upper Sixth Update -- September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
+  * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
+  * [Upper Sixth Update - September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
+  * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
+  * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - University, <https://www.cam.ac.uk/>
@@ -176,4 +175,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 7/3/2023*
+***Created on** 3/5/2021 and **last changed** 8/3/2023*
