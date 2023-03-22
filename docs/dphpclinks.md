@@ -107,6 +107,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - foxit, <https://www.foxitsoftware.com/>
+    - iLoveIMG, https://www.iloveimg.com/<>
     - iLovePDF, <https://www.ilovepdf.com/>
     - INBO tutorials, <https://inbo.github.io/tutorials/>
     - jqplay, <https://jqplay.org/>
@@ -176,4 +177,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 17/3/2023*
+***Created on** 3/5/2021 and **last changed** 22/3/2023*
