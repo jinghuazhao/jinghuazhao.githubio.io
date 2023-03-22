@@ -100,7 +100,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - Linux command, <https://wangchujiang.com/linux-command/>
     - mythic-beasts, <https://www.mythic-beasts.com/>
     - OBI download, <https://www.oracle.com/middleware/technologies/business-intelligence-v12213-downloads.html>
-    - SRCF, <https://www.srcf.net/> (site, https://jhz22.user.srcf.net/>)
+    - SRCF, <https://www.srcf.net/> (site, <https://jhz22.user.srcf.net/>)
     - VirtualBox, <https://www.virtualbox.org/> (all downloads, <https://download.virtualbox.org/virtualbox/>)
   - Online utilities/software
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
