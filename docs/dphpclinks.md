@@ -107,7 +107,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - foxit, <https://www.foxitsoftware.com/>
-    - iLoveIMG, https://www.iloveimg.com/<>
+    - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
     - INBO tutorials, <https://inbo.github.io/tutorials/>
     - jqplay, <https://jqplay.org/>
