@@ -7,12 +7,12 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  
+  zh-Hans : &ZH_HANS  书签
   zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS  书签
+  zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  
-  zh-TW   : *ZH_HANT  書籤
+  zh-Hant : &ZH_HANT  書籤  
+  zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   ko      : &KO       북마크
   ko-KR   : *KO
@@ -31,10 +31,10 @@ key: page-bookmarks
 
 - [software collections](r-genetics.md)
 - [suggested sites](suggests.md) ([suggests.txt](suggests.txt)) and collections at workplaces
-  - [DPHPC](dphpclinks.md),
-  - [MRC](mrclinks.md) with [comments](mrc/comments.txt),
-  - [UCL](ucllinks.md) with [comments](ucl/comments.txt),
-  - [KCL](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
+    - [DPHPC](dphpclinks.md),
+    - [MRC](mrclinks.md) with [comments](mrc/comments.txt),
+    - [UCL](ucllinks.md) with [comments](ucl/comments.txt),
+    - [KCL](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
     ```mermaid
     graph BT;
     e1 --> F1(Genetics);
