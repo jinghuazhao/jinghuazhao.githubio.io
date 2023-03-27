@@ -33,26 +33,6 @@ I have promoted reproducible research through curation and software implementati
 
 ![Image](assets/images/seeded-sunflower.png){:.circle}
 
-## Bookmarks
-
- [software collections](r-genetics.md), [suggested sites](suggests.md) ([suggests.txt](suggests.txt)) and collections at
- [DPHPC](dphpclinks.md),
- [MRC](mrclinks.md) with [comments](mrc/comments.txt),
- [UCL](ucllinks.md) with [comments](ucl/comments.txt),
- [KCL](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
-```mermaid
-graph BT;
-e1 --> F1(Genetics);
-e2 --> F2(Epidemiology);
-e3 --> F3(Mathematical Statistics);
-e4 --> F4(Computer Science);
-U --> A(Public Health);
-A(Public Health) --> B(Genetic Epidemiology & Biostatistics);
-F1(Genetics) --> B(Genetic Epidemiology & Biostatistics);
-F2(Epidemiology) --> B(Genetic Epidemiology & Biostatistics);
-F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
-F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
-```
 ## Presentations
 
  [useR!2007](http://www.user2007.org/),
