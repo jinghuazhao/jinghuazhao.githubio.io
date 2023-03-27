@@ -109,6 +109,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - foxit, <https://www.foxitsoftware.com/>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
+    - IMGonline.com.ua, <https://www.imgonline.com.ua/eng/resize-image.php>
     - INBO tutorials, <https://inbo.github.io/tutorials/>
     - jqplay, <https://jqplay.org/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
