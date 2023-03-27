@@ -145,8 +145,10 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - zenodo, <https://zenodo.org/>
   - Online publications
     - Cambridge English Dictionary, <https://dictionary.cambridge.org/dictionary/>
+    - Free literature for your device, <https://www.planetebook.com/>
     - Handbook of Statistics, <https://www.sciencedirect.com/handbook/handbook-of-statistics>
     - Merriam-Webster dictionary, <https://www.merriam-webster.com/>
+    - ManyBooks, <https://manybooks.net/>
     - Springer Link, <https://link.springer.com/>
     - The book of statistical proofs, <https://statproofbook.github.io/>
   - Reference management
@@ -177,4 +179,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 22/3/2023*
+***Created on** 3/5/2021 and **last changed** 27/3/2023*
