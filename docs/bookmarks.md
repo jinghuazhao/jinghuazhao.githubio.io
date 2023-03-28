@@ -29,6 +29,8 @@ mermaid: true
 key: page-bookmarks
 ---
 
+![Image](assets/images/seeded-sunflower.png){:.circle}
+
 - [software collections](r-genetics.md)
 - [suggested sites](suggests.md) ([suggests.txt](suggests.txt)) and collections at workplaces
     - [DPHPC](dphpclinks.md),
