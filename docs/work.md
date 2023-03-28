@@ -26,8 +26,6 @@ titles:
 key: page-work
 ---
 
-![Image](assets/images/sunflower.jpg){:.circle}
-
 ## A summary
 
 My field is statistics, epidemiology and public heatlth with specific
@@ -49,6 +47,8 @@ and [CHARGE](http://web.chargeconsortium.com/) therefore myself as a
 was to [The COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 through [The INTERVAL study](https://www.intervalstudy.org.uk/).
 
+![Image](assets/images/sunflower.jpg){:.circle}
+
 ## Activities
 
 I am a member of the [Royal Statistical Society](http://www.rss.org.uk/)
@@ -68,7 +68,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on [R/gap](https://tinyurl.com/yxh3ycwg)).
 
-    * Presentations.
+  * Presentations.
      [useR!2007](http://www.user2007.org/),
      [useR!2008](http://www.statistik.uni-dortmund.de/useR-2008/tutorials/),
      [useR!2009](http://www.r-project.org/conferences/useR-2009/tutorials/index.html),
@@ -76,6 +76,6 @@ I have promoted reproducible research through curation and software implementati
      [useR!2011](https://www.r-project.org/conferences/useR-2011/),
      [GWAS course](https://jinghuazhao.github.io/GWAS-course/), 
      Henry-Stewart and local talks.
-    * Projects. [consortium](https://jinghuazhao.github.io/consortium) work,
+  * Projects. [consortium](https://jinghuazhao.github.io/consortium) work,
      [other](https://jinghuazhao.github.io/others) projects,
      [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
