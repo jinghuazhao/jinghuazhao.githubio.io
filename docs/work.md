@@ -26,6 +26,8 @@ titles:
 key: page-work
 ---
 
+## A summary
+
 My field is statistics, epidemiology and public heatlth with specific
 interest in [genetic analysis of complex
 traits](https://jinghuazhao.github.io/GDCT/) especially
@@ -46,6 +48,8 @@ was to [The COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 through [The INTERVAL study](https://www.intervalstudy.org.uk/).
 
 ![Image](assets/images/sunflower.jpg){:.circle}
+
+## Activities
 
 I am a member of the [Royal Statistical Society](http://www.rss.org.uk/)
 ([My RSS](https://rss.org.uk/myrss/)) and here are my [biosketch](jing_cv.pdf)
