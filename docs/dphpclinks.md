@@ -89,6 +89,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
     - GWAS Central, <https://www.gwascentral.org/>
     - NCBI, <https://www.ncbi.nlm.nih.gov/>
+    - OpenTargets, <https://genetics.opentargets.org/>
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
@@ -180,4 +181,4 @@ title: Jing Hua Zhao's virtual library at DPHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 27/3/2023*
+***Created on** 3/5/2021 and **last changed** 28/3/2023*
