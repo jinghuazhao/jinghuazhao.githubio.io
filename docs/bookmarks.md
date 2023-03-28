@@ -32,7 +32,8 @@ key: page-bookmarks
 ![Image](assets/images/seeded-sunflower.png){:.circle}
 
 - [software collections](r-genetics.md)
-- [suggested sites](suggests.md) ([suggests.txt](suggests.txt)) and collections at workplaces
+- [suggested sites](suggests.md) ([suggests.txt](suggests.txt))
+- collections at workplaces
     - [DPHPC](dphpclinks.md),
     - [MRC](mrclinks.md) with [comments](mrc/comments.txt),
     - [UCL](ucllinks.md) with [comments](ucl/comments.txt),
