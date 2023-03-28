@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       People
+  en      : &EN       Colleague
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -23,7 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-people
+key: page-colleague
 show_title: false
 ---
 
