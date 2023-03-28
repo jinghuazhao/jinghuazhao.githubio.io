@@ -92,6 +92,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - OpenTargets, <https://genetics.opentargets.org/>
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
+    - ProteomeXchange, <https://www.proteomexchange.org/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
   - Linux sites
     - Entroware, <https://www.entroware.com/store/index.php>
@@ -160,6 +161,7 @@ title: Jing Hua Zhao's virtual library at DPHPC
     - MyEndNoteWeb, <http://www.myendnoteweb.com>
     - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
     - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
+    - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
     - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
 
 ## Other sites
