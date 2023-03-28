@@ -26,6 +26,8 @@ titles:
 key: page-work
 ---
 
+![Image](assets/images/sunflower.jpg){:.circle}
+
 ## A summary
 
 My field is statistics, epidemiology and public heatlth with specific
@@ -46,8 +48,6 @@ and [CHARGE](http://web.chargeconsortium.com/) therefore myself as a
 [highly cited researcher](https://clarivate.com/hcr/). My recent contribution
 was to [The COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 through [The INTERVAL study](https://www.intervalstudy.org.uk/).
-
-![Image](assets/images/sunflower.jpg){:.circle}
 
 ## Activities
 
