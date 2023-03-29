@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Bookmarks
+  en      : &EN       Bookmark
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,7 +26,7 @@ titles:
 mathjax: true
 mathjax_autoNumber: false
 mermaid: true
-key: page-bookmarks
+key: page-bookmark
 ---
 
 ![Image](assets/images/seeded-sunflower.png){:.circle}

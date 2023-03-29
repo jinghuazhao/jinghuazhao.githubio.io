@@ -76,7 +76,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Bookmarks
+      en      : &EN       Bookmark
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -97,7 +97,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /bookmarks.html
+    url: /bookmark.html
 
   - titles:
       # @start locale config
