@@ -34,10 +34,10 @@ key: page-bookmark
 - [software collections](r-genetics.md)
 - [suggested sites](suggests.md) ([suggests.txt](suggests.txt))
 - collections at workplaces
-    - [DPHPC](dphpclinks.md),
-    - [MRC](mrclinks.md) with [comments](mrc/comments.txt),
-    - [UCL](ucllinks.md) with [comments](ucl/comments.txt),
-    - [KCL](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
+    - DPHPC, <https://www.phpc.cam.ac.uk/>, [links](dphpclinks.md),
+    - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt),
+    - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt),
+    - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
     ```mermaid
     graph BT;
     e1 --> F1(Genetics);
