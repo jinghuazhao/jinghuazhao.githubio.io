@@ -32,9 +32,8 @@ key: page-bookmark
 ![Image](assets/images/seeded-sunflower.png){:.circle}
 
 - [software collections](r-genetics.md)
-- [suggested sites](suggests.md) ([suggests.txt](suggests.txt))
 - collections at workplaces
-    - DPHPC, <https://www.phpc.cam.ac.uk/>, [links](dphpclinks.md),
+    - DPHPC, <https://www.phpc.cam.ac.uk/>, [links](dphpclinks.md), [suggested sites](suggests.md) ([suggests.txt](suggests.txt)),
     - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt),
     - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt),
     - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
