@@ -31,7 +31,6 @@ key: page-bookmark
 
 ![Image](assets/images/seeded-sunflower.png){:.circle}
 
-- [software collections](r-genetics.md)
 - collections at workplaces
     - DPHPC, <https://www.phpc.cam.ac.uk/>, [links](dphpclinks.md), [suggested sites](suggests.md) ([suggests.txt](suggests.txt)),
     - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt),
@@ -50,3 +49,4 @@ key: page-bookmark
     F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
     F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
     ```
+- [software collections](r-genetics.md)
