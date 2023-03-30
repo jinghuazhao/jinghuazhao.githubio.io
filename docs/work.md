@@ -31,10 +31,8 @@ interest in [genetic analysis of complex
 traits](https://jinghuazhao.github.io/GDCT/) especially
 [Omics-Analysis](https://jinghuazhao.github.io/Omics-analysis/). I am
 working with the [SCALLOP consortium](https://www.olink.com/scallop/)
-following work on design and analysis for [Whitehall
-II](http://www.ucl.ac.uk/whitehallII),
-[ELSA](http://www.natcen.ac.uk/elsa/),
-[EPIC-Norfolk](http://www.epic-norfolk.org.uk/),
+following design and analysis for [Whitehall II](http://www.ucl.ac.uk/whitehallII),
+[ELSA](http://www.natcen.ac.uk/elsa/), [EPIC-Norfolk](http://www.epic-norfolk.org.uk/),
 [Fenland](http://www.mrc-epid.cam.ac.uk/research/studies/fenland/),
 [InterAct](http://www.inter-act.eu/), [NSHD](http://www.nshd.mrc.ac.uk/)
 and [Framingham](http://www.framinghamheartstudy.org/). The EPIC-Norfolk
