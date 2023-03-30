@@ -62,7 +62,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Reproducible research
 
-I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on [R/gap](https://tinyurl.com/yxh3ycwg)).
+I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on R [gap](https://tinyurl.com/yxh3ycwg)).
 
   * Presentations.
      [useR!2007](http://www.user2007.org/),
