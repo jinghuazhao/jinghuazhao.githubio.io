@@ -63,7 +63,7 @@ I have promoted reproducible research through curation and software implementati
 
 ## Professional activities
 
-I am a member of the [Royal Statistical Society](http://www.rss.org.uk/)
+I have been a member of the [Royal Statistical Society](http://www.rss.org.uk/) for approximately 20 years
 ([My RSS](https://rss.org.uk/myrss/)). I served as an associate editor for
 [The Scientific World Journal](http://www.hindawi.com/journals/tswj/) until July 2017
 and now as an associate editor ([login](https://www.frontiersin.org/my-frontiers/overview))
