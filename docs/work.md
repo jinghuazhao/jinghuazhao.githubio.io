@@ -61,7 +61,7 @@ I have promoted reproducible research through curation and software implementati
      [other](https://jinghuazhao.github.io/others) projects,
      [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
 
-## Other activities
+## Professional activities
 
 I am a member of the [Royal Statistical Society](http://www.rss.org.uk/)
 ([My RSS](https://rss.org.uk/myrss/)). I served as an associate editor for
