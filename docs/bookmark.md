@@ -57,4 +57,4 @@ key: page-bookmark
 
 ## Suggested sites
 
-- [links](suggests.md) ([comments.txt](phpc/comments.txt)).
+- [Links](suggests.md) ([comments.txt](phpc/comments.txt)).
