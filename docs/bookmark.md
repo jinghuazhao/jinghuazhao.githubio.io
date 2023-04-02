@@ -33,7 +33,7 @@ key: page-bookmark
 
 ## Collections at workplaces
 
-- PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md), [suggested sites](suggests.md) ([suggests.txt](suggests.txt)).
+- PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
 - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
 - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
@@ -54,3 +54,7 @@ key: page-bookmark
 ## Software collections
 
 - [Genetics with R/S-PLUS](r-genetics.md)
+
+## Suggested sites
+
+- [links](suggests.md) ([comments.txt](phpc/comments.txt)).
