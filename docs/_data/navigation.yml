@@ -76,31 +76,6 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Bookmark
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  书签
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  書籤
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       북마크
-      ko-KR   : *KO
-      fr      : &FR       signets
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /bookmark.html
-
-  - titles:
-      # @start locale config
       en      : &EN       GitHub
       en-GB   : *EN
       en-US   : *EN
@@ -123,6 +98,31 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: https://github.com/jinghuazhao/
+
+  - titles:
+      # @start locale config
+      en      : &EN       Suggests
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  书签
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  書籤
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       북마크
+      ko-KR   : *KO
+      fr      : &FR       signets
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /suggests.html
 
 docs-en:
   - title:      Projects

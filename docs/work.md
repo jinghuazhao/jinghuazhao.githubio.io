@@ -72,3 +72,24 @@ for [Frontiers in Genetics](http://www.frontiersin.org/) ([blog network](http://
 [profile](http://community.frontiersin.org/people/Jing_HuaZhao/44539))
 after about ten years as a review editor. Over years I have also been an occasional
 reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.aspx) and many other journals.
+
+## Bookmarks from workplaces
+
+- PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
+- MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
+- UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
+- KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
+  ```mermaid
+  graph BT;
+  e1 --> F1(Genetics);
+  e2 --> F2(Epidemiology);
+  e3 --> F3(Mathematical Statistics);
+  e4 --> F4(Computer Science);
+  U --> A(Public Health);
+  A(Public Health) --> B(Genetic Epidemiology & Biostatistics);
+  F1(Genetics) --> B(Genetic Epidemiology & Biostatistics);
+  F2(Epidemiology) --> B(Genetic Epidemiology & Biostatistics);
+  F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
+  F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
+  ```
+- [Genetics with R/S-PLUS](r-genetics.md)
