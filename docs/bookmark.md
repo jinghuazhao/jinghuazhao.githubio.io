@@ -31,6 +31,14 @@ key: page-bookmark
 
 ![Image](assets/images/seeded-sunflower.png){:.circle}
 
+## Suggested sites
+
+- [Links](suggests.md) ([comments.txt](phpc/suggests.txt)).
+
+## Software collections
+
+- [Genetics with R/S-PLUS](r-genetics.md)
+
 ## Collections at workplaces
 
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
@@ -50,11 +58,3 @@ key: page-bookmark
   F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
   F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
   ```
-
-## Software collections
-
-- [Genetics with R/S-PLUS](r-genetics.md)
-
-## Suggested sites
-
-- [Links](suggests.md) ([comments.txt](phpc/suggests.txt)).
