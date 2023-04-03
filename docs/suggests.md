@@ -27,6 +27,7 @@ mathjax: true
 mathjax_autoNumber: false
 mermaid: true
 key: page-suggests
+show_title: false
 ---
 
 # Suggested websites
