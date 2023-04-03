@@ -27,6 +27,10 @@ title: Suggested sites
 
 * Adler Health, <https://adlerhealth.com/>
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
+* Innercept, <https://www.innercept.com/>
+* Ironwood Maine, <https://www.ironwoodmaine.com/>
+* Paradigm Treatment, <https://paradigmtreatment.com/>
+* Shortridge Academcy, <https://www.shortridgeacademy.com>
 * Tusk Kratom, <https://tuskkratom.com/>
 * West Valley Detox, <https://westvalleydetox.com/>
 
@@ -34,4 +38,4 @@ title: Suggested sites
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 20/3/2023*
+***Created on** 12/1/2023 and **last changed** 3/4/2023*
