@@ -77,24 +77,43 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## Computing resources
 
-  - Genetics sites
-    - Bioconductor support, <https://support.bioconductor.org/>
-    - https://cellprofiler.org/, <https://cellprofiler.org/>
-    - CoffeeProt, <https://coffeeprot.com/>
-    - hail, <https://hail.is/index.html>
-    - LocusTrack, <https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html>
-    - GATK, <https://gatk.broadinstitute.org/hc/en-us>
-    - GBMI, <https://www.globalbiobankmeta.org/resources>
-    - GTEx, <https://gtexportal.org/home/datasets>
-    - GWAS atlas, <https://atlas.ctglab.nl/traitDB>
-    - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
-    - GWAS Central, <https://www.gwascentral.org/>
-    - NCBI, <https://www.ncbi.nlm.nih.gov/>
-    - OpenTargets, <https://genetics.opentargets.org/>
-    - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
-    - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
-    - ProteomeXchange, <https://www.proteomexchange.org/>
-    - Systems-Genomics, <https://systems-genomics.slack.com/>
+  - Online publications
+    - Cambridge English Dictionary, <https://dictionary.cambridge.org/dictionary/>
+    - Free literature for your device, <https://www.planetebook.com/>
+    - Handbook of Statistics, <https://www.sciencedirect.com/handbook/handbook-of-statistics>
+    - Merriam-Webster dictionary, <https://www.merriam-webster.com/>
+    - ManyBooks, <https://manybooks.net/>
+    - Springer Link, <https://link.springer.com/>
+    - The book of statistical proofs, <https://statproofbook.github.io/>
+  - Reference management
+    - AuthorArranger, <https://authorarranger.nci.nih.gov/>
+    - JabRef, <https://www.jabref.org/>
+    - Lead2Amazon, <https://lead.to/amazon/uk/>
+    - MyEndNoteWeb, <http://www.myendnoteweb.com>
+    - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
+    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
+    - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
+    - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
+  - Organisations
+    - APKmirror, <https://www.apkmirror.com/>
+    - CRA, <https://cra.org/>
+    - CRAN, <https://cran.r-project.org/>
+    - CS rankings, <https://csrankings.org/>
+    - CyberChef, <https://gchq.github.io/CyberChef/>
+    - Google, <https://www.google.co.uk/>
+        * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
+        * Search console, <https://search.google.com/search-console/about>
+        * Translate, <https://translate.google.co.uk/>
+    - MicroSoft, <https://www.microsoft.com/>
+        * Bing webmaster tool, <https://www.bing.com/webmasters/about>
+        * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
+        * Hotmail, <https://outlook.live.com/owa/>
+        * Sway, <https://sway.office.com/>
+    - Mozilla, <https://www.mozilla.org/en-GB/about/>
+    - MySQL, <https://dev.mysql.com/>
+    - Paper with code, <https://paperswithcode.com/>
+    - Science Media Centre, <https://www.sciencemediacentre.org/>
+    - zenodo, <https://zenodo.org/>
   - Linux sites
     - Entroware, <https://www.entroware.com/store/index.php>
     - Fedora, <https://getfedora.org/>
@@ -127,45 +146,27 @@ title: Jing Hua Zhao's virtual library at PHPC
     - time.is, <https://time.is/>
     - Typora, <https://typora.io/>
     - yozosoft, <https://www.yozosoft.com/>
-  - Organisations
-    - APKmirror, <https://www.apkmirror.com/>
-    - CRA, <https://cra.org/>
-    - CRAN, <https://cran.r-project.org/>
-    - CS rankings, <https://csrankings.org/>
-    - CyberChef, <https://gchq.github.io/CyberChef/>
-    - Google, <https://www.google.co.uk/>
-        * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
-        * Search console, <https://search.google.com/search-console/about>
-        * Translate, <https://translate.google.co.uk/>
-    - MicroSoft, <https://www.microsoft.com/>
-        * Bing webmaster tool, <https://www.bing.com/webmasters/about>
-        * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
-        * Hotmail, <https://outlook.live.com/owa/>
-        * Sway, <https://sway.office.com/>
-    - Mozilla, <https://www.mozilla.org/en-GB/about/>
-    - MySQL, <https://dev.mysql.com/>
-    - Paper with code, <https://paperswithcode.com/>
-    - Science Media Centre, <https://www.sciencemediacentre.org/>
-    - zenodo, <https://zenodo.org/>
-  - Online publications
-    - Cambridge English Dictionary, <https://dictionary.cambridge.org/dictionary/>
-    - Free literature for your device, <https://www.planetebook.com/>
-    - Handbook of Statistics, <https://www.sciencedirect.com/handbook/handbook-of-statistics>
-    - Merriam-Webster dictionary, <https://www.merriam-webster.com/>
-    - ManyBooks, <https://manybooks.net/>
-    - Springer Link, <https://link.springer.com/>
-    - The book of statistical proofs, <https://statproofbook.github.io/>
-  - Reference management
-    - AuthorArranger, <https://authorarranger.nci.nih.gov/>
-    - JabRef, <https://www.jabref.org/>
-    - Lead2Amazon, <https://lead.to/amazon/uk/>
-    - MyEndNoteWeb, <http://www.myendnoteweb.com>
-    - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
-    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
-    - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
-    - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
+  - Omics-related sites
+    - Bioconductor support, <https://support.bioconductor.org/>
+    - https://cellprofiler.org/, <https://cellprofiler.org/>
+    - CoffeeProt, <https://coffeeprot.com/>
+    - hail, <https://hail.is/index.html>
+    - LocusTrack, <https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html>
+    - GATK, <https://gatk.broadinstitute.org/hc/en-us>
+    - GBMI, <https://www.globalbiobankmeta.org/resources>
+    - GTEx, <https://gtexportal.org/home/datasets>
+    - GWAS atlas, <https://atlas.ctglab.nl/traitDB>
+    - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
+    - GWAS Central, <https://www.gwascentral.org/>
+    - NCBI, <https://www.ncbi.nlm.nih.gov/>
+    - OpenTargets, <https://genetics.opentargets.org/>
+    - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
+    - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
+    - ProteomeXchange, <https://www.proteomexchange.org/>
+    - Spectranaut, <https://biognosys.com/software/spectronaut/>
+    - Systems-Genomics, <https://systems-genomics.slack.com/>
 
-## Other sites
+## Miscellaneous links
 
 - [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
@@ -184,4 +185,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 2/4/2023*
+***Created on** 3/5/2021 and **last changed** 3/4/2023*
