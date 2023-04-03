@@ -33,7 +33,7 @@ key: page-bookmark
 
 ## Suggested sites
 
-- [Links](suggests.md) ([comments.txt](phpc/suggests.txt)).
+- [Links](suggests.md) ([suggests.txt](phpc/suggests.txt)).
 
 ## Software collections
 
