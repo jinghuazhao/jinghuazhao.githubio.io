@@ -127,6 +127,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - VirtualBox, <https://www.virtualbox.org/> (all downloads, <https://download.virtualbox.org/virtualbox/>)
   - Online utilities/software
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
+    - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - foxit, <https://www.foxitsoftware.com/>
