@@ -113,6 +113,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - MySQL, <https://dev.mysql.com/>
     - Paper with code, <https://paperswithcode.com/>
     - Science Media Centre, <https://www.sciencemediacentre.org/>
+    - Twitter, <https://github.com/twitter>
     - zenodo, <https://zenodo.org/>
   - Linux sites
     - Entroware, <https://www.entroware.com/store/index.php>
@@ -159,11 +160,13 @@ title: Jing Hua Zhao's virtual library at PHPC
     - GWAS atlas, <https://atlas.ctglab.nl/traitDB>
     - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
     - GWAS Central, <https://www.gwascentral.org/>
+    - JASPAR, <https://jaspar.genereg.net/>
     - NCBI, <https://www.ncbi.nlm.nih.gov/>
     - OpenTargets, <https://genetics.opentargets.org/>
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - ProteomeXchange, <https://www.proteomexchange.org/>
+    - SNP2TFBS, <https://ccg.epfl.ch/snp2tfbs/>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
 
