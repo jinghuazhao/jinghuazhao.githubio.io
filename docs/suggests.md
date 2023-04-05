@@ -32,8 +32,6 @@ show_title: false
 
 # Suggested websites
 
-![Image](assets/images/seeded-sunflower.png){:.circle}
-
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
@@ -69,4 +67,4 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 3/4/2023*
+***Created on** 12/1/2023 and **last changed** 5/4/2023*

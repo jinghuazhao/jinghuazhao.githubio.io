@@ -29,6 +29,8 @@ show_title: false
 
 # Mentors/Collaborators
 
+![Image](assets/images/seeded-sunflower.png){:.circle}
+
 Beijing University: [Yude Chen](http://finance.sina.com.cn/economist/jingjixueren/20051219/11492209756.shtml) ([School of Public Health](http://sph.pku.edu.cn/))\
 Fudan University: [Pihuan Jin](http://baike.baidu.com/view/1400594.htm), [Fumin Shen](http://baike.baidu.com/view/1402216.html), [Zhaohuan Zhang](http://baike.baidu.com/view/1405060.htm) ([Wiki Entry](http://en.wikipedia.org/wiki/Zhang_Zhaohuan))\
 Havard School of Public Health: [David Christiani](https://www.hsph.harvard.edu/david-christiani/), [William Hsiao](http://www.hsph.harvard.edu/william-hsiao/) ([Wiki Entry](http://en.wikipedia.org/wiki/William_Hsiao)), [Nan Laird](http://www.hsph.harvard.edu/nan-laird/) ([Wiki Entry](http://en.wikipedia.org/wiki/Nan_Laird))\
