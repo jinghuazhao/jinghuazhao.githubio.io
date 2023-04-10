@@ -92,4 +92,3 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
   F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
   F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
   ```
-- [Genetics with R/S-PLUS](r-genetics.md)
