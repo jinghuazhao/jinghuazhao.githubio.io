@@ -19,4 +19,4 @@ do
   git commit -m "${f}"
 done
 git push
-du -hs --exclude .git --exclude _site
+du -hs --exclude .git --exclude docs/_site
