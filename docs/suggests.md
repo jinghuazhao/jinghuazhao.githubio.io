@@ -36,7 +36,7 @@ show_title: false
 
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
-- Alcohol Rehab Help, <https://alcoholrehabhelp.org/>
+- Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
