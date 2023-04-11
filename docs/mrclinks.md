@@ -405,7 +405,6 @@ title: Jing Hua Zhao's virtual library at MRC
 -   <http://www.pubmed.org>
 -   <http://www.pubmedcentral.nih.gov>
 -   <http://www.rootsforreal.com/>
--   <http://cran.r-project.org/doc/> 
 -   <http://rsync.samba.org/examples.html>
 -   <http://www.solver.com/>
 -   <http://www.statmethods.net/index.html> 
