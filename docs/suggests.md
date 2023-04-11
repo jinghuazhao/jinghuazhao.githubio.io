@@ -36,6 +36,7 @@ show_title: false
 
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
+- Alcohol Rehab Help, <https://alcoholrehabhelp.org/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
@@ -67,4 +68,4 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 5/4/2023*
+***Created on** 12/1/2023 and **last changed** 11/4/2023*
