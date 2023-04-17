@@ -50,6 +50,7 @@ show_title: false
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
+* Smoke free UK, <https://smokefreeuk.co.uk/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
 
@@ -68,4 +69,4 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 11/4/2023*
+***Created on** 12/1/2023 and **last changed** 17/4/2023*
