@@ -57,8 +57,8 @@ I have promoted reproducible research through curation and software implementati
      [useR!2011](https://www.r-project.org/conferences/useR-2011/),
      [GWAS course](https://jinghuazhao.github.io/GWAS-course/), 
      Henry-Stewart and local talks.
-  * **Projects**. [consortium](https://jinghuazhao.github.io/consortium) work,
-     [other](https://jinghuazhao.github.io/others) projects,
+  * **work**. [consortia](https://jinghuazhao.github.io/consortia),
+     [Projects](https://jinghuazhao.github.io/projects) projects,
      [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
 
 ## Professional activities
