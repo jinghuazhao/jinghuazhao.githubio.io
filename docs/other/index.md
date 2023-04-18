@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Other projects
-permalink: others
-key: page-others
+permalink: other
+key: page-other
 footer: true
 show_title: true
 aside:
