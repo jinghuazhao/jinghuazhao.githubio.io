@@ -125,18 +125,24 @@ header:
     url: /suggests.html
 
 docs-en:
-  - title:      Consortia
-      url:      consortia
   - title:      Projects
-      url:      projects
-  - title:      Biosketch
-      url:      jing_cv.pdf
-  - title:      Book
-      url:      book
-  - title:      Shinyapps
-      url:      shinyapps
+    children:
+      - title:  Consortium
+        url:    consortium
+      - title:  Others
+        url:    others
+  - title:      Publications
+    children:
+      - title:  Biosketch
+        url:    jing_cv.pdf
+      - title:  Book
+        url:    book
   - title:      Software
-      url:      software
+    children:
+      - title:  shinyapps
+        url:    shinyapps
+      - title:  Software
+        url:    software
   - title:      Web
     children:
       - title:  Cambridge-CEU (responsive)
