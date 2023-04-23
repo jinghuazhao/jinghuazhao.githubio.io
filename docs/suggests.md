@@ -30,7 +30,7 @@ key: page-suggests
 show_title: false
 ---
 
-# Suggested websites[^acknowledgement]
+# Suggested websites[^acknowledgements]
 
 ## Drug and substance abuse
 
@@ -71,7 +71,9 @@ show_title: false
 
 ***Created on** 12/1/2023 and **last changed** 23/4/2023*
 
-[^acknowledgement]:
+## Acknowledgements
+
+[^acknowledgements]:
 
     - Eliza Hadley <eliza.hadley@gv.alcoholrehabhelp.org>
     - Emma Tressler <healthcare@thedigitalintellect.com>
