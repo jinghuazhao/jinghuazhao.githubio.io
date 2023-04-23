@@ -71,7 +71,7 @@ show_title: false
 
 ---
 
-## Acknowledgements
+## Contributors
 
 - Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
