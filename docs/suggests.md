@@ -69,12 +69,12 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-***Created on** 12/1/2023 and **last changed** 23/4/2023*
-
 ---
 
 ## Acknowledgements
 
-- Eliza Hadley <eliza.hadley@gv.alcoholrehabhelp.org>
-- Emma Tressler <healthcare@thedigitalintellect.com>
-- Rachel Parker <iamrachelparker@gmail.com>
+- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
+- Emma Tressler, <healthcare@thedigitalintellect.com>
+- Rachel Parker, <iamrachelparker@gmail.com>
+
+***Created on** 12/1/2023 and **last changed** 23/4/2023*
