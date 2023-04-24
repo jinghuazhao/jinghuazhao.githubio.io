@@ -92,7 +92,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Lead2Amazon, <https://lead.to/amazon/uk/>
     - MyEndNoteWeb, <http://www.myendnoteweb.com>
     - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
-    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs))
+    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs), [MicroSoft Word add-on](https://sciwheel.com/work/faq/word-plugin/important-our-original-word-plugin-is-no-longer-supported#/guide/word-365-addin))
     - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
     - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
   - Organisations
@@ -191,4 +191,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 17/4/2023*
+***Created on** 3/5/2021 and **last changed** 24/4/2023*
