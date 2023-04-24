@@ -92,7 +92,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Lead2Amazon, <https://lead.to/amazon/uk/>
     - MyEndNoteWeb, <http://www.myendnoteweb.com>
     - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
-    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs), [MicroSoft Word add-on](https://sciwheel.com/work/faq/word-plugin/important-our-original-word-plugin-is-no-longer-supported#/guide/word-365-addin))
+    - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs), [MicroSoft Word add-on](https://sciwheel.com/work/faq/word-365-addin))
     - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
     - Zotero, <https://www.zotero.org/> (<https://zbib.org/>)
   - Organisations
