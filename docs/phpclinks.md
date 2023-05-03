@@ -154,6 +154,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Bioconductor support, <https://support.bioconductor.org/>
     - https://cellprofiler.org/, <https://cellprofiler.org/>
     - CoffeeProt, <https://coffeeprot.com/>
+    - Course on GWAS by Matti Pirinen, <https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/>
     - hail, <https://hail.is/index.html>
     - LocusTrack, <https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html>
     - GATK, <https://gatk.broadinstitute.org/hc/en-us>
@@ -192,4 +193,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 26/4/2023*
+***Created on** 3/5/2021 and **last changed** 3/5/2023*
