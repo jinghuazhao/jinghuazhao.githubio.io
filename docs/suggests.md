@@ -47,8 +47,9 @@ show_title: false
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
-* Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
+* Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
++ Path To Recovery Detox, <https://pathtorecoverydetox.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
@@ -73,8 +74,9 @@ show_title: false
 
 ## Contributors
 
+- Dominique Legget, <dominique.legget@thedigitalintellect.com>
 - Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 23/4/2023*
+***Created on** 12/1/2023 and **last changed** 4/5/2023*
