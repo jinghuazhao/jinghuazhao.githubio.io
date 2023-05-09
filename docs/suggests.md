@@ -37,6 +37,8 @@ show_title: false
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
+* Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
+* AToN Center, <https://www.atoncenter.com/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
@@ -79,4 +81,4 @@ show_title: false
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 4/5/2023*
+***Created on** 12/1/2023 and **last changed** 9/5/2023*
