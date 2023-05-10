@@ -76,9 +76,9 @@ show_title: false
 
 ## Contributors
 
-- Dominique Legget, <dominique.legget@thedigitalintellect.com>
 - Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
-- Emma Tressler, <healthcare@thedigitalintellect.com>
+- Dominique Legget, <dominique.legget@thedigitalintellect.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
+- Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 9/5/2023*
+***Created on** 12/1/2023 and **last changed** 10/5/2023*
