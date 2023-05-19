@@ -41,6 +41,13 @@ title: Jing Hua Zhao's virtual library at PHPC
 - jetcost, <https://www.jetcost.co.uk/>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
+- Local supermarket
+  * ALDI, <https://www.aldi.co.uk/>
+  * ASDA, <https://www.asda.com/>
+  * Lidl, <https://www.lidl.co.uk/>
+  * M&S, <https://www.marksandspencer.com/>
+  * Sainsbury, <https://www.sainsburys.co.uk/>
+  * Tesco, <https://www.tesco.com/>
 - MRC, <https://www.ukri.org/councils/mrc/>
   * Pension scheme, <https://www.mrcps.co.uk/> ([mercer](https://contact.mercer.com/))
 - Marks out of tenancy, <https://www.marksoutoftenancy.com/>
@@ -197,4 +204,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 16/5/2023*
+***Created on** 3/5/2021 and **last changed** 19/5/2023*
