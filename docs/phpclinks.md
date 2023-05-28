@@ -118,6 +118,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * Search console, <https://search.google.com/search-console/about>
         * Translate, <https://translate.google.co.uk/>
     - MicroSoft, <https://www.microsoft.com/>
+        * Account, <https://account.live.com/consent/Manage?uaid=00be9fb584174427b1cffb995d934b24>
         * Bing webmaster tool, <https://www.bing.com/webmasters/about>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * Hotmail, <https://outlook.live.com/owa/>
@@ -205,4 +206,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 22/5/2023*
+***Created on** 3/5/2021 and **last changed** 28/5/2023*
