@@ -84,7 +84,7 @@ title: Jing Hua Zhao's virtual library at PHPC
    * cmih, <https://www.cmih.maths.cam.ac.uk/>
    * DPHPC, <https://www.phpc.cam.ac.uk/> (PeopleHR, <https://dphpc.peoplehr.net/> and PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>)
    * medschl login, <https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx>
-   * metaCompliance certificate, <https://cloud.metacompliance.com/View/Certificate?courseID=79459>
+   * MyCompliance certificate, <https://cloud.metacompliance.com/View/Certificate?courseID=79459>
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
    * [Self-Employment Service (ESS)](https://www.hr.admin.cam.ac.uk/hr-staff/information-new-starters/employee-self-service-ess)
 - [VFS appointment](https://www.vfsglobal.com/Denmark/UK/Schedule_an_appointment.html)
