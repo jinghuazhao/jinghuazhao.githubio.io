@@ -123,6 +123,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * Bing webmaster tool, <https://www.bing.com/webmasters/about>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * Hotmail, <https://outlook.live.com/owa/>
+        * Support, <https://support.microsoft.com/en-us>
         * Sway, <https://sway.office.com/>
     - Mozilla, <https://www.mozilla.org/en-GB/about/>
     - MySQL, <https://dev.mysql.com/>
@@ -207,4 +208,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 30/5/2023*
+***Created on** 3/5/2021 and **last changed** 31/5/2023*
