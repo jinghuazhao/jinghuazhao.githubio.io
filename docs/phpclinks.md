@@ -64,13 +64,15 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
 - Smart Services Ltd, <https://smartserviceltd.com/>
 - Tax service, <https://www.tax.service.gov.uk/personal-account> ([tax relief](https://www.gov.uk/tax-relief-for-employees))
-- The Perse School, <https://www.perse.co.uk/>, Recommended websites and helplines for support
-  : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
-  : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
-  : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
+- The Perse School, <https://www.perse.co.uk/>
+  * Box office, <https://www.perse.co.uk/box-office/>
   * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
   * ParentPay, <https://www.parentpay.com/>
   * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
+  * Recommended websites and helplines for support
+    : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
+    : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
+    : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
   * School Photograph Company, <https://orders.schoolphotographs.co.uk/tspc/Home>
   * Term dates, <https://www.perse.co.uk/term-dates/>
   * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
@@ -208,4 +210,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 31/5/2023*
+***Created on** 3/5/2021 and **last changed** 4/6/2023*
