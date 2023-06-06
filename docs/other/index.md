@@ -16,6 +16,7 @@ sidebar:
   : [![](bees.svg)](https://github.com/jinghuazhao/QTR) [QTR](https://jinghuazhao.github.io/QTR/)
 - Genomics
   : [![](bees.svg)](https://github.com/jinghuazhao/FM-pipeline) [FM-pipeline](https://jinghuazhao.github.io/FM-pipeline/) ([wiki](https://github.com/jinghuazhao/FM-pipeline/wiki))
+  : [![](bees.svg)](https://github.com/jinghuazhao/HERMES) [HERMES](https://jinghuazhao.github.io/HERMES)
   : [![](bees.svg)](https://github.com/jinghuazhao/gwas2) [gwas2](https://jinghuazhao.github.io/gwas2)
   : [![](bees.svg)](https://github.com/jinghuazhao/hess-pipeline) [hess-pipeline](https://jinghuazhao.github.io/hess-pipeline/)
   : [![](bees.svg)](https://github.com/jinghuazhao/PW-pipeline) [PW-pipeline](https://jinghuazhao.github.io/PW-pipeline/) ([wiki](https://github.com/jinghuazhao/PW-pipeline/wiki))
