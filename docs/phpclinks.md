@@ -80,7 +80,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
   * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
   * [Upper Sixth Update - April 2023](https://sway.office.com/YtNO0xZBWIkJiKPz?ref=Link)
-  * Year 13 Leavers' Celebration - Photographs, ([Prizegiving](https://sway.office.com/JLtJZO85ZlFFI85e?ref=Link),[Leavers' Drinks and Dinne](https://sway.office.com/6kpHMNAy7s1dGYVb?ref=Link),[Formal Photo Booth](https://sway.office.com/fU8Ga87t1CHDRm6r?ref=Link))
+  * Year 13 Leavers' Celebration - Photographs, ([Prizegiving](https://sway.office.com/JLtJZO85ZlFFI85e?ref=Link), [Leavers' Drinks and Dinne](https://sway.office.com/6kpHMNAy7s1dGYVb?ref=Link), [Formal Photo Booth](https://sway.office.com/fU8Ga87t1CHDRm6r?ref=Link))
 - [Transport for London](https://reg.tflcc.co.uk/TFL.LRUC.AccountAuth/S1)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - University, <https://www.cam.ac.uk/>
