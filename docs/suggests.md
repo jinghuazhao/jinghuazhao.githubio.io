@@ -41,10 +41,12 @@ show_title: false
 * AToN Center, <https://www.atoncenter.com/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
+* Crestview Recovery, <https://www.crestviewrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
 * Drug and Alcohol Addiction Treatment Services, <https://addiction-treatment-services.com/>
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
+* IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
 * Jay Walker Lodge, <https://jaywalkerlodge.com/>
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
@@ -55,6 +57,7 @@ show_title: false
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
+* The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
 
 ## Physical, mental and behavioral Health
@@ -81,4 +84,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 10/5/2023*
+***Created on** 12/1/2023 and **last changed** 8/6/2023*
