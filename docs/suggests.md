@@ -44,6 +44,7 @@ show_title: false
 * Crestview Recovery, <https://www.crestviewrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
 * Drug and Alcohol Addiction Treatment Services, <https://addiction-treatment-services.com/>
+* Eagle Creek Ranch Recovery, <https://idahorecoverycenter.com/>
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
 * IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
@@ -84,4 +85,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 8/6/2023*
+***Created on** 12/1/2023 and **last changed** 22/6/2023*
