@@ -19,7 +19,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Cambridge
   * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
-  * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), account [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
+  * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), [MyAccount](https://myaccount.cambridge-water.co.uk/) [reset](https://www.cambridge-water.co.uk/my-account/user/reset))
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
 - COVID-19 vaccine
   * booking a vaccine, [https://www.nhs.uk/covid-vaccination](https://www.nhs.uk/covid-vaccination)
@@ -213,4 +213,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 23/6/2023*
+***Created on** 3/5/2021 and **last changed** 24/6/2023*
