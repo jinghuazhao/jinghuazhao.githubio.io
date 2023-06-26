@@ -300,6 +300,7 @@ DEPENDENCIES
   bundler
   github-pages
   html-proofer (~> 3.19.3)
+  jekyll-seo-tag
   jekyll-sitemap (~> 1.4.0)
   jekyll-text-theme!
   jemoji (~> 0.12.0)
