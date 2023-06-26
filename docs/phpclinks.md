@@ -118,6 +118,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - CS rankings, <https://csrankings.org/>
     - CyberChef, <https://gchq.github.io/CyberChef/>
     - Google, <https://www.google.co.uk/>
+        * Adwords keywords planner, <https://ads.google.com/home/tools/keyword-planner/>
         * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
         * Search console, <https://search.google.com/search-console/about>
         * Translate, <https://translate.google.co.uk/>
@@ -213,4 +214,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 
-***Created on** 3/5/2021 and **last changed** 24/6/2023*
+***Created on** 3/5/2021 and **last changed** 26/6/2023*
