@@ -36,11 +36,11 @@ show_title: false
 
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
-+ Addiction Treatment Center in New Jersey, <https://bluestarrecovery.com/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
 * AToN Center, <https://www.atoncenter.com/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
++ Blue Star Recovery, <https://bluestarrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Crestview Recovery, <https://www.crestviewrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
