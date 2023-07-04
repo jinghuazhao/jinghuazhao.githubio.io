@@ -36,6 +36,7 @@ show_title: false
 
 * 449 Recovery, <https://449recovery.org/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
++ Addiction Treatment Center in New Jersey, <https://bluestarrecovery.com/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
 * AToN Center, <https://www.atoncenter.com/>
@@ -85,4 +86,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 22/6/2023*
+***Created on** 12/1/2023 and **last changed** 4/7/2023*
