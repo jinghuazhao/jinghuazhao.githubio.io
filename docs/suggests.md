@@ -70,7 +70,7 @@ show_title: false
 * Ironwood Maine, <https://www.ironwoodmaine.com/>
 * Paradigm Treatment, <https://paradigmtreatment.com/>
 * Shortridge Academcy, <https://www.shortridgeacademy.com>
-+ The Ridge, < https://theridgertc.com/>
++ The Ridge, <https://theridgertc.com/>
 * Tusk Kratom, <https://tuskkratom.com/>
 * West Valley Detox, <https://westvalleydetox.com/>
 
