@@ -70,6 +70,7 @@ show_title: false
 * Ironwood Maine, <https://www.ironwoodmaine.com/>
 * Paradigm Treatment, <https://paradigmtreatment.com/>
 * Shortridge Academcy, <https://www.shortridgeacademy.com>
++ The Ridge, < https://theridgertc.com/>
 * Tusk Kratom, <https://tuskkratom.com/>
 * West Valley Detox, <https://westvalleydetox.com/>
 
@@ -86,4 +87,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 4/7/2023*
+***Created on** 12/1/2023 and **last changed** 5/7/2023*
