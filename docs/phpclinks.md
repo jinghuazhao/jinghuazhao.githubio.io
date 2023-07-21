@@ -92,6 +92,7 @@ title: Jing Hua Zhao's virtual library at PHPC
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
    * [Self-Employment Service (ESS)](https://www.hr.admin.cam.ac.uk/hr-staff/information-new-starters/employee-self-service-ess)
 - [VFS appointment](https://www.vfsglobal.com/Denmark/UK/Schedule_an_appointment.html)
+- <www.nsspeedcameras.com>
 
 ## Computing resources
 
@@ -216,4 +217,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 6/7/2023*
+***Created on** 3/5/2021 and **last changed** 21/7/2023*
