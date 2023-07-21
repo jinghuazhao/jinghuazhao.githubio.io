@@ -60,6 +60,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * LinkedIn, <https://uk.linkedin.com/company/nihr-bioresource>
 - Nationwide, <https://www.nationwide.co.uk/>
 - [Nine Wells - MyPropertyOnline](https://portal.encoreestates.co.uk/)
+- Norfolk and Suffolk Safety Camera Partnership, <https://www.nsspeedcameras.com>
 - Parkingeye, <https://portal.parkingeye.co.uk/>
 - Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
 - Smart Services Ltd, <https://smartserviceltd.com/>
@@ -92,7 +93,6 @@ title: Jing Hua Zhao's virtual library at PHPC
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
    * [Self-Employment Service (ESS)](https://www.hr.admin.cam.ac.uk/hr-staff/information-new-starters/employee-self-service-ess)
 - [VFS appointment](https://www.vfsglobal.com/Denmark/UK/Schedule_an_appointment.html)
-- <https://www.nsspeedcameras.com>
 
 ## Computing resources
 
