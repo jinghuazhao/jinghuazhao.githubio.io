@@ -60,7 +60,9 @@ title: Jing Hua Zhao's virtual library at PHPC
   * LinkedIn, <https://uk.linkedin.com/company/nihr-bioresource>
 - Nationwide, <https://www.nationwide.co.uk/>
 - [Nine Wells - MyPropertyOnline](https://portal.encoreestates.co.uk/)
-- Norfolk and Suffolk Safety Camera Partnership, <https://www.nsspeedcameras.com>
+- Norfolk and Suffolk
+  * Constabulary, <https://penaltynotice.homeoffice.gov.uk/>
+  * Safety Camera Partnership, <https://www.nsspeedcameras.com>
 - Parkingeye, <https://portal.parkingeye.co.uk/>
 - Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
 - Smart Services Ltd, <https://smartserviceltd.com/>
@@ -217,4 +219,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 29/7/2023*
+***Created on** 3/5/2021 and **last changed** 31/7/2023*
