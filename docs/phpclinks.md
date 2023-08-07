@@ -174,6 +174,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Typora, <https://typora.io/>
     - yozosoft, <https://www.yozosoft.com/>
   - Omics-related sites
+    - bigOmics, <https://bigomics.ch/>
     - Bioconductor support, <https://support.bioconductor.org/>
     - https://cellprofiler.org/, <https://cellprofiler.org/>
     - CoffeeProt, <https://coffeeprot.com/>
@@ -220,4 +221,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 1/8/2023*
+***Created on** 3/5/2021 and **last changed** 7/8/2023*
