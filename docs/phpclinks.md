@@ -167,6 +167,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
+    - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
     - Speedtest, <https://www.speedtest.net/>
     - text-utils, <https://www.text-utils.com/>
@@ -221,4 +222,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 7/8/2023*
+***Created on** 3/5/2021 and **last changed** 8/8/2023*
