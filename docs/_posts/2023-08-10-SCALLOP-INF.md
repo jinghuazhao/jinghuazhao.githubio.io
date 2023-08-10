@@ -5,10 +5,6 @@ tags: info
 mathjax: true
 mathjax_autoNumber: false
 mermaid: true
-article_header:
-  type: cover
-  image:
-    src: assets/images/Horizontal Banner.png
 show_title: false
 ---
 
