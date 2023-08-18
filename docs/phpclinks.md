@@ -90,7 +90,6 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Student Minds, <https://www.studentminds.org.uk/transitions.html> ([documentation](https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180813_transitions_interactive.pdf))
     - Imperial external support, <https://www.imperial.ac.uk/counselling/other-sources-of-help/>
   * Year 13 Leavers' Celebration - Photographs, ([Prizegiving](https://sway.office.com/JLtJZO85ZlFFI85e?ref=Link), [Leavers' Drinks and Dinne](https://sway.office.com/6kpHMNAy7s1dGYVb?ref=Link), [Formal Photo Booth](https://sway.office.com/fU8Ga87t1CHDRm6r?ref=Link))
-  * Results Day, <https://sway.office.com/A0hFNwGYwn0iPrVd?ref=Link>
 - Transport for London (TfL)
   * Congestion charge, <https://tfl.gov.uk/modes/driving/congestion-charge>
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
