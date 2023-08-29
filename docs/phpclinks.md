@@ -21,6 +21,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
   * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), [MyAccount](https://myaccount.cambridge-water.co.uk/))
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
+- Civil enformcement, <https://www.ce-service.co.uk/>
 - COVID-19 vaccine
   * booking a vaccine, [https://www.nhs.uk/covid-vaccination](https://www.nhs.uk/covid-vaccination)
   * booster vaccine, [https:///www.nhs.uk/book-covid-booster](https:///www.nhs.uk/book-covid-booster)
@@ -229,4 +230,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 18/8/2023*
+***Created on** 3/5/2021 and **last changed** 29/8/2023*
