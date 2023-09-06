@@ -35,6 +35,7 @@ show_title: false
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
+- Acquare Recovery, <https://www.acquarecovery.com/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
@@ -48,8 +49,11 @@ show_title: false
 * Eagle Creek Ranch Recovery, <https://idahorecoverycenter.com/>
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
+- Golden Gate Recovery, <https://goldengaterecovery.com/>
+- Immersive Recover, <https://immersiverecovery.com/>
 * IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
 * Jay Walker Lodge, <https://jaywalkerlodge.com/>
+- LagunaShores Recovery, <https://lagunashoresrecovery.com/>
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
@@ -57,9 +61,11 @@ show_title: false
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
+- Santa Babara Recovery, <https://santabarbararecovery.com/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
+- True Life Recovery, <https://trueliferecovery.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
 
 ## Physical, mental and behavioral Health
@@ -87,4 +93,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 5/7/2023*
+***Created on** 12/1/2023 and **last changed** 6/8/2023*
