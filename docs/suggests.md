@@ -50,7 +50,7 @@ show_title: false
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
 - Golden Gate Recovery, <https://goldengaterecovery.com/>
-- Immersive Recover, <https://immersiverecovery.com/>
+- Immersive Recovery, <https://immersiverecovery.com/>
 * IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
 * Jay Walker Lodge, <https://jaywalkerlodge.com/>
 - LagunaShores Recovery, <https://lagunashoresrecovery.com/>
