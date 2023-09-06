@@ -53,7 +53,7 @@ show_title: false
 - Immersive Recovery, <https://immersiverecovery.com/>
 * IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
 * Jay Walker Lodge, <https://jaywalkerlodge.com/>
-- LagunaShores Recovery, <https://lagunashoresrecovery.com/>
+- Laguna Shores Recovery, <https://lagunashoresrecovery.com/>
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
