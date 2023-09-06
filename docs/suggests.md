@@ -61,7 +61,7 @@ show_title: false
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
-- Santa Babara Recovery, <https://santabarbararecovery.com/>
+- Santa Barbara Recovery, <https://santabarbararecovery.com/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
