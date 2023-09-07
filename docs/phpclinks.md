@@ -42,6 +42,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - jetcost, <https://www.jetcost.co.uk/>
 - Imperial College London
   * Welcome, <https://www.imperial.ac.uk/students/new-students/welcome/whats-on/>
+  * Student portal, <https://student-edocuments.imperial.ac.uk/Account/Login>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
 - Local supermarket
@@ -234,4 +235,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 3/9/2023*
+***Created on** 3/5/2021 and **last changed** 7/9/2023*
