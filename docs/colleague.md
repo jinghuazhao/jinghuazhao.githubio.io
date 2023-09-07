@@ -39,7 +39,7 @@ Max Planck-CAS Paul Gerson Unna Research Group on Dermatogenomics: [Sijia Wang](
 National Institute of Health: [Abbas Parsian](https://www.niaaa.nih.gov/dnb)\
 Shandong University: [Biostatistics](http://biostat.sdu.edu.cn/)\
 University College London: [Steve Humphries](https://www.ucl.ac.uk/cardiovascular/cardiovascular-genetics), [Michael Marmot](http://iris.ucl.ac.uk/iris/browse/profile?upi=MGMAR64)([Wiki Entry](http://en.wikipedia.org/wiki/Michael_Marmot)), [Andres Ruiz-Linares](https://www.ucl.ac.uk/biosciences/gee/human-population-genetics), [Arron Hingorani](https://www.ucl.ac.uk/biosciences/people/prof-aroon-hingorani)\
-University of Cambridge:\
+University of Cambridge: [Nicholas J. Wareham](https://research.com/u/nicholas-j-wareham), [Jian'an Luan](https://research.com/u/jianan-luan)\
 University of Hong Kong: [Pak Sham](https://www.psychiatry.hku.hk/prof-pak-sham)\
 University of Illinois at Chicago: [Xiping Xu](http://www.uic.edu/sph/epi-bio/faculty-and-staff)\
 University of Southern Denmark: [Qihua Tan](http://www.sdu.dk/staff/qtan.aspx)
