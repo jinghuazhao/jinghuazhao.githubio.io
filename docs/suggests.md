@@ -32,6 +32,10 @@ show_title: false
 
 # Suggested websites
 
+## General information
+
+*  Fake Fragrances, <https://fakefragrances.com/>
+
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
