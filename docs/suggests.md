@@ -38,6 +38,7 @@ show_title: false
 - Acquare Recovery, <https://www.acquarecovery.com/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
+- Ambrosia Treatment Center, <https://www.ambrosiatc.com/>
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
 * AToN Center, <https://www.atoncenter.com/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
@@ -63,6 +64,7 @@ show_title: false
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
 - Santa Barbara Recovery, <https://santabarbararecovery.com/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
+- Spero Recovery, <https://www.sperorecovery.org/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 - True Life Recovery, <https://trueliferecovery.com/>
@@ -93,4 +95,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 6/8/2023*
+***Created on** 12/1/2023 and **last changed** 8/9/2023*
