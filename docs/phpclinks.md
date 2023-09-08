@@ -42,6 +42,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - jetcost, <https://www.jetcost.co.uk/>
 - Imperial College London
   * Welcome, <https://www.imperial.ac.uk/students/new-students/welcome/whats-on/>
+  * Induction, <https://www.imperial.ac.uk/medicine/study/undergraduate/medicine-mbbs-programmes/inductionhub/>
   * Campuses anre maps, <https://www.imperial.ac.uk/visit/campuses/>
   * Student portal, <https://student-edocuments.imperial.ac.uk/Account/Login>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
