@@ -97,7 +97,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /resources.html
+    url: /resource.html
 
   - titles:
       # @start locale config
