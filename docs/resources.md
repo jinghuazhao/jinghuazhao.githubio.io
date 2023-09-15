@@ -26,7 +26,7 @@ titles:
 mathjax: true
 mathjax_autoNumber: false
 mermaid: true
-key: page-suggests
+key: page-resources
 show_title: false
 ---
 
