@@ -232,9 +232,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Danish sites
   * dtb, <http://dtb.cpr.ku.dk/>
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
+- Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
 - honey.town.milky, <https://what3words.com/honey.town.milky>
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
+- United States Medical Licensing Examination, <https://www.usmle.org/>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 
-***Created on** 3/5/2021 and **last changed** 8/9/2023*
+***Created on** 3/5/2021 and **last changed** 15/9/2023*
