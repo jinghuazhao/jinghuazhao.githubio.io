@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Resources
+  en      : &EN       Resource
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -30,7 +30,7 @@ key: page-resources
 show_title: false
 ---
 
-# Resources
+# Resource
 
 ## General information
 

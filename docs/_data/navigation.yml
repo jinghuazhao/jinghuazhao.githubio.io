@@ -76,7 +76,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Resources
+      en      : &EN       Resource
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -90,7 +90,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       자원
       ko-KR   : *KO
-      fr      : &FR       Ressources
+      fr      : &FR       Ressource
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -115,7 +115,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
+      fr      : &FR       Archive
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
