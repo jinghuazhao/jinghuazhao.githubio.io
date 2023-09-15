@@ -80,6 +80,7 @@ show_title: false
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
 * Innercept, <https://www.innercept.com/>
 * Ironwood Maine, <https://www.ironwoodmaine.com/>
+* Lightwork Therapy & Recovery, <https://lightworktr.com/>
 * Paradigm Treatment, <https://paradigmtreatment.com/>
 * Shortridge Academcy, <https://www.shortridgeacademy.com>
 + The Ridge, <https://theridgertc.com/>
@@ -99,4 +100,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 8/9/2023*
+***Created on** 12/1/2023 and **last changed** 15/9/2023*
