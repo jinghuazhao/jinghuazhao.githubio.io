@@ -97,7 +97,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Imperial external support, <https://www.imperial.ac.uk/counselling/other-sources-of-help/>
   * Year 13 Leavers' Celebration - Photographs, ([Prizegiving](https://sway.office.com/JLtJZO85ZlFFI85e?ref=Link), [Leavers' Drinks and Dinne](https://sway.office.com/6kpHMNAy7s1dGYVb?ref=Link), [Formal Photo Booth](https://sway.office.com/fU8Ga87t1CHDRm6r?ref=Link))
 - Toyota
-  - Owner, <https://www.toyota-tech.eu/Menu/Owner>
+  * <https://www.toyota-tech.eu/> [Owner](https://www.toyota-tech.eu/Menu/Owner)
   * Touch 2 with Go [Map Update Dealer Guide](http://mapupdatecontent.toyota-europe.com/Documents/Dealer%20Guide/MapUpdate_16MM_DealerGuide_English.pdf)
   * Touch 2 with Go [Map Reconfiguration Dealer Guide](http://mapupdatecontent.toyota-europe.com/Documents/Dealer%20Guide/MapReconfiguration_16MM_DealerGuide_English_Split_map_update.pdf)
 - Transport for London (TfL)
