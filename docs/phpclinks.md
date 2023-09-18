@@ -171,6 +171,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - balenaEtcher, <https://etcher.balena.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
+    - epub reader online, <https://epub-reader.online/>
     - foxit, <https://www.foxitsoftware.com/>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
