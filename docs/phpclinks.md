@@ -168,6 +168,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Online utilities/software
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
+    - balenaEtcher, <https://etcher.balena.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - foxit, <https://www.foxitsoftware.com/>
@@ -184,6 +185,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - pdf2djvu, <https://pdf2djvu.com/>
     - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
+    - Rufus, <https://rufus.ie/en/>
     - Speedtest, <https://www.speedtest.net/>
     - text-utils, <https://www.text-utils.com/>
     - time.is, <https://time.is/>
@@ -240,4 +242,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 - <https://www.youtube.com/@Glutenn>
 
-***Created on** 3/5/2021 and **last changed** 17/9/2023*
+***Created on** 3/5/2021 and **last changed** 18/9/2023*
