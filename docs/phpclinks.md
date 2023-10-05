@@ -21,6 +21,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
   * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), [MyAccount](https://myaccount.cambridge-water.co.uk/))
+  * Grand Arcade, <https://www.grandarcade.co.uk/> [stores](https://www.grandarcade.co.uk/stores/)
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
 - Civil enformcement, <https://www.ce-service.co.uk/>
 - COVID-19 vaccine
@@ -250,4 +251,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 3/10/2023*
+***Created on** 3/5/2021 and **last changed** 5/10/2023*
