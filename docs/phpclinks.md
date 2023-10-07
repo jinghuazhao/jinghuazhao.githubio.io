@@ -47,7 +47,9 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Induction, <https://www.imperial.ac.uk/medicine/study/undergraduate/medicine-mbbs-programmes/inductionhub/>
   * Campuses and maps, <https://www.imperial.ac.uk/visit/campuses/>
   * GP Society, <https://linktr.ee/imperialgpsociety>
+  * MedAll, <https://app.medall.org/> ([https://app.medall.org/event-listings/welcome-to-medical-school-tips-and-tricks-2023-2024](https://app.medall.org/events/4dc032db-ff31-43f4-918e-316ba5d9e3d1/live/stage))
   * Student portal, <https://student-edocuments.imperial.ac.uk/Account/Login>
+  * Support for 1st year, <https://tinyurl.com/969etu3h>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
 - Local supermarket
@@ -252,4 +254,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 6/10/2023*
+***Created on** 3/5/2021 and **last changed** 7/10/2023*
