@@ -18,6 +18,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - B&Q clubcard, <https://www.diy.com/customer/my_account/members>
 - Boardingware, <https://www.boardingware.com/>
 - Cambridge
+  * Arts Picturehouse Cambridge, <https://www.picturehouses.com/cinema/arts-picturehouse-cambridge>
   * Cambridge City Council, <https://www.cambridge.gov.uk/> bin collection, [https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied](https://www.cambridge.gov.uk/check-when-your-bin-will-be-emptied)
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
   * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), [MyAccount](https://myaccount.cambridge-water.co.uk/))
@@ -112,6 +113,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - University, <https://www.cam.ac.uk/>
+   * Apple Day 2023, <https://www.botanic.cam.ac.uk/whats-on/apple-day-2023/>
    * cmih, <https://www.cmih.maths.cam.ac.uk/>
    * DPHPC, <https://www.phpc.cam.ac.uk/> (PeopleHR, <https://dphpc.peoplehr.net/> and PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>)
    * medschl login, <https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx>
@@ -180,6 +182,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - balenaEtcher, <https://etcher.balena.io/>
+    - ChatGPT, <https://chat.openai.com/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - epub reader online, <https://epub-reader.online/>
@@ -256,4 +259,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 14/10/2023*
+***Created on** 3/5/2021 and **last changed** 16/10/2023*
