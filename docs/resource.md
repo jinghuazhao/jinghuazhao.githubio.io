@@ -32,16 +32,21 @@ show_title: false
 
 # Resource
 
+## Featured articles
+
++ [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
++ [What is The Connection Between Depression and Drug Addiction?](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
+
 ## General information
 
-*  Fake Fragrances, <https://fakefragrances.com/>
+* Fake Fragrances, <https://fakefragrances.com/>
 
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
 - Acquare Recovery, <https://www.acquarecovery.com/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
-- Alcohol Rehab Help, <https://alcoholrehabhelp.org/> ([Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/))
+- Alcohol Rehab Help, <https://alcoholrehabhelp.org/>
 - Ambrosia Treatment Center, <https://www.ambrosiatc.com/>
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
 * AToN Center, <https://www.atoncenter.com/>
@@ -70,6 +75,7 @@ show_title: false
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 - Spero Recovery, <https://www.sperorecovery.org/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
++ The Recovery Village Cherry Hill at Cooper, <https://www.southjerseyrecovery.com/>
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 - True Life Recovery, <https://trueliferecovery.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
@@ -97,7 +103,8 @@ show_title: false
 
 - Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
 - Dominique Legget, <dominique.legget@thedigitalintellect.com>
+- Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 15/9/2023*
+***Created on** 12/1/2023 and **last changed** 23/10/2023*

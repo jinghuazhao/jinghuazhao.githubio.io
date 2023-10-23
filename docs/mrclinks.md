@@ -252,6 +252,7 @@ title: Jing Hua Zhao's virtual library at MRC
     (IGES)](http://www.geneticepi.org/)
 -   [International Chinese Statistical Association](http://www.icsa.org/)
 -   [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/)
+-   [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
 -   [ITC Research Computing Support Center Talks](http://www.itc.virginia.edu/research/talks/)
 -   [Jonathan Thornburg\'s home page](http://www.soton.ac.uk/%7Ejt1c06/index.html) (C/C++ and other stuff)
 -   [KEGG](http://www.genome.jp/kegg/) (Kyoto Encyclopedia of Genes and Genomes)
@@ -424,4 +425,4 @@ title: Jing Hua Zhao's virtual library at MRC
     2007](http://www.genepi.org/))
 -   <http://zhangroup.aporc.org/HomePage>
 
-***Created on** 22/2/2006 and **last changed** 11/4/2023*
+***Created on** 22/2/2006 and **last changed** 23/10/2023*
