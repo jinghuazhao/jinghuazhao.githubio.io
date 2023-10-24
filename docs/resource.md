@@ -35,11 +35,13 @@ show_title: false
 ## Featured articles
 
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
++ [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
 + [What is The Connection Between Depression and Drug Addiction?](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
 
 ## General information
 
 * Fake Fragrances, <https://fakefragrances.com/>
++ Know your DNA, Know your History, <https://knowyourdna.com/>
 
 ## Drug and substance abuse
 
@@ -103,8 +105,9 @@ show_title: false
 
 - Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
 - Dominique Legget, <dominique.legget@thedigitalintellect.com>
+- Mara Davis <mara@hr.knowyourdna.com>
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 23/10/2023*
+***Created on** 12/1/2023 and **last changed** 24/10/2023*
