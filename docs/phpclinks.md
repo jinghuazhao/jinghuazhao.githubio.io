@@ -55,6 +55,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Student portal, <https://student-edocuments.imperial.ac.uk/Account/Login>
   * Support for 1st year, <https://tinyurl.com/969etu3h>
   * Weekend Away 2023 Ticket, <https://www.imperialcollegeunion.org/shop/csp/music-icsm/weekend-away-2023-ticket>
+  * Wilson House representation, <https://www.imperialcollegeunion.org/representation/a-to-z/wilson-house>
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
 - Local supermarket
@@ -262,4 +263,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 24/10/2023*
+***Created on** 3/5/2021 and **last changed** 25/10/2023*
