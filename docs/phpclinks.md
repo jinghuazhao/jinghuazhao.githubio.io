@@ -206,6 +206,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
+    - png2pdf, <https://png2pdf.com/>
     - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
     - Rufus, <https://rufus.ie/en/>
