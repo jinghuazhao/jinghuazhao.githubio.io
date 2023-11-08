@@ -200,6 +200,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - IMGonline.com.ua, <https://www.imgonline.com.ua/eng/resize-image.php>
     - INBO tutorials, <https://inbo.github.io/tutorials/>
     - jqplay, <https://jqplay.org/>
+    - JSEditor, <https://jseditor.io/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
     - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
     - OddPrints, <https://www.oddprints.com/>
@@ -269,4 +270,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 31/10/2023*
+***Created on** 3/5/2021 and **last changed** 8/11/2023*
