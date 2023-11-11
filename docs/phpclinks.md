@@ -239,6 +239,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - ProteomeXchange, <https://www.proteomexchange.org/>
+    - Protein Structure Prediction Center, <https://predictioncenter.org/>
     - SNP2TFBS, <https://ccg.epfl.ch/snp2tfbs/>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
@@ -270,4 +271,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 8/11/2023*
+***Created on** 3/5/2021 and **last changed** 11/11/2023*
