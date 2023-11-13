@@ -188,6 +188,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - balenaEtcher, <https://etcher.balena.io/>
+    - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - ChatGPT, <https://chat.openai.com/>
     - Dillinger, <https://dillinger.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
@@ -243,6 +244,8 @@ title: Jing Hua Zhao's virtual library at PHPC
     - SNP2TFBS, <https://ccg.epfl.ch/snp2tfbs/>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
+  - Other sites of interest
+    - PhysioNet, <https://physionet.org/content/ms-cxr/>
 
 ## Miscellaneous links
 
@@ -271,4 +274,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 11/11/2023*
+***Created on** 3/5/2021 and **last changed** 13/11/2023*
