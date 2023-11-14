@@ -67,6 +67,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Currys, <https://www.currys.co.uk/>
   * Lidl, <https://www.lidl.co.uk/>
   * M&S, <https://www.marksandspencer.com/>
+  * Ryman, <https://www.ryman.co.uk/> ([club programme](https://www.ryman.co.uk/club-programme/card/index/))
   * Sainsbury, <https://www.sainsburys.co.uk/>
   * Tesco, <https://www.tesco.com/>
 - MRC, <https://www.ukri.org/councils/mrc/>
@@ -274,4 +275,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 13/11/2023*
+***Created on** 3/5/2021 and **last changed** 14/11/2023*
