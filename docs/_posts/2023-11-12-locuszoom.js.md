@@ -1,6 +1,6 @@
 ---
 layout: article
-title: A full stack of Locuszoom.js application
+title: A full stack Locuszoom.js application
 tags: info
 mathjax: true
 mathjax_autoNumber: false
