@@ -186,22 +186,25 @@ title: Jing Hua Zhao's virtual library at PHPC
     - OBI download, <https://www.oracle.com/middleware/technologies/business-intelligence-v12213-downloads.html>
     - SRCF, <https://www.srcf.net/> (site, <https://jhz22.user.srcf.net/>)
     - VirtualBox, <https://www.virtualbox.org/> (all downloads, <https://download.virtualbox.org/virtualbox/>)
-  - Online utilities/software
+  - Online documentation/software/utilities
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - balenaEtcher, <https://etcher.balena.io/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - ChatGPT, <https://chat.openai.com/>
+    - Click, <https://click.palletsprojects.com>
     - Dillinger, <https://dillinger.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - epub reader online, <https://epub-reader.online/>
+    - flask, <https://flask.palletsprojects.com/>
     - foxit, <https://www.foxitsoftware.com/>
     - freeCAD, <https://www.freecad.org/>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
     - IMGonline.com.ua, <https://www.imgonline.com.ua/eng/resize-image.php>
     - INBO tutorials, <https://inbo.github.io/tutorials/>
+    - jinja, <https://jinja.palletsprojects.com/>
     - jqplay, <https://jqplay.org/>
     - JSEditor, <https://jseditor.io/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
@@ -219,6 +222,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - time.is, <https://time.is/>
     - Tabby, <https://tabby.sh>
     - Typora, <https://typora.io/>
+    - WSGI, <https://wsgi.readthedocs.io/>
     - yozosoft, <https://www.yozosoft.com/>
   - Omics-related sites
     - bigOmics, <https://bigomics.ch/>
@@ -276,4 +280,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 14/11/2023*
+***Created on** 3/5/2021 and **last changed** 16/11/2023*
