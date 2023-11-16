@@ -227,7 +227,8 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Omics-related sites
     - bigOmics, <https://bigomics.ch/>
     - Bioconductor support, <https://support.bioconductor.org/>
-    - https://cellprofiler.org/, <https://cellprofiler.org/>
+    - CellProfiler, <https://cellprofiler.org/>
+    - cerno Biosciencec, <https://cernobioscience.com/>
     - CoffeeProt, <https://coffeeprot.com/>
     - Course on GWAS by Matti Pirinen, <https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/>
     - hail, <https://hail.is/index.html>
@@ -244,6 +245,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - OpenTargets, <https://genetics.opentargets.org/>
     - Our Future Health, <https://ourfuturehealth.org.uk/>
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
+    - PerkinElmer, <https://www.perkinelmer.com/>
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - ProteomeXchange, <https://www.proteomexchange.org/>
     - Protein Structure Prediction Center, <https://predictioncenter.org/>
