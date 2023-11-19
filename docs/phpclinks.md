@@ -189,6 +189,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Online documentation/software/utilities
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
+    - apexCharts.js,  <https://apexcharts.com/>
     - balenaEtcher, <https://etcher.balena.io/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - ChatGPT, <https://chat.openai.com/>
@@ -224,6 +225,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Typora, <https://typora.io/>
     - WSGI, <https://wsgi.readthedocs.io/>
     - yozosoft, <https://www.yozosoft.com/>
+    - zotero-gpt, <https://github.com/MuiseDestiny/zotero-gpt>
   - Omics-related sites
     - bigOmics, <https://bigomics.ch/>
     - Bioconductor support, <https://support.bioconductor.org/>
@@ -231,6 +233,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - cerno Biosciencec, <https://cernobioscience.com/>
     - CoffeeProt, <https://coffeeprot.com/>
     - Course on GWAS by Matti Pirinen, <https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/>
+    - d3blocks, <https://github.com/d3blocks/d3blocks> ([documentation](https://d3blocks.github.io/d3blocks/pages/html/index.html#))
     - hail, <https://hail.is/index.html>
     - LocusTrack, <https://gump.qimr.edu.au/general/gabrieC/LocusTrack/index.html>
     - GATK, <https://gatk.broadinstitute.org/hc/en-us>
@@ -282,4 +285,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 16/11/2023*
+***Created on** 3/5/2021 and **last changed** 19/11/2023*
