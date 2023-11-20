@@ -168,6 +168,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * Bing webmaster tool, <https://www.bing.com/webmasters/about>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * Hotmail, <https://outlook.live.com/owa/>
+        * LINQpad, <https://www.linqpad.net/>
         * Support, <https://support.microsoft.com/en-us>
         * Sway, <https://sway.office.com/>
     - Mozilla, <https://www.mozilla.org/en-GB/about/>
@@ -285,4 +286,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 19/11/2023*
+***Created on** 3/5/2021 and **last changed** 20/11/2023*
