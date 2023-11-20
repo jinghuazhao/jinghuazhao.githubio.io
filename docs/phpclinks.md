@@ -199,6 +199,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - epub reader online, <https://epub-reader.online/>
+    - flapjax, <https://www.flapjax-lang.org/>
     - flask, <https://flask.palletsprojects.com/>
     - foxit, <https://www.foxitsoftware.com/>
     - freeCAD, <https://www.freecad.org/>
