@@ -216,6 +216,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
+    - pdf-Xchange, <https://www.pdf-xchange.com/> (discontinued [viewer](https://www.pdf-xchange.com/product/downloads/discontinued))
     - png2pdf, <https://png2pdf.com/>
     - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
@@ -287,4 +288,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 20/11/2023*
+***Created on** 3/5/2021 and **last changed** 21/11/2023*
