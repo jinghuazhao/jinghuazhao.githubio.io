@@ -166,6 +166,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - MicroSoft, <https://www.microsoft.com/>
         * Account, <https://account.live.com/consent/Manage?uaid=00be9fb584174427b1cffb995d934b24>
         * Bing webmaster tool, <https://www.bing.com/webmasters/about>
+        * Bing image creator, <https://www.bing.com/images/create/>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * Hotmail, <https://outlook.live.com/owa/>
         * LINQpad, <https://www.linqpad.net/>
@@ -288,4 +289,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 21/11/2023*
+***Created on** 3/5/2021 and **last changed** 25/11/2023*
