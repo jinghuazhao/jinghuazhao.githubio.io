@@ -194,6 +194,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - apexCharts.js,  <https://apexcharts.com/>
     - balenaEtcher, <https://etcher.balena.io/>
+    - Brave, <https://brave.com/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - ChatGPT, <https://chat.openai.com/>
     - Click, <https://click.palletsprojects.com>
@@ -205,6 +206,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - flask, <https://flask.palletsprojects.com/>
     - foxit, <https://www.foxitsoftware.com/>
     - freeCAD, <https://www.freecad.org/>
+    - gravis, <https://robert-haas.github.io/gravis-docs/index.html>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
     - IMGonline.com.ua, <https://www.imgonline.com.ua/eng/resize-image.php>
@@ -290,4 +292,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 29/11/2023*
+***Created on** 3/5/2021 and **last changed** 2/12/2023*
