@@ -226,6 +226,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
     - Rufus, <https://rufus.ie/en/>
     - Speedtest, <https://www.speedtest.net/>
+    - Template-Rcpp, <https://github.com/stsds/Template-Rcpp> (LinkedIn [post](https://www.linkedin.com/feed/update/urn:li:activity:7136774813066358785/))
     - text-utils, <https://www.text-utils.com/>
     - time.is, <https://time.is/>
     - Tabby, <https://tabby.sh>
@@ -292,4 +293,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 2/12/2023*
+***Created on** 3/5/2021 and **last changed** 4/12/2023*
