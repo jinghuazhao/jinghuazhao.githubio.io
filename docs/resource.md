@@ -34,6 +34,7 @@ show_title: false
 
 ## Featured articles
 
++ [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
 + [What is The Connection Between Depression and Drug Addiction?](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
@@ -110,4 +111,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 24/10/2023*
+***Created on** 12/1/2023 and **last changed** 6/12/2023*
