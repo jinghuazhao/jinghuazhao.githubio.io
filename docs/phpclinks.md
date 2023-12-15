@@ -218,6 +218,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - JSEditor, <https://jseditor.io/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
     - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
+    - MobaXterm, <https://mobaxterm.mobatek.net/>
     - OddPrints, <https://www.oddprints.com/>
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
@@ -295,4 +296,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 13/12/2023*
+***Created on** 3/5/2021 and **last changed** 15/12/2023*
