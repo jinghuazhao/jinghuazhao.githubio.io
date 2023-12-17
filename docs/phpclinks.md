@@ -163,6 +163,8 @@ title: Jing Hua Zhao's virtual library at PHPC
         * Adwords keywords planner, <https://ads.google.com/home/tools/keyword-planner/>
         * App Engine, <https://cloud.google.com/appengine/>
         * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
+        * DeepMind, <https://deepmind.google/>
+        * Gemini, <https://ai.google.dev/>
         * Search console, <https://search.google.com/search-console/about>
         * Translate, <https://translate.google.co.uk/>
     - MicroSoft, <https://www.microsoft.com/>
@@ -296,4 +298,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 15/12/2023*
+***Created on** 3/5/2021 and **last changed** 17/12/2023*
