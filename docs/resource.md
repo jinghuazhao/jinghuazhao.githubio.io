@@ -57,6 +57,7 @@ show_title: false
 + Blue Star Recovery, <https://bluestarrecovery.com/>
 - Casco Bay Recovery, The Leading Addiction Treatment Center for Portland, Maine, <https://cascobayrecovery.com/>
 * Crestview Recovery, <https://www.crestviewrecovery.com/>
+* Denoon Recovery Center, <https://www.denoonrecovery.com/>
 * Discovery Institute, <https://www.discoverynj.org/>
 * Drug and Alcohol Addiction Treatment Services, <https://addiction-treatment-services.com/>
 * Eagle Creek Ranch Recovery, <https://idahorecoverycenter.com/>
@@ -70,6 +71,7 @@ show_title: false
 * Legends Recovery Center LLC, <https://legendsrecovery.com/>
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
+* Massachusetts Addiction Treatment Center, <https://advancedaddictioncenter.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
@@ -86,12 +88,16 @@ show_title: false
 ## Physical, mental and behavioral Health
 
 * Adler Health, <https://adlerhealth.com/>
+* Elevated Wellness Clinic, <https://elevatedwellnessclinic.com/>
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
 * Innercept, <https://www.innercept.com/>
 * Ironwood Maine, <https://www.ironwoodmaine.com/>
 * Lightwork Therapy & Recovery, <https://lightworktr.com/>
+* Mental Health Speak, <https://mentalhealthpeak.com/>
+* Monroe Street Housing, <https://monroestreetsoberliving.com/>
 * Paradigm Treatment, <https://paradigmtreatment.com/>
 * Shortridge Academcy, <https://www.shortridgeacademy.com>
+* Taste Recovery, <https://www.tasterecovery.com/>
 + The Ridge, <https://theridgertc.com/>
 * Tusk Kratom, <https://tuskkratom.com/>
 * West Valley Detox, <https://westvalleydetox.com/>
@@ -111,4 +117,4 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 6/12/2023*
+***Created on** 12/1/2023 and **last changed** 3/1/2024*
