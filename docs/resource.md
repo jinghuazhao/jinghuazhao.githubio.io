@@ -37,6 +37,7 @@ show_title: false
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
++ [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch]()
 + [What is The Connection Between Depression and Drug Addiction?](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
 
 ## General information
@@ -110,11 +111,12 @@ show_title: false
 
 ## Contributors
 
-- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
 - Dominique Legget, <dominique.legget@thedigitalintellect.com>
+- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
+- Emma Tressler, <healthcare@thedigitalintellect.com>
+- Enmanuel Batista <ebatista@drugwatch.com>
 - Mara Davis <mara@hr.knowyourdna.com>
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
-- Emma Tressler, <healthcare@thedigitalintellect.com>
 
 ***Created on** 12/1/2023 and **last changed** 3/1/2024*
