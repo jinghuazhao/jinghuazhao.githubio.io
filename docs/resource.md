@@ -85,6 +85,7 @@ show_title: false
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 - True Life Recovery, <https://trueliferecovery.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
+* Wisconsin Recovery Institute, <https://wisconsinrecoveryinstitute.com/resources/>
 
 ## Physical, mental and behavioral Health
 
@@ -119,4 +120,4 @@ show_title: false
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 3/1/2024*
+***Created on** 12/1/2023 and **last changed** 6/1/2024*
