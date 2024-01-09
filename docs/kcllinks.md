@@ -29,6 +29,7 @@ Here are links to general information, E-journals, supplementary information for
 - [Calendopeadia](https://www.calendarpedia.co.uk/)
 - [Digitalglobe](http://www.digitalglobe.com/)
 - [Earthshots](https://earthshotprize.org/)
+- ESL games, activities and other online learning resources, <https://crossword-solver.io/esl-activities-for-english-class/>
 - [Jennifer\'s Language page](https://users.elite.net/runner/jennifers/)
 - [Landsat 7 gateway](https://www.eoportal.org/satellite-missions/landsat-7)
 - [New York Times](http://www.nytimes.com/) online
@@ -500,4 +501,4 @@ Here are links to general information, E-journals, supplementary information for
 - [Space shuttle](archive/shutt.jpg)
 - [Toil](archive/plough.jpg)
 
-***Date last modified**: 8/2/2023*
+***Date last modified**: 9/1/2024*

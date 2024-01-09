@@ -73,6 +73,7 @@ show_title: false
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
 * Massachusetts Addiction Treatment Center, <https://advancedaddictioncenter.com/>
+* Moving Mountains Recovery, <https://movingmountainsrecovery.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
@@ -120,4 +121,4 @@ show_title: false
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 6/1/2024*
+***Created on** 12/1/2023 and **last changed** 9/1/2024*
