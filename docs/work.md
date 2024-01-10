@@ -37,8 +37,8 @@ and [Framingham](http://www.framinghamheartstudy.org/). The EPIC-Norfolk
 genomewide association study contributed to consortia such as
 [GIANT](http://www.broadinstitute.org/collaboration/giant/index.php/Main_Page)
 and [CHARGE](http://web.chargeconsortium.com/) therefore myself as a
-[highly cited researcher](https://clarivate.com/hcr/) and featured in
-[research.com genetics](https://research.com/scientists-rankings/genetics).
+[highly cited researcher](https://clarivate.com/hcr/) broadly in research.com's
+[genetics](https://research.com/scientists-rankings/genetics) and [medicine](https://research.com/scientists-rankings/medicine).
 My recent contribution was to [The COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 through [The INTERVAL study](https://www.intervalstudy.org.uk/).
 
