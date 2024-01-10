@@ -212,6 +212,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - foxit, <https://www.foxitsoftware.com/>
     - freeCAD, <https://www.freecad.org/>
     - gravis, <https://robert-haas.github.io/gravis-docs/index.html>
+    - Icecream PDF Editor, <https://icecreamapps.com/PDF-Editor/>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
     - IMGonline.com.ua, <https://www.imgonline.com.ua/eng/resize-image.php>
@@ -226,6 +227,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
+    - PDFgear, <https://www.pdfgear.com/>
     - pdf-Xchange, <https://www.pdf-xchange.com/> (discontinued [viewer](https://www.pdf-xchange.com/product/downloads/discontinued))
     - png2pdf, <https://png2pdf.com/>
     - quarto, <https://quarto.org/>
@@ -299,4 +301,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 2/1/2024*
+***Created on** 3/5/2021 and **last changed** 10/1/2024*
