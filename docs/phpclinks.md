@@ -201,7 +201,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - balenaEtcher, <https://etcher.balena.io/>
     - Brave, <https://brave.com/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
-    - Calibre, <https://calibre.en.softonic.com/>
+    - Calibre, <https://calibre-ebook.com/>
     - ChatGPT, <https://chat.openai.com/>
     - Click, <https://click.palletsprojects.com>
     - Dillinger, <https://dillinger.io/>
