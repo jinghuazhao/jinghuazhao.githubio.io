@@ -201,6 +201,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - balenaEtcher, <https://etcher.balena.io/>
     - Brave, <https://brave.com/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
+    - Calibre, <https://calibre.en.softonic.com/>
     - ChatGPT, <https://chat.openai.com/>
     - Click, <https://click.palletsprojects.com>
     - Dillinger, <https://dillinger.io/>
@@ -301,4 +302,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 10/1/2024*
+***Created on** 3/5/2021 and **last changed** 11/1/2024*
