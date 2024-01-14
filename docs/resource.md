@@ -34,24 +34,7 @@ show_title: false
 
 ## Work-related
 
-```mermaid
-graph LR
-
-%% Nodes
-KCL
-UCL
-MRC
-PHPC
-
-%% Node Connections
-KCL --> UCL --> MRC --> PHPC
-
-%% Node Links
-click KCL "kcllinks.md"
-click UCL "ucllinks.md"
-click MRC "mrclinks.md"
-click PHPC "phpclinks.md"
-```
+[![](https://mermaid.ink/img/pako:eNqVkT1vAyEMQP8KspQtudsZulyHSr1GUarbWChHDhow6M4MSZT_XtMPqaoitV0wst6zDb6ASaMFCdOssxP9XqHC1UpsObsofOx6hUM9nvadwt3DrvsGiC4hWkM-4QcrNps7MXxGNt7jT6n3eGTcBG-OokoKHFFeZNu-epxc0WenUzN5cuWl8anNLjPMUuMoBgVf7vAHt5hwS62z_abG-WbX-px_jwxriHaO2o_81ReFgiuQs9EqkHwd7UGXQLXJlVFdKD2f0ICkudg1lDxqsvde85IiyIMOi72-AVgGmJQ?type=png)](https://mermaid.live/edit#pako:eNqVkT1vAyEMQP8KspQtudsZulyHSr1GUarbWChHDhow6M4MSZT_XtMPqaoitV0wst6zDb6ASaMFCdOssxP9XqHC1UpsObsofOx6hUM9nvadwt3DrvsGiC4hWkM-4QcrNps7MXxGNt7jT6n3eGTcBG-OokoKHFFeZNu-epxc0WenUzN5cuWl8anNLjPMUuMoBgVf7vAHt5hwS62z_abG-WbX-px_jwxriHaO2o_81ReFgiuQs9EqkHwd7UGXQLXJlVFdKD2f0ICkudg1lDxqsvde85IiyIMOi72-AVgGmJQ)
 
 ## Featured articles
 
