@@ -32,6 +32,27 @@ show_title: false
 
 # Resource
 
+## Work-related
+
+```mermaid
+graph LR
+
+%% Nodes
+KCL
+UCL
+MRC
+PHPC
+
+%% Node Connections
+KCL --> UCL --> MRC --> PHPC
+
+%% Node Links
+click KCL "kcllinks.md"
+click UCL "ucllinks.md"
+click MRC "mrclinks.md"
+click PHPC "phpclinks.md"
+```
+
 ## Featured articles
 
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
