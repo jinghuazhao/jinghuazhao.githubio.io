@@ -76,24 +76,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Bookmarks from workplaces
 
-```mermaid
-graph LR
-
-%% Nodes
-KCL
-UCL
-MRC
-PHPC
-
-%% Node Connections
-KCL --> UCL --> MRC --> PHPC
-
-%% Node Links
-click KCL "kcllinks.md"
-click UCL "ucllinks.md"
-click MRC "mrclinks.md"
-click PHPC "phpclinks.md"
-```
+[![](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
 
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
