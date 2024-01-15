@@ -76,7 +76,20 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Bookmarks from workplaces
 
-[![](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
+[![Mermaid Live Editor](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
+
+```mermaid
+graph TD
+
+%% Nodes
+KCL[[KCL](kcllinks.md), [comments](iop/comments.txt)]
+UCL[[UCL](ucllinks.md), [comments](ucl/comments.txt)]
+MRC[[MRC](mrclinks.md), [comments](mrc/comments.txt)]
+PHPC[[PHPC](phpclinks.md)]
+
+%% Node Connections
+KCL --> UCL --> MRC --> PHPC
+```
 
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
