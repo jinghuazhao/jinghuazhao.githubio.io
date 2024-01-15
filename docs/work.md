@@ -78,17 +78,6 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 [![Mermaid Live Editor](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
 
-[![Mermaid Live Editor](http://tinyurl.com/mpwwzr7z)](http://tinyurl.com/36486kuj)
-
-```mermaid
-graph TD
-KCL[<a href="https://jinghuazhao.github.io/kcllinks.html">KCL</a> (<a href="https://jinghuazhao.github.io/iop/comments.txt">comments</a>)]
-UCL[<a href="https://jinghuazhao.github.io/ucllinks.html">UCL</a> (<a href="https://jinghuazhao.github.io/ucl/comments.txt">comments</a>)]
-MRC[<a href="https://jinghuazhao.github.io/mrclinks.html">MRC</a> (<a href="https://jinghuazhao.github.io/mrc/comments.txt">comments</a>)]
-PHPC[<a href="https://jinghuazhao.github.io/phpclinks.html">PHPC</a>]
-KCL --> UCL --> MRC --> PHPC
-```
-
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 - MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
 - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
@@ -106,3 +95,14 @@ KCL --> UCL --> MRC --> PHPC
   F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
   F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
   ```
+
+[![Mermaid Live Editor](http://tinyurl.com/mpwwzr7z)](http://tinyurl.com/36486kuj)
+
+```mermaid
+graph TD
+KCL[<a href="https://jinghuazhao.github.io/kcllinks.html">KCL</a> (<a href="https://jinghuazhao.github.io/iop/comments.txt">comments</a>)]
+UCL[<a href="https://jinghuazhao.github.io/ucllinks.html">UCL</a> (<a href="https://jinghuazhao.github.io/ucl/comments.txt">comments</a>)]
+MRC[<a href="https://jinghuazhao.github.io/mrclinks.html">MRC</a> (<a href="https://jinghuazhao.github.io/mrc/comments.txt">comments</a>)]
+PHPC[<a href="https://jinghuazhao.github.io/phpclinks.html">PHPC</a>]
+KCL --> UCL --> MRC --> PHPC
+```
