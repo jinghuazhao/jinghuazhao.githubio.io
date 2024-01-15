@@ -78,9 +78,6 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 [![Mermaid Live Editor](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
 
-- PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
-- MRC-Epid, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
-- UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
 - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
   ```mermaid
   graph BT;
@@ -95,6 +92,9 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
   F3(Mathematical Statistics) --> B(Genetic Epidemiology & Biostatistics);
   F4(Computer Science) --> B(Genetic Epidemiology & Biostatistics);
   ```
+- UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
+- MRC, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
+- PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 
 [![Mermaid Live Editor](http://tinyurl.com/mpwwzr7z)](http://tinyurl.com/36486kuj)
 
