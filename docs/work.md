@@ -96,7 +96,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 - MRC, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 
-[![Mermaid Live Editor](http://tinyurl.com/mpwwzr7z)](http://tinyurl.com/36486kuj)
+[![Mermaid Live Editor](http://tinyurl.com/3zbemzd3)](http://tinyurl.com/ynxphvpa)
 
 ```mermaid
 graph TD
