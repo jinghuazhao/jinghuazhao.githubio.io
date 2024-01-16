@@ -32,7 +32,7 @@ show_title: false
 
 # Resource
 
-Bookmarks from work: ![](bookmarks.svg)
+Bookmarks from work: [![](bookmarks.svg)](bookmarks.svg)
 
 ## Featured articles
 
