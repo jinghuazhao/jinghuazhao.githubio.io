@@ -123,6 +123,6 @@ show_title: false
 
 ---
 
-## Workplace bookmarks
-
 <object data="bookmarks.svg" type="image/svg+xml" width="1000" height="500">SVG not supported</object>
+
+## Workplace bookmarks
