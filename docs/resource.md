@@ -32,7 +32,7 @@ show_title: false
 
 # Resource
 
-Bookmarks from work: <object data="bookmarks.svg" type="image/svg+xml" width="450" height="100"> Your browser does not support SVG</object>
+Bookmarks from work: <object data="bookmarks.svg" type="image/svg+xml" width="650" height="40">Your browser does not support SVG</object>
 
 ## Featured articles
 
