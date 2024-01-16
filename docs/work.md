@@ -76,7 +76,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Bookmarks from workplaces
 
-[![Mermaid Live Editor](http://tinyurl.com/3zbemzd3)](http://tinyurl.com/3tbj9x4v)
+[![Bookmarks from work](bookmarks.svg)](bookmarks.svg)
 
 - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
   ```mermaid
