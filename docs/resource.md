@@ -109,7 +109,6 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-<object data="bookmarks.svg" type="image/svg+xml" width="800" height="300">SVG not supported</object>
 ---
 
 ## Contributors
@@ -123,3 +122,7 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 
 ***Created on** 12/1/2023 and **last changed** 16/1/2024*
+
+## Workplace bookmarks
+
+<object data="bookmarks.svg" type="image/svg+xml" width="1000" height="500">SVG not supported</object>
