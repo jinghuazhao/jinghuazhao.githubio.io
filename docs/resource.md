@@ -109,8 +109,6 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
----
-
 ## Contributors
 
 - Dominique Legget, <dominique.legget@thedigitalintellect.com>
@@ -122,6 +120,8 @@ show_title: false
 - Rachel Parker, <iamrachelparker@gmail.com>
 
 ***Created on** 12/1/2023 and **last changed** 16/1/2024*
+
+---
 
 ## Workplace bookmarks
 
