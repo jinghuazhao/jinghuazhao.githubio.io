@@ -98,9 +98,13 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ```mermaid
 graph LR
-KCL[<a href="https://jinghuazhao.github.io/kcllinks.html">KCL</a>/<a href="https://jinghuazhao.github.io/iop/comments.txt">comments</a>]
-UCL[<a href="https://jinghuazhao.github.io/ucllinks.html">UCL</a>/<a href="https://jinghuazhao.github.io/ucl/comments.txt">comments</a>]
-MRC[<a href="https://jinghuazhao.github.io/mrclinks.html">MRC</a>/<a href="https://jinghuazhao.github.io/mrc/comments.txt">comments</a>]
-PHPC[<a href="https://jinghuazhao.github.io/phpclinks.html">PHPC</a>]
+
+%% Nodes
+KCL(<a href="https://jinghuazhao.github.io/kcllinks.html" style="font-size: 25px;">KCL</a><a href="https://jinghuazhao.github.io/iop/comments.txt" style="font-size: 16px;vertical-align: top;">req</a>)
+UCL(<a href="https://jinghuazhao.github.io/ucllinks.html" style="font-size: 25px;">UCL</a><a href="https://jinghuazhao.github.io/ucl/comments.txt" style="font-size: 16px;vertical-align: top;">req</a>)
+MRC(<a href="https://jinghuazhao.github.io/mrclinks.html" style="font-size: 25px;">MRC</a><a href="https://jinghuazhao.github.io/mrc/comments.txt"  style="font-size: 16px;vertical-align: top;">req</a>)
+PHPC(<a href="https://jinghuazhao.github.io/phpclinks.html" style="font-size: 25px;">PHPC</a>)
+
+%% Node Connections
 KCL --> UCL --> MRC --> PHPC
 ```
