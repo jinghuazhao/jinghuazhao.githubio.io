@@ -76,8 +76,6 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Bookmarks from workplaces
 
-<object data="bookmarks.svg" type="image/svg+xml" width="800" height="300">SVG not supported</object>
-
 - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
   ```mermaid
   graph BT;
@@ -95,6 +93,8 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
 - MRC, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
+
+[![Bookmarks from work](bookmarks.svg)](bookmarks.svg)
 
 ```mermaid
 graph LR

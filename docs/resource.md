@@ -32,8 +32,6 @@ show_title: false
 
 # Resource
 
-[![Bookmarks from work](bookmarks.svg)](bookmarks.svg)
-
 ## Featured articles
 
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
@@ -111,6 +109,7 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
+<object data="bookmarks.svg" type="image/svg+xml" width="800" height="300">SVG not supported</object>
 ---
 
 ## Contributors
