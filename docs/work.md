@@ -76,7 +76,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 ## Bookmarks from workplaces
 
-[![Mermaid Live Editor](http://tinyurl.com/3prev9x4)](http://tinyurl.com/bde4thhy)
+[![Mermaid Live Editor](http://tinyurl.com/3zbemzd3)](http://tinyurl.com/3tbj9x4v)
 
 - KCL, <https://www.kcl.ac.uk/>, [links](kcllinks.md) with [comments](iop/comments.txt) and a [graphviz](assets/images/grViz.png) diagram from [grViz.gv](assets/images/grViz.gv) and mermaid.
   ```mermaid
@@ -95,8 +95,6 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 - UCL, <https://www.ucl.ac.uk/>, [links](ucllinks.md) with [comments](ucl/comments.txt).
 - MRC, <https://www.mrc-epid.cam.ac.uk/>, [links](mrclinks.md) with [comments](mrc/comments.txt).
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
-
-[![Mermaid Live Editor](http://tinyurl.com/3zbemzd3)](http://tinyurl.com/3tbj9x4v)
 
 ```mermaid
 graph TD
