@@ -123,6 +123,13 @@ show_title: false
 
 ---
 
+<svg width="1000" height="500" xmlns="bookmarks.svg">
+  <rect width="50" height="50" fill="blue" />
+  <text x="25" y="25" font-size="12" fill="white" alignment-baseline="before-edge">
+    Your Text
+  </text>
+</svg>
+
 <object data="bookmarks.svg" type="image/svg+xml" width="1000" height="500">SVG not supported</object>
 
 ## Workplace bookmarks
