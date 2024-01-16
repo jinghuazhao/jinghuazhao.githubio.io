@@ -97,7 +97,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 - PHPC, <https://www.phpc.cam.ac.uk/>, [links](phpclinks.md).
 
 ```mermaid
-graph TD
+graph LR
 KCL[<a href="https://jinghuazhao.github.io/kcllinks.html">KCL</a>/<a href="https://jinghuazhao.github.io/iop/comments.txt">comments</a>]
 UCL[<a href="https://jinghuazhao.github.io/ucllinks.html">UCL</a>/<a href="https://jinghuazhao.github.io/ucl/comments.txt">comments</a>]
 MRC[<a href="https://jinghuazhao.github.io/mrclinks.html">MRC</a>/<a href="https://jinghuazhao.github.io/mrc/comments.txt">comments</a>]
