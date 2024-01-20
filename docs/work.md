@@ -98,9 +98,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 [^bookmark]:
 
-    The following diagram links to Mermaid Live Editor.
-
-    [![](http://tinyurl.com/mrk7nduu)](http://tinyurl.com/3sx6p23w)
+    This diagram links to Mermaid Live Editor: <http://tinyurl.com/3sx6p23w>.
 
     ```mermaid
     graph LR
