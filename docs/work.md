@@ -100,15 +100,15 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
     The following diagram links to Mermaid Live Editor.
 
-    [![](http://tinyurl.com/2acy4pxh)](http://tinyurl.com/54j8t9bp)
+    [![](http://tinyurl.com/c7bx7jwd)](http://tinyurl.com/2s3tuv9v)
 
     ```mermaid
     graph LR
 
     %% Nodes
-    KCL(<a href="https://jinghuazhao.github.io/kcllinks.html" style="font-size: 25px;"><u>KCL</u></a><a href="https://jinghuazhao.github.io/iop/comments.txt" style="font-size: 16px;vertical-align: top;"><i>R</i>  </a>)
-    UCL(<a href="https://jinghuazhao.github.io/ucllinks.html" style="font-size: 25px;"><u>UCL</u></a><a href="https://jinghuazhao.github.io/ucl/comments.txt" style="font-size: 16px;vertical-align: top;"><i>R</i></a>)
-    MRC(<a href="https://jinghuazhao.github.io/mrclinks.html" style="font-size: 25px;"><u>MRC</u></a><a href="https://jinghuazhao.github.io/mrc/comments.txt"  style="font-size: 16px;vertical-align: top;"><i>R</i></a>)
+    KCL(<a href="https://jinghuazhao.github.io/kcllinks.html" style="font-size: 25px;"><u>KCL</u></a><a href="https://jinghuazhao.github.io/iop/comments.txt" style="font-size: 16px;vertical-align: top;"><i class="fa fa-heart" style="font-size:16px;color:red"></i></a>)
+    UCL(<a href="https://jinghuazhao.github.io/ucllinks.html" style="font-size: 25px;"><u>UCL</u></a><a href="https://jinghuazhao.github.io/ucl/comments.txt" style="font-size: 16px;vertical-align: top;"><i class="fa fa-heart" style="font-size:16px;color:red"></i></a>)
+    MRC(<a href="https://jinghuazhao.github.io/mrclinks.html" style="font-size: 25px;"><u>MRC</u></a><a href="https://jinghuazhao.github.io/mrc/comments.txt"  style="font-size: 16px;vertical-align: top;"><i class="fa fa-heart" style="font-size:16px;color:red"></i></a>)
     PHPC(<a href="https://jinghuazhao.github.io/phpclinks.html" style="font-size: 25px;"><u>PHPC</u></a>)
 
     %% Node Connections
