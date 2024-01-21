@@ -181,6 +181,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Mozilla, <https://www.mozilla.org/en-GB/about/>
     - MySQL, <https://dev.mysql.com/>
     - Paper with code, <https://paperswithcode.com/>
+    - Raspberry Pi OS, <https://www.raspberrypi.com/software/>
     - Science Media Centre, <https://www.sciencemediacentre.org/>
     - Twitter, <https://github.com/twitter>
     - zenodo, <https://zenodo.org/>
@@ -302,4 +303,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 11/1/2024*
+***Created on** 3/5/2021 and **last changed** 21/1/2024*
