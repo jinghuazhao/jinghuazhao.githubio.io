@@ -124,7 +124,10 @@ title: Jing Hua Zhao's virtual library at PHPC
 - University, <https://www.cam.ac.uk/>
    * Apple Day 2023, <https://www.botanic.cam.ac.uk/whats-on/apple-day-2023/>
    * cmih, <https://www.cmih.maths.cam.ac.uk/>
-   * DPHPC, <https://www.phpc.cam.ac.uk/> (PeopleHR, <https://dphpc.peoplehr.net/> and PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>)
+   * DPHPC, <https://www.phpc.cam.ac.uk/>
+     - CanRisk, <https://www.canrisk.org/>
+     - PeopleHR, <https://dphpc.peoplehr.net/>
+     - PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>
    * medschl login, <https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx>
    * MyCompliance certificate, <https://cloud.metacompliance.com/View/Certificate?courseID=79459>
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
@@ -303,4 +306,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 21/1/2024*
+***Created on** 3/5/2021 and **last changed** 23/1/2024*
