@@ -122,6 +122,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - University, <https://www.cam.ac.uk/>
+   * Accelerate Programme for Scientific Discovery, <https://acceleratescience.github.io/>
    * Apple Day 2023, <https://www.botanic.cam.ac.uk/whats-on/apple-day-2023/>
    * cmih, <https://www.cmih.maths.cam.ac.uk/>
    * DPHPC, <https://www.phpc.cam.ac.uk/>
