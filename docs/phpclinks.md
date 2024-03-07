@@ -282,8 +282,8 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## Special interest
 
-- Van der Schaar Lab, [Modern Data Visualization with R](https://www.vanderschaar-lab.com/)
-- Robert Kabacoff, <https://rkabacoff.github.io/datavis/index.html>
+- Van der Schaar Lab, <https://www.vanderschaar-lab.com/>
+- Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 
 ## Miscellaneous links
 
