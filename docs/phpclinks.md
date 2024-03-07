@@ -280,6 +280,11 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Other sites of interest
     - PhysioNet, <https://physionet.org/content/ms-cxr/>
 
+## Special interest
+
+- Van der Schaar Lab, [Modern Data Visualization with R](https://www.vanderschaar-lab.com/)
+- Robert Kabacoff, <https://rkabacoff.github.io/datavis/index.html>
+
 ## Miscellaneous links
 
 - [A healthy diet for guinea pigs](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs/diet)
@@ -307,4 +312,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 4/3/2024*
+***Created on** 3/5/2021 and **last changed** 7/3/2024*
