@@ -44,28 +44,5 @@ Packages | Comments
                                    | GPL. Specific requirement may be possible for programs written by  
                                    | other authors.                    
 -----------------------------------|-----------------------------------
- **Name:**                         | [kinship](software/kinship_1.1.4.tar.gz) ([Windows version](software/kinship_1.1.4.zip))
------------------------------------|-----------------------------------
- **Version:**                      | 1.1.4                             
------------------------------------|-----------------------------------
- **Date:**                         | 2012-10-15                        
------------------------------------|-----------------------------------
- **Title:**                        | mixed-effects Cox models, sparse matrices, and modeling data from  
-                                   | large pedigrees                   
------------------------------------|-----------------------------------
- **Author:**                       | Beth Atkinson (<atkinson@mayo.edu>) for pedigree functions.
-                                   | Terry Therneau (<therneau@mayo.edu>) for all other functions.          
------------------------------------|-----------------------------------
- **Depends:**                      | survival, nlme, lattice           
------------------------------------|-----------------------------------
- **Description:**                  | coxme: general mixed-effects Cox models; kinship: routines to      
-                                   | create and manipulate n by n matrices that describe the        
-                                   | genetic relationships between n persons; pedigree: create and     
-                                   | plot pedigrees; bdsmatrix: a class of objects for sparse       
-                                   | block-diagonal matrices (which is how kinship matrices are stored); 
-                                   | gchol: generalized cholesky decompositions.
------------------------------------|-----------------------------------
- **License:**                      | GPL (\>=2)                        
------------------------------------|-----------------------------------
 
-*Date last changed* 16/3/2016
+*Date last changed* 11/3/2024
