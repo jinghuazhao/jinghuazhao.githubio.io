@@ -26,7 +26,11 @@ implemented new functions or maintained packages by colleagues into R. as report
 
 4. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
-        - gap ([vignette](https://jinghuazhao.github.io/R/vignettes/gap.html), [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html), [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf))
+        - gap, <https://cran.r-project.org/package=gap>
+              - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
+              - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf)
+              - [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html)
+              - [vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)
         - gap.datasets
         - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
         - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
@@ -35,7 +39,11 @@ implemented new functions or maintained packages by colleagues into R. as report
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) [pQTLdata](https://jinghuazhao.github.io/pQTLdata/) ([vignette](https://jinghuazhao.github.io/R/vignettes/pQTLdata.html))
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/) ([vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html), [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html), [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html))
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/)
+        - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
+        - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html)
+        - [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
+        - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
 5. JumpStart sites
    - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
    - CRAN submission, <https://cran.r-project.org/submit.html>
