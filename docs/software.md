@@ -27,7 +27,7 @@ implemented new functions or maintained packages by colleagues into R. as report
 4. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
-          - [ChangeLog](https://jinghuazhao.github.io/R/vignettes/ChangeLog)
+          - [ChangeLog](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
           - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf)
           - [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html)
