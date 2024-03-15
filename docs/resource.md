@@ -30,7 +30,7 @@ key: page-resources
 show_title: false
 ---
 
-# Resource<a href="https://jinghuazhao.github.io/resources.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:20px;color:red"></i></a>
+# Resource<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"> <i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
 
 ## Bookmarks
 
