@@ -79,11 +79,13 @@ show_title: false
 * Live Free Recovery Services -- Drug Rehab Program,  <https://livefreerecoverynh.com/programs/>
 - Magnolia City Detox, <https://magnoliacitydetox.com/programs/>
 * Massachusetts Addiction Treatment Center, <https://advancedaddictioncenter.com/>
+* Melrose Recovery, <https://www.melroserecovery.com/>
 * Moving Mountains Recovery, <https://movingmountainsrecovery.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
 + Principles Recovery Center, <https://principlesrecoverycenter.com/>
+* Rebirth Recovery Center, <https://rebirthrecoverycenter.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
 - Santa Barbara Recovery, <https://santabarbararecovery.com/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
@@ -98,6 +100,7 @@ show_title: false
 ## Physical, mental and behavioral Health
 
 * Adler Health, <https://adlerhealth.com/>
+* Blume Behavioral Health, <https://blumebh.com/>
 * Elevated Wellness Clinic, <https://elevatedwellnessclinic.com/>
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
 * Innercept, <https://www.innercept.com/>
@@ -132,4 +135,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 13/2/2024*
+***Created on** 12/1/2023 and **last changed** 15/2/2024*
