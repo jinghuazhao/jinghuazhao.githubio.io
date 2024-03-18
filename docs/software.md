@@ -25,7 +25,7 @@ implemented new functions or maintained packages by colleagues into R. as report
   - [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06)
 
 4. GitHub repositories
-  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) based on [R packages](r-progs.md)
+  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com))based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
           - [ChangeLog](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
@@ -48,7 +48,6 @@ implemented new functions or maintained packages by colleagues into R. as report
 5. JumpStart sites
    - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
    - CRAN submission, <https://cran.r-project.org/submit.html>
-   - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
    - R Developer Page, <https://developer.r-project.org/>
 
 I also made a [University of London](http://www.lon.ac.uk/) [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
