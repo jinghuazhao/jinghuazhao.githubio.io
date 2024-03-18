@@ -25,7 +25,7 @@ implemented new functions or maintained packages by colleagues into R. as report
   - [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06)
 
 4. GitHub repositories
-  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com))based on [R packages](r-progs.md)
+  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
           - [ChangeLog](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
