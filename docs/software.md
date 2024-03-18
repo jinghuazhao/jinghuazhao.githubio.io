@@ -49,7 +49,7 @@ implemented new functions or maintained packages by colleagues into R. as report
    - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
    - CRAN submission, <https://cran.r-project.org/submit.html>
    - [www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)
-   - R Developer Page, <developer.r-project.org>
+   - R Developer Page, <https://developer.r-project.org/>
 
 I also made a [University of London](http://www.lon.ac.uk/) [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
 together with [Endnote](http://www.endnote.com/) [genetic reference library](iop/jinghua/refs/genetics.enl)
