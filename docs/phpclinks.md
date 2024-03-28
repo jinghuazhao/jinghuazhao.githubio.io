@@ -3,7 +3,7 @@ layout: article
 title: Jing Hua Zhao's virtual library at PHPC
 ---
 
-## AI-related
+## AI-related sites
 
 - ChatGPT, <https://chat.openai.com/> (all-rounder)
 - [Claude-3](https://lmsys.org/) (free)
