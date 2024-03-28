@@ -3,6 +3,15 @@ layout: article
 title: Jing Hua Zhao's virtual library at PHPC
 ---
 
+## AI-related
+
+- ChatGPT, <https://chat.openai.com/> (all-rounder)
+- [Claude-3](https://lmsys.org/) (free)
+- [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
+- [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
+- [Midjourney](https://www.midjourney.com/home) (drawing)
+- [Perplexity AI](https://www.perplexity.ai/) (search)
+
 ## Local information
 
 - AccuWeather, <https://www.accuweather.com/>
@@ -207,7 +216,6 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Brave, <https://brave.com/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - Calibre, <https://calibre-ebook.com/>
-    - ChatGPT, <https://chat.openai.com/>
     - Click, <https://click.palletsprojects.com>
     - Dillinger, <https://dillinger.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
@@ -312,4 +320,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 7/3/2024*
+***Created on** 3/5/2021 and **last changed** 28/3/2024*
