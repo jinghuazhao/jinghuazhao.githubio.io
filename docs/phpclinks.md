@@ -130,7 +130,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Congestion charge, <https://tfl.gov.uk/modes/driving/congestion-charge>
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
-- Trip Advisor, <https://www.tripadvisor.co.uk>
+- Tripadvisor, <https://www.tripadvisor.co.uk>
 - University, <https://www.cam.ac.uk/>
    * Accelerate Programme for Scientific Discovery, <https://acceleratescience.github.io/>
    * Apple Day 2023, <https://www.botanic.cam.ac.uk/whats-on/apple-day-2023/>
