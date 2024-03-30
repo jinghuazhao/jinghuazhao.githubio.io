@@ -5,11 +5,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## AI-related sites
 
-- ChatGPT, <https://chat.openai.com/> (all-rounder)
+- [ChatGPT](https://chat.openai.com/) (most popular)
 - [Claude-3](https://lmsys.org/) (free)
 - [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
-- [Midjourney](https://www.midjourney.com/home) (drawing)
+- [Midjourney](https://www.midjourney.com/home) (picture drawing)
 - [Perplexity AI](https://www.perplexity.ai/) (search)
 
 ## Local information
@@ -130,6 +130,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Congestion charge, <https://tfl.gov.uk/modes/driving/congestion-charge>
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
+- Trip Advisor, <https://www.tripadvisor.co.uk>
 - University, <https://www.cam.ac.uk/>
    * Accelerate Programme for Scientific Discovery, <https://acceleratescience.github.io/>
    * Apple Day 2023, <https://www.botanic.cam.ac.uk/whats-on/apple-day-2023/>
@@ -320,4 +321,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 28/3/2024*
+***Created on** 3/5/2021 and **last changed** 30/3/2024*
