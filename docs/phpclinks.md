@@ -222,6 +222,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - epub reader online, <https://epub-reader.online/>
+    - equation editor, <https://editor.codecogs.com/>
     - flapjax, <https://www.flapjax-lang.org/>
     - flask, <https://flask.palletsprojects.com/>
     - foxit, <https://www.foxitsoftware.com/>
@@ -321,4 +322,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 30/3/2024*
+***Created on** 3/5/2021 and **last changed** 4/4/2024*
