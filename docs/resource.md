@@ -41,6 +41,7 @@ show_title: false
 
 ## Featured articles
 
++ [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
@@ -133,4 +134,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 15/3/2024*
+***Created on** 12/1/2023 and **last changed** 9/4/2024*
