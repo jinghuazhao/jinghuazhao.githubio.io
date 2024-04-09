@@ -5,9 +5,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## AI-related sites
 
-- [ChatGPT](https://chat.openai.com/) (most popular)
+- [OpenAI](https://openai.com/)
+  - [ChatGPT](https://chat.openai.com/) (most popular)
+  - [DALL·E 3](https://openai.com/dall-e-3)
+  - [sora](https://openai.com/sora)
 - [Claude-3](https://lmsys.org/) (free)
-- [DALL·E 3](https://openai.com/dall-e-3)
 - [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
 - [Midjourney](https://www.midjourney.com/home) (picture drawing)
