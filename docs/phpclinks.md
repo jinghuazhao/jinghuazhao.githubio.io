@@ -7,6 +7,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 - [ChatGPT](https://chat.openai.com/) (most popular)
 - [Claude-3](https://lmsys.org/) (free)
+- [DALL·E 3](https://openai.com/dall-e-3)
 - [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
 - [Midjourney](https://www.midjourney.com/home) (picture drawing)
@@ -322,4 +323,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 4/4/2024*
+***Created on** 3/5/2021 and **last changed** 9/4/2024*
