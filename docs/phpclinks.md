@@ -195,6 +195,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * LINQpad, <https://www.linqpad.net/>
         * Support, <https://support.microsoft.com/en-us>
         * Sway, <https://sway.office.com/>
+        * Windows 11 virtual machines, <https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/>
     - Mozilla, <https://www.mozilla.org/en-GB/about/>
     - MySQL, <https://dev.mysql.com/>
     - Paper with code, <https://paperswithcode.com/>
@@ -325,4 +326,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 9/4/2024*
+***Created on** 3/5/2021 and **last changed** 10/4/2024*
