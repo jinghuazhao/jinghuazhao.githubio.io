@@ -14,6 +14,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
 - [Midjourney](https://www.midjourney.com/home) (picture drawing)
 - [Perplexity AI](https://www.perplexity.ai/) (search)
+- Stability AI, <https://stability.ai/>
 
 ## Local information
 
@@ -327,4 +328,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 
-***Created on** 3/5/2021 and **last changed** 13/4/2024*
+***Created on** 3/5/2021 and **last changed** 18/4/2024*
