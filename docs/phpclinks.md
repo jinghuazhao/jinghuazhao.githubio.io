@@ -223,6 +223,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
     - Calibre, <https://calibre-ebook.com/>
     - Click, <https://click.palletsprojects.com>
+    - ConvertWizard, <https://convertwizard.com/>
     - Dillinger, <https://dillinger.io/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
@@ -329,4 +330,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 19/4/2024*
+***Created on** 3/5/2021 and **last changed** 21/4/2024*
