@@ -277,6 +277,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - GATK, <https://gatk.broadinstitute.org/hc/en-us>
     - GBMI, <https://www.globalbiobankmeta.org/resources>
     - GA4GH, <https://www.ga4gh.org/>
+    * G*Power, <https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower>, <https://stats.oarc.ucla.edu/other/gpower/>
     - GTEx, <https://gtexportal.org/home/datasets>
     - GWAS atlas, <https://atlas.ctglab.nl/traitDB>
     - GWAS Catalog, <https://www.ebi.ac.uk/gwas/>
@@ -330,4 +331,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 21/4/2024*
+***Created on** 3/5/2021 and **last changed** 23/4/2024*
