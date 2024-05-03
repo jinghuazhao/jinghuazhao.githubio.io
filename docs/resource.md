@@ -45,7 +45,6 @@ show_title: false
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch](https://www.drugwatch.com/)
-+ [The connection between depression and drug addiction](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
 + [Ultra-processed food and what does it mean](https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food)
 
 ## Drug and substance abuse
