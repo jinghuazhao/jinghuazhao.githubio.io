@@ -44,10 +44,9 @@ show_title: false
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
-+ [Is Parkinson’s Genetic?](https://knowyourdna.com/parkinsons-genetic/)
 + [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch](https://www.drugwatch.com/)
++ [The connection between depression and drug addiction](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
 + [Ultra-processed food and what does it mean](https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food)
-+ [What is The Connection Between Depression and Drug Addiction?](https://www.southjerseyrecovery.com/treatment-programs/dual-diagnosis/depression/)
 
 ## Drug and substance abuse
 
