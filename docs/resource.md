@@ -42,8 +42,8 @@ show_title: false
 ## Featured articles
 
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
++ [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
-+ [Effects of Alcohol - Cancer](https://alcoholrehabhelp.org/addiction/effects/cancer/)
 + [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch](https://www.drugwatch.com/)
 + [Ultra-processed food and what does it mean](https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food)
 
