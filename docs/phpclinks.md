@@ -12,6 +12,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - [Claude-3](https://lmsys.org/) (free)
 - [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
+- Llama 3, <https://llama.meta.com/llama3/>
 - [Midjourney](https://www.midjourney.com/home) (picture drawing)
 - [Perplexity AI](https://www.perplexity.ai/) (search)
 - Stability AI, <https://stability.ai/>
@@ -331,4 +332,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 23/4/2024*
+***Created on** 3/5/2021 and **last changed** 6/5/2024*
