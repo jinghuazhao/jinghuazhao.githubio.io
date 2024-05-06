@@ -117,6 +117,10 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
+## Sheltering
+
+- All-Type Roofing Services, <https://www.all-typeroofingservices.com/>
+
 ---
 
 ## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
@@ -133,4 +137,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 3/5/2024*
+***Created on** 12/1/2023 and **last changed** 6/5/2024*
