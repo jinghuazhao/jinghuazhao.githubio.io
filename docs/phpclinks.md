@@ -102,6 +102,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Parkingeye, <https://portal.parkingeye.co.uk/>
 - Royal mail, <https://www.royalmail.com/>
 - Schengen visa requirement, <https://www.schengenvisainfo.com/schengen-visa-application-requirements/>
+- SDU Syddansk Universitet, <https://sdu.itslearning.com/> (<servicedesk@sdu.dk>, password.sdu.dk, itsl-jzh@sdu.dk)
 - Smart Services Ltd, <https://smartserviceltd.com/>
 - Tax service, <https://www.tax.service.gov.uk/personal-account> ([tax relief](https://www.gov.uk/tax-relief-for-employees))
 - The Perse School, <https://www.perse.co.uk/>
@@ -333,4 +334,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 7/5/2024*
+***Created on** 3/5/2021 and **last changed** 21/5/2024*
