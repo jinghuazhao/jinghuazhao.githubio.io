@@ -227,6 +227,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Click, <https://click.palletsprojects.com>
     - ConvertWizard, <https://convertwizard.com/>
     - Dillinger, <https://dillinger.io/>
+    - Django 5.0 documentation, <https://docs.djangoproject.com/en/5.0/>
     - DjVuLibre, <http://djvu.sourceforge.net/>
     - djvu.org, <http://djvu.org>
     - epub reader online, <https://epub-reader.online/>
@@ -334,4 +335,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 30/5/2024*
+***Created on** 3/5/2021 and **last changed** 31/5/2024*
