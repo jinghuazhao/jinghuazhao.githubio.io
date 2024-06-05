@@ -1,7 +1,7 @@
 ---
 layout: article
 title: pQTLtools is updated!
-tags: info
+tags: pQTLtools
 mathjax: true
 mathjax_autoNumber: false
 mermaid: true
