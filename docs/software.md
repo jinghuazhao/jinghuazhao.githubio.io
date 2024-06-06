@@ -27,7 +27,9 @@ implemented new functions or maintained packages by colleagues into R. as report
 4. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
-          - [ChangeLog](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt), [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf), [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html), [vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)
+          - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
+          - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [news](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
+          - [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html), [vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)
         - gap.datasets
         - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
         - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
