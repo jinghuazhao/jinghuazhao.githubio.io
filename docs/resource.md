@@ -82,6 +82,7 @@ show_title: false
 * MPower Wellness Exton, <https://mpowerwellness.com/>
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
++ Pathways Treatment Center, <https://pathwaystreatmentcenter.com/>
 + Principles Recovery Center, <https://principlesrecoverycenter.com/>
 * Rebirth Recovery Center, <https://rebirthrecoverycenter.com/>
 * Sana Lake Recovery Behavioral Wellness Center, <https://sanalake.com/service-areas/maryland-heights/>
@@ -99,6 +100,7 @@ show_title: false
 
 * Adler Health, <https://adlerhealth.com/>
 * Blume Behavioral Health, <https://blumebh.com/>
+* Breakwater Behavioral Health, <https://breakwaterbehavioralhealth.com/>
 * Elevated Wellness Clinic, <https://elevatedwellnessclinic.com/>
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
 * Innercept, <https://www.innercept.com/>
@@ -117,9 +119,10 @@ show_title: false
 
 * Shepherd Premier Senior Living, <https://shepherdpremierseniorliving.com/>
 
-## Sheltering
+## Sheltering & building
 
 - All-Type Roofing Services, <https://www.all-typeroofingservices.com/>
+- Allied Buildings, <https://www.alliedbuildings.com/>
 
 ---
 
@@ -137,4 +140,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 6/5/2024*
+***Created on** 12/1/2023 and **last changed** 6/6/2024*
