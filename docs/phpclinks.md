@@ -192,6 +192,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * Account, <https://account.live.com/consent/Manage?uaid=00be9fb584174427b1cffb995d934b24>
         * Bing webmaster tool, <https://www.bing.com/webmasters/about>
         * Bing image creator, <https://www.bing.com/images/create/>
+        * dotnet, <https://dotnet.microsoft.com/en-us/>
         * [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
         * GatesNotes, <https://www.gatesnotes.com/>
         * Hotmail, <https://outlook.live.com/owa/>
@@ -335,4 +336,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 31/5/2024*
+***Created on** 3/5/2021 and **last changed** 13/6/2024*
