@@ -8,23 +8,12 @@ sidebar:
   nav: docs-en
 ---
 
-1. I have converted some functionality of my programs (most are on the
-[Rockefeller list of genetic software](https://github.com/gaow/genetic-analysis-software)),
-implemented new functions or maintained packages by colleagues into R. as reported in
-[gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08).
+1. JumpStart sites
+   - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
+   - CRAN submission, <https://cran.r-project.org/submit.html>
+   - R Developer Page, <https://developer.r-project.org/>
 
-2. The examples provided for [SAS](http://en.wikipedia.org/wiki/SAS_System), [Stata](http://en.wikipedia.org/wiki/Stata) and
-[R](http://www.r-project.org/) can be considered as extension to those in
-[Genetic dissection of complex traits *In silico*: approaches, problems and solutions](paper/cbio06.pdf).
-  - [SAS programs](sas-progs.md)
-  - [Stata programs](stata-progs.md)
-
-3. My work on mixed models is described in the following papers
-  - [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127)
-  - [Mixed modeling with whole genome data](http://www.hindawi.com/journals/jps/2012/485174/)
-  - [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06)
-
-4. GitHub repositories
+2. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
@@ -44,10 +33,22 @@ implemented new functions or maintained packages by colleagues into R. as report
         - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
         - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
         - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
-5. JumpStart sites
-   - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
-   - CRAN submission, <https://cran.r-project.org/submit.html>
-   - R Developer Page, <https://developer.r-project.org/>
+
+3. I have converted some functionality of my programs (most are on the
+[Rockefeller list of genetic software](https://github.com/gaow/genetic-analysis-software)),
+implemented new functions or maintained packages by colleagues into R. as reported in
+[gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08).
+
+4. The examples provided for [SAS](http://en.wikipedia.org/wiki/SAS_System), [Stata](http://en.wikipedia.org/wiki/Stata) and
+[R](http://www.r-project.org/) can be considered as extension to those in
+[Genetic dissection of complex traits *In silico*: approaches, problems and solutions](paper/cbio06.pdf).
+  - [SAS programs](sas-progs.md)
+  - [Stata programs](stata-progs.md)
+
+5. My work on mixed models is described in the following papers
+  - [Mixed-effects Cox models of alcohol dependence in extended families](https://link.springer.com/article/10.1186/1471-2156-6-S1-S127)
+  - [Mixed modeling with whole genome data](http://www.hindawi.com/journals/jps/2012/485174/)
+  - [Bayesian linear mixed models with polygenic effects](https://www.jstatsoft.org/article/view/v085i06)
 
 I also made a [University of London](http://www.lon.ac.uk/) [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
 together with [Endnote](http://www.endnote.com/) [genetic reference library](iop/jinghua/refs/genetics.enl)
