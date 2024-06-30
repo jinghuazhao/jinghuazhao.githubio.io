@@ -8,12 +8,7 @@ sidebar:
   nav: docs-en
 ---
 
-1. JumpStart sites
-   - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
-   - CRAN submission, <https://cran.r-project.org/submit.html>
-   - R Developer Page, <https://developer.r-project.org/>
-
-2. GitHub repositories
+1. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
@@ -33,6 +28,11 @@ sidebar:
         - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
         - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
         - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
+
+2. JumpStart sites
+   - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
+   - CRAN submission, <https://cran.r-project.org/submit.html>
+   - R Developer Page, <https://developer.r-project.org/>
 
 3. I have converted some functionality of my programs (most are on the
 [Rockefeller list of genetic software](https://github.com/gaow/genetic-analysis-software)),
