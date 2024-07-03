@@ -94,6 +94,7 @@ show_title: false
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 - True Life Recovery, <https://trueliferecovery.com/>
 * Westwind Behavioral Health Treatment, <https://www.westwindrecovery.com/>
+* White Lotus Landing, <https://www.whitelotuslanding.com/>
 * Wisconsin Recovery Institute, <https://wisconsinrecoveryinstitute.com/resources/>
 
 ## Physical, mental and behavioral Health
@@ -140,4 +141,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 6/6/2024*
+***Created on** 12/1/2023 and **last changed** 3/7/2024*
