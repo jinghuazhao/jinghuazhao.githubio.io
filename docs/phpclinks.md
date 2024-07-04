@@ -256,6 +256,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - PDFgear, <https://www.pdfgear.com/>
     - pdf-Xchange, <https://www.pdf-xchange.com/> (discontinued [viewer](https://www.pdf-xchange.com/product/downloads/discontinued))
     - png2pdf, <https://png2pdf.com/>
+    - PhotoScissors, <https://photoscissors.com/>
     - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
     - Rufus, <https://rufus.ie/en/>
@@ -336,4 +337,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 13/6/2024*
+***Created on** 3/5/2021 and **last changed** 4/7/2024*
