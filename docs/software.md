@@ -16,7 +16,7 @@ sidebar:
         - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
         - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
         - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
-  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com) and also <https://www.rdocumentation.org/>) based on [R packages](r-progs.md)
+  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com), <https://www.rdocumentation.org/>) based on [R packages](r-progs.md)
         - [gap](https://www.rdocumentation.org/packages/gap/), <https://cran.r-project.org/package=gap>
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
           - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [news](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
