@@ -9,6 +9,13 @@ sidebar:
 ---
 
 1. GitHub repositories
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) [pQTLdata](https://jinghuazhao.github.io/pQTLdata/)
+        - [manual](https://jinghuazhao.github.io/pQTLdata/reference/pQTLdata.html), [news](https://jinghuazhao.github.io/pQTLdata/news/index.html)
+        - [vignette](https://jinghuazhao.github.io/pQTLdata/articles/pQTLdata.html)
+  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/)
+        - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
+        - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
+        - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com)) based on [R packages](r-progs.md)
         - gap, <https://cran.r-project.org/package=gap>
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
@@ -21,13 +28,6 @@ sidebar:
         - tdthap ([vignette](https://jinghuazhao.github.io/R/vignettes/tdthap-paper.pdf))
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) [pQTLdata](https://jinghuazhao.github.io/pQTLdata/)
-        - [manual](https://jinghuazhao.github.io/pQTLdata/reference/pQTLdata.html), [news](https://jinghuazhao.github.io/pQTLdata/news/index.html)
-        - [vignette](https://jinghuazhao.github.io/pQTLdata/articles/pQTLdata.html)
-  : [![](bees.svg)](https://github.com/jinghuazhao/pQTLtools) [pQTLtools](https://jinghuazhao.github.io/pQTLtools/)
-        - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
-        - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
-        - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
 
 2. JumpStart sites
    - Bioconductor contribution, <https://contributions.bioconductor.org/index.html>
