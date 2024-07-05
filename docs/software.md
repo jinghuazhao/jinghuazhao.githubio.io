@@ -16,16 +16,16 @@ sidebar:
         - Articles, [bioconductor](https://jinghuazhao.github.io/pQTLtools/articles/bioconductor.html), [ExpressionSet](https://jinghuazhao.github.io/pQTLtools/articles/es.html), [LocusZoom.js](https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html), [snakemake](https://jinghuazhao.github.io/pQTLtools/articles/snakemake.html), [SCALLOP-INF](https://jinghuazhao.github.io/pQTLtools/articles/SCALLOP-INF.html)
         - [manual](https://jinghuazhao.github.io/pQTLtools/reference/pQTLtools.html), [news](https://jinghuazhao.github.io/pQTLtools/news/index.html)
         - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
-  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com), and also <https://www.rdocumentation.org/>: [gap](https://www.rdocumentation.org/packages/gap/), [gap.datasets](https://www.rdocumentation.org/packages/gap.datasets), [lmm](https://www.rdocumentation.org/packages/lmm), [pan](https://www.rdocumentation.org/packages/pan). [tdthap](https://www.rdocumentation.org/packages/tdthap)) based on [R packages](r-progs.md)
-        - gap, <https://cran.r-project.org/package=gap>
+  : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com) and also <https://www.rdocumentation.org/>) based on [R packages](r-progs.md)
+        - [gap](https://www.rdocumentation.org/packages/gap/), <https://cran.r-project.org/package=gap>
           - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
           - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [news](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
           - [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html), [vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)
-        - gap.datasets
+        - [gap.datasets](https://www.rdocumentation.org/packages/gap.datasets)
         - kinship ([vignette](https://jinghuazhao.github.io/R/vignettes/kinship.pdf))
-        - lmm ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
-        - pan ([vignette](https://jinghuazhao.github.io/R/vignettes/pan-tr.pdf))
-        - tdthap ([vignette](https://jinghuazhao.github.io/R/vignettes/tdthap-paper.pdf))
+        - [lmm](https://www.rdocumentation.org/packages/lmm) ([vignette](https://jinghuazhao.github.io/R/vignettes/lmm-tr.pdf))
+        - [pan](https://www.rdocumentation.org/packages/pan) ([vignette](https://jinghuazhao.github.io/R/vignettes/pan-tr.pdf))
+        - [tdthap](https://www.rdocumentation.org/packages/tdthap) ([vignette](https://jinghuazhao.github.io/R/vignettes/tdthap-paper.pdf))
   : [![](bees.svg)](https://github.com/jinghuazhao/Haplotype-Analysis) [Haplotype analysis](https://jinghuazhao.github.io/Haplotype-Analysis/) based on [C programs](c-progs.md)
   : [![](bees.svg)](https://github.com/jinghuazhao/misc) [misc](https://jinghuazhao.github.io/misc/)ellaneous collections based on [miscellaneous programs](misc-progs.md)
 
