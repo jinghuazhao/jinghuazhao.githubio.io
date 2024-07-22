@@ -114,7 +114,7 @@ reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.asp
 
 <details>
 
-```mermaid
+```
 graph LR;
 KCL["<a href='https://jinghuazhao.github.io/kcllinks.html' style='font-size: 25px;font-size:90%'><u>KCL</u></a><a href='https://jinghuazhao.github.io/iop/comments.txt' style='font-size: 16px;vertical-align: top;'><i class='fa fa-heart' style='font-size:16px;color:red'></i></a>"]
 UCL["<a href='https://jinghuazhao.github.io/ucllinks.html' style='font-size: 25px;font-size:90%'><u>UCL</u></a><a href='https://jinghuazhao.github.io/ucl/comments.txt' style='font-size: 16px;vertical-align: top;'><i class='fa fa-heart' style='font-size:16px;color:red'></i></a>"]
