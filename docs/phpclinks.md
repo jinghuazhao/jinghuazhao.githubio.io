@@ -57,23 +57,6 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Personal account, <https://www.tax.service.gov.uk/personal-account>
   * Register for Self Assessment Online, <https://www.online.hmrc.gov.uk/>
 - jetcost, <https://www.jetcost.co.uk/>
-- Imperial College London
-  * Welcome, <https://www.imperial.ac.uk/students/new-students/welcome/whats-on/>
-  * Induction, <https://www.imperial.ac.uk/medicine/study/undergraduate/medicine-mbbs-programmes/inductionhub/>
-  * Campuses and maps, <https://www.imperial.ac.uk/visit/campuses/>
-  * Disclosure and Barring Service (DBS), <https://www.imperial.ac.uk/human-resources/compliance-and-immigration/dbs/>
-  * In-person Christmas Baking Event Tickets, <https://www.imperialcollegeunion.org/shop/csp/baking/person-christmas-baking-event-tickets>
-  * GP Society, <https://linktr.ee/imperialgpsociety>
-  * MedAll, <https://app.medall.org/> ([https://app.medall.org/event-listings/welcome-to-medical-school-tips-and-tricks-2023-2024](https://app.medall.org/events/4dc032db-ff31-43f4-918e-316ba5d9e3d1/live/stage))
-  * <https://myelopathy.org/>
-  * [Recruitment and Outreach Student Ambassador](https://imperial.eu.qualtrics.com/jfe/form/SV_5pfsSiLSKwxYuhg)
-  * Student portal, <https://student-edocuments.imperial.ac.uk/Account/Login>
-  * Support for 1st year, <https://tinyurl.com/969etu3h>
-  * Weekend Away 2023 Ticket, <https://www.imperialcollegeunion.org/shop/csp/music-icsm/weekend-away-2023-ticket>
-  * Wilson House representation, <https://www.imperialcollegeunion.org/representation/a-to-z/wilson-house>
-  * Study / revision
-    + Anki, <https://apps.ankiweb.net/> ([2anki](https://2anki.net/upload))
-    + [OTT Anatomy.apkg](<https://drive.google.com/file/d/1ri1gc4vLqo1NupO0it6qt2FtC3BKmVLo/view?pli=1)
 - [LHR directions](https://www.heathrow-airport-guide.co.uk/directions.html)
 - [LHR short-stay parking](https://www.heathrow.com/transport-and-directions/heathrow-parking/heathrow-short-stay-parking)
 - Local supermarket
