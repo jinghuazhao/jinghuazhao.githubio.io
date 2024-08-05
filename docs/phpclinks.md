@@ -233,6 +233,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
     - MobaXterm, <https://mobaxterm.mobatek.net/>
     - OddPrints, <https://www.oddprints.com/>
+    - Oh My Posh, <https://ohmyposh.dev/>
     - Online2PDF, <https://online2pdf.com/docx2pdf>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
@@ -320,4 +321,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 26/7/2024*
+***Created on** 3/5/2021 and **last changed** 5/8/2024*
