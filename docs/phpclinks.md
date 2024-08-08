@@ -277,6 +277,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - OpenTargets, <https://genetics.opentargets.org/>
     - Our Future Health, <https://ourfuturehealth.org.uk/>
     - PGSCatalog, <http://www.pgscatalog.org/> ([*Calculator*](https://pgsc-calc.readthedocs.io/en/latest/), [*Nat Genet*](https://www.nature.com/articles/s41588-021-00783-5) & [*Cell Genomics*](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00042-8) papers)
+    - Pheno.AI, <https://knowledgebase.pheno.ai/>
     - PerkinElmer, <https://www.perkinelmer.com/>
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - ProteomeXchange, <https://www.proteomexchange.org/>
@@ -290,6 +291,8 @@ title: Jing Hua Zhao's virtual library at PHPC
 ## Special interest
 
 - Van der Schaar Lab, <https://www.vanderschaar-lab.com/>
+- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
+- Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 
 ## Miscellaneous links
@@ -321,4 +324,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 5/8/2024*
+***Created on** 3/5/2021 and **last changed** 8/8/2024*
