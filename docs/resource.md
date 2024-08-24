@@ -38,12 +38,12 @@ show_title: false
 
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
-
-+ Cell, <https://www.cell.com/>
-+ Nature, <https://www.nature.com/>
-+ PNAS, <https://www.pnas.org/>
-+ Science, <https://www.science.org/journal/science>
-+ Scientific American, <https://www.scientificamerican.com/>
++ Journals
+    + Cell, <https://www.cell.com/>
+    + Nature, <https://www.nature.com/>
+    + PNAS, <https://www.pnas.org/>
+    + Science, <https://www.science.org/journal/science>
+    + Scientific American, <https://www.scientificamerican.com/>
 
 ## Featured articles
 
