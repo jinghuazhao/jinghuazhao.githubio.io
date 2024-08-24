@@ -39,6 +39,12 @@ show_title: false
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 
++ Cell, <https://www.cell.com/>
++ Nature, <https://www.nature.com/>
++ PNAS, <https://www.pnas.org/>
++ Science, <https://www.science.org/journal/science>
++ Scientific American, <https://www.scientificamerican.com/>
+
 ## Featured articles
 
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
@@ -143,4 +149,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 5/8/2024*
+***Created on** 12/1/2023 and **last changed** 24/8/2024*
