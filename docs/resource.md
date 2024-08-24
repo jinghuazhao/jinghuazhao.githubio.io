@@ -38,7 +38,7 @@ show_title: false
 
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
-+ Journals
++ Journals & magazines
     + Cell, <https://www.cell.com/>
     + Nature, <https://www.nature.com/>
     + PNAS, <https://www.pnas.org/>
