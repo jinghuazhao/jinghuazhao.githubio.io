@@ -9,10 +9,10 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Claude-3, <https://lmarena.ai/>
   - GitHub, <https://github.com/lm-sys>
 - Crayon, <https://www.craiyon.com/>
-- Gemini, <https://gemini.google.com/> (alternative to ChatGPT)
+- Gemini, <https://gemini.google.com/>
 - Kmi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Llama 3, <https://llama.meta.com/llama3/>
-- Midjourney, <https://www.midjourney.com/home> (picture drawing)
+- Midjourney, <https://www.midjourney.com/home>
 - OpenAI, <https://openai.com/>
   - ChatGPT, <https://chat.openai.com/>
   - DALL·E 3, <https://openai.com/dall-e-3>
