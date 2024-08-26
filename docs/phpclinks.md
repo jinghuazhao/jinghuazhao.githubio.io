@@ -5,15 +5,18 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## AI-related sites
 
-- [Claude-3](https://lmsys.org/) (free)
-- [Crayon](https://www.craiyon.com/) (free)
+- [LMSYS Org](https://lmsys.org/)
+  - Claude-3, <https://lmarena.ai/>
+  - GitHub, <https://github.com/lm-sys>
+- [Crayon](https://www.craiyon.com/))
 - [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
 - [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
 - Llama 3, <https://llama.meta.com/llama3/>
 - [Midjourney](https://www.midjourney.com/home) (picture drawing)
 - [OpenAI](https://openai.com/)
-  - [ChatGPT](https://chat.openai.com/) (most popular)
-  - [DALL·E 3](https://openai.com/dall-e-3)
+  - ChatGPT, <https://chat.openai.com/>
+  - DALL·E 3, <https://openai.com/dall-e-3>
+  - GitHub, <https://github.com/openai>
   - [sora](https://openai.com/sora)
 - [Perplexity AI](https://www.perplexity.ai/) (search)
 - Stability AI, <https://stability.ai/>
@@ -324,4 +327,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 18/8/2024*
+***Created on** 3/5/2021 and **last changed** 26/8/2024*
