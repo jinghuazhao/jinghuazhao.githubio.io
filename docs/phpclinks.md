@@ -5,7 +5,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## AI-related sites
 
-- [LMSYS Org](https://lmsys.org/)
+- LMSYS Org, <https://lmsys.org/>
   - Claude-3, <https://lmarena.ai/>
   - GitHub, <https://github.com/lm-sys>
 - Crayon, <https://www.craiyon.com/>
@@ -17,7 +17,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - ChatGPT, <https://chat.openai.com/>
   - DALL·E 3, <https://openai.com/dall-e-3>
   - GitHub, <https://github.com/openai>
-  - [sora](https://openai.com/sora)
+  - sora, <https://openai.com/sora>
 - Perplexity AI, <https://www.perplexity.ai/> (search)
 - Stability AI, <https://stability.ai/>
 
