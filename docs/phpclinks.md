@@ -8,17 +8,17 @@ title: Jing Hua Zhao's virtual library at PHPC
 - [LMSYS Org](https://lmsys.org/)
   - Claude-3, <https://lmarena.ai/>
   - GitHub, <https://github.com/lm-sys>
-- [Crayon](https://www.craiyon.com/))
-- [Gemini](https://gemini.google.com/) (alternative to ChatGPT)
-- [Kmi chat](https://kimi.moonshot.cn/) (PDF processing)
+- Crayon, <https://www.craiyon.com/>
+- Gemini, <https://gemini.google.com/> (alternative to ChatGPT)
+- Kmi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Llama 3, <https://llama.meta.com/llama3/>
-- [Midjourney](https://www.midjourney.com/home) (picture drawing)
-- [OpenAI](https://openai.com/)
+- Midjourney, <https://www.midjourney.com/home> (picture drawing)
+- OpenAI, <https://openai.com/>
   - ChatGPT, <https://chat.openai.com/>
   - DALL·E 3, <https://openai.com/dall-e-3>
   - GitHub, <https://github.com/openai>
   - [sora](https://openai.com/sora)
-- [Perplexity AI](https://www.perplexity.ai/) (search)
+- Perplexity AI, <https://www.perplexity.ai/> (search)
 - Stability AI, <https://stability.ai/>
 
 ## Local information
