@@ -18,7 +18,7 @@ sidebar:
         - [vignette](https://jinghuazhao.github.io/pQTLtools/articles/pQTLtools.html)
   : [![](bees.svg)](https://github.com/jinghuazhao/R) [CRAN-related packages](https://jinghuazhao.github.io/R/) ([www.r-pkg.org](https://www.r-pkg.org/maint/jinghuazhao@hotmail.com), <https://www.rdocumentation.org/>) based on [R packages](r-progs.md)
         - [gap](https://www.rdocumentation.org/packages/gap/), <https://cran.r-project.org/package=gap>
-          - [jss](https://jinghuazhao.github.io/R/vignettes/jss.pdf)
+          - [jss](https://cran.r-project.org/web/packages/gap/vignettes/jss.pdf)
           - [manual](https://jinghuazhao.github.io/R/vignettes/gap-manual.pdf), [news](https://jinghuazhao.github.io/R/vignettes/ChangeLog.txt)
           - [shinygap](https://jinghuazhao.github.io/R/vignettes/shinygap.html), [vignette](https://jinghuazhao.github.io/R/vignettes/gap.html)
         - [gap.datasets](https://www.rdocumentation.org/packages/gap.datasets)
