@@ -259,12 +259,11 @@ title: Jing Hua Zhao's virtual library at PHPC
     - WSGI, <https://wsgi.readthedocs.io/>
     - yozosoft, <https://www.yozosoft.com/>
     - zotero-gpt, <https://github.com/MuiseDestiny/zotero-gpt>
-  - Omics-related sites
+  - Genomics-related sites
     - bigOmics, <https://bigomics.ch/>
     - Bioconductor support, <https://support.bioconductor.org/>
     - CellProfiler, <https://cellprofiler.org/>
     - cerno Biosciencec, <https://cernobioscience.com/>
-    - CoffeeProt, <https://coffeeprot.com/>
     - Course on GWAS by Matti Pirinen, <https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/>
     - d3blocks, <https://github.com/d3blocks/d3blocks> ([documentation](https://d3blocks.github.io/d3blocks/pages/html/index.html#))
     - hail, <https://hail.is/index.html>
@@ -285,19 +284,31 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Pheno.AI, <https://knowledgebase.pheno.ai/>
     - PerkinElmer, <https://www.perkinelmer.com/>
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
-    - ProteomeXchange, <https://www.proteomexchange.org/>
-    - Protein Structure Prediction Center, <https://predictioncenter.org/>
     - SNP2TFBS, <https://ccg.epfl.ch/snp2tfbs/>
-    - Spectranaut, <https://biognosys.com/software/spectronaut/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
+  - Proteommics
+    - CoffeeProt, <https://coffeeprot.com/>
+    - FreqPipe, <https://fragpipe.nesvilab.org/>
+    - MaxQuant, <https://maxquant.org/> ([Mailing list](https://lists.biochem.mpg.de/listinfo/maxquan))
+    - Mass++, <https://mspp.ninja/download/>
+    - MS-GF+, <https://msgfplus.github.io/>
+    - Perseus, <https://maxquant.net/perseus/>
+    - Peptigram, <http://bioware.ucd.ie/peptigram/>
+    - Protein Structure Prediction Center, <https://predictioncenter.org/>
+    - ProteomeXchange, <https://www.proteomexchange.org/>
+    - ProteoMapper Online, <https://peptideatlas.org/map/>
+    - Sashimi, <ttps://sourceforge.net/projects/sashimi>
+    - Skyline, <https://skyline.ms/project/home/begin.view>
+    - Spectranaut, <https://biognosys.com/software/spectronaut/>
 
 ## Special interest
 
-- Van der Schaar Lab, <https://www.vanderschaar-lab.com/>
-- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
+- 10 Lectures on Inverse Problems and Imaging, <https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html>
 - Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
+- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
+- Van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 
 ## Miscellaneous links
 
@@ -328,4 +339,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 2/9/2024*
+***Created on** 3/5/2021 and **last changed** 4/9/2024*
