@@ -152,9 +152,9 @@ title: Jing Hua Zhao's virtual library at PHPC
     - The book of statistical proofs, <https://statproofbook.github.io/>
   - Reference management
     - AuthorArranger, <https://authorarranger.nci.nih.gov/>
+    - EndNote, <https://support.clarivate.com/Endnote/s/?language=en_US> ([MyEndNoteWeb](http://www.myendnoteweb.com))
     - JabRef, <https://www.jabref.org/>
     - Lead2Amazon, <https://lead.to/amazon/uk/>
-    - MyEndNoteWeb, <http://www.myendnoteweb.com>
     - PubMed, <https://pubmed.ncbi.nlm.nih.gov/>
     - Sciwheel, [get started](https://sciwheel.com/work/#/get-started) ([Google Docs add-on](https://sciwheel.com/work/#/guide/gdocs), [MicroSoft Word add-on](https://sciwheel.com/work/faq/word-365-addin))
     - Web of science, <https://www.webofscience.com/wos/woscc/basic-search>
@@ -339,4 +339,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 4/9/2024*
+***Created on** 3/5/2021 and **last changed** 9/9/2024*
