@@ -72,6 +72,8 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Ryman, <https://www.ryman.co.uk/> ([club programme](https://www.ryman.co.uk/club-programme/card/index/))
   * Sainsbury, <https://www.sainsburys.co.uk/>
   * Tesco, <https://www.tesco.com/>
+- London Biological Mass Spectrometry discussion group, <http://lbmsdg.org/>
+- London Proteomics Discussion Group, (LPDG) <https://www.londonproteomics.co.uk/>
 - MRC, <https://www.ukri.org/councils/mrc/>
   * Pension scheme, <https://www.mrcps.co.uk/> ([mercer](https://contact.mercer.com/))
 - Marks out of tenancy, <https://www.marksoutoftenancy.com/>
@@ -286,7 +288,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - PLINK2 mailing list, <https://groups.google.com/g/plink2-users>
     - SNP2TFBS, <https://ccg.epfl.ch/snp2tfbs/>
     - Systems-Genomics, <https://systems-genomics.slack.com/>
-  - Proteommics
+  - Proteomics
     - CoffeeProt, <https://coffeeprot.com/>
     - FreqPipe, <https://fragpipe.nesvilab.org/>
     - MaxQuant, <https://maxquant.org/> ([Mailing list](https://lists.biochem.mpg.de/listinfo/maxquan))
@@ -339,4 +341,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 9/9/2024*
+***Created on** 3/5/2021 and **last changed** 10/9/2024*
