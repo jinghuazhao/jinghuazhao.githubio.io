@@ -228,6 +228,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - foxit, <https://www.foxitsoftware.com/>
     - freeCAD, <https://www.freecad.org/>
     - gravis, <https://robert-haas.github.io/gravis-docs/index.html>
+    - HivisionIDPhotos, <https://swanhub.co/ZeYiLin/HivisionIDPhotos> ([GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos)
     - Icecream PDF Editor, <https://icecreamapps.com/PDF-Editor/>
     - iLoveIMG, <https://www.iloveimg.com/>
     - iLovePDF, <https://www.ilovepdf.com/>
@@ -259,6 +260,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Typora, <https://typora.io/>
     - WebGL, <https://get.webgl.org/>
     - WSGI, <https://wsgi.readthedocs.io/>
+    - yaak, <https://yaak.app/>
     - yozosoft, <https://www.yozosoft.com/>
     - zotero-gpt, <https://github.com/MuiseDestiny/zotero-gpt>
   - Genomics-related sites
@@ -341,4 +343,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 10/9/2024*
+***Created on** 3/5/2021 and **last changed** 12/9/2024*
