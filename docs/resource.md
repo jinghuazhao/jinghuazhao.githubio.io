@@ -30,7 +30,7 @@ key: page-resources
 show_title: false
 ---
 
-![Image](assets/images/young-sunflower.jpg){:.circle height="36px" width="36px"}
+![Image](assets/images/young-sunflower.jpg){:.circle height="120px" width="120px"}
 
 # Resource
 
