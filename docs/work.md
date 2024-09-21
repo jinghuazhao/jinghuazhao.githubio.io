@@ -44,7 +44,7 @@ through [The INTERVAL study](https://www.intervalstudy.org.uk/).
 
 Here are my [biosketch](jing_cv.pdf), [ResearchGate profile](http://www.researchgate.net/profile/Jing_Hua_Zhao/), and [research.com entry](https://research.com/u/jing-hua-zhao).
 
-![Image](assets/images/sunflower.jpg){:.circle}
+![Image](assets/images/sunflower.jpg){:.circle height="360px" width="360px"}
 
 ## Reproducible research
 
