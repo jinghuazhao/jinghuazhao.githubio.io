@@ -30,9 +30,9 @@ key: page-resources
 show_title: false
 ---
 
-![Image](assets/images/young-sunflower.jpg){:.circle height="120px" width="120px"}
-
 # Resource
+
+![Image](assets/images/young-sunflower.jpg){:.circle height="240px" width="240px"}
 
 ## Latest news in science
 
