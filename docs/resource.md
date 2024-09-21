@@ -30,9 +30,11 @@ key: page-resources
 show_title: false
 ---
 
+![Image](assets/images/young-sunflower.jpg){:.circle}
+
 # Resource
 
-## General information
+## Latest news in science & general information
 
 + Cell, <https://www.cell.com/>
 + Nature, <https://www.nature.com/>
