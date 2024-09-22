@@ -43,6 +43,7 @@ show_title: false
 + Scientific American, <https://www.scientificamerican.com/>
 + Significance, <https://significancemagazine.com/>
 + The American Statistician, <https://www.tandfonline.com/journals/utas20>
+- The Scientist, <https://www.the-scientist.com/>
 
 ## Collections
 
@@ -154,4 +155,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 25/8/2024*
+***Created on** 12/1/2023 and **last changed** 22/9/2024*
