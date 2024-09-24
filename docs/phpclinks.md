@@ -169,6 +169,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Organisations
     - Apache, <https://httpd.apache.org/>
     - APKmirror, <https://www.apkmirror.com/>
+    - ARIA, <https://substack.com/@ariaresearch>
     - CRA, <https://cra.org/>
     - CRAN, <https://cran.r-project.org/>
     - CS rankings, <https://csrankings.org/>
@@ -349,4 +350,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 13/9/2024*
+***Created on** 3/5/2021 and **last changed** 24/9/2024*
