@@ -35,7 +35,7 @@ sidebar:
    - R Developer Page, <https://developer.r-project.org/>
 
 3. I have converted some functionality of my programs (most are on the
-[Rockefeller list of genetic software](https://github.com/gaow/genetic-analysis-software)),
+[Rockefeller list of genetic software](https://gaow.github.io/genetic-analysis-software/)),
 implemented new functions or maintained packages by colleagues into R. as reported in
 [gap: Genetic Analysis Package](https://www.jstatsoft.org/article/view/v023i08). I also made a [University of London](http://www.lon.ac.uk/) [LaTeX](http://www.ctan.org/) [thesis class](software/ulthesis.zip),
 together with [Endnote](http://www.endnote.com/) [genetic reference library](iop/jinghua/refs/genetics.enl)
