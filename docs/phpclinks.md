@@ -41,6 +41,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Cambridgeshire County Council, <https://www.cambridgeshire.gov.uk/> (<https://www.cambridgeshire.gov.uk/buslane>)
   * Cambridge Water, <https://www.cambridge-water.co.uk> ([South Staffordshire Water](https://www.south-staffs-water.co.uk/), [MyAccount](https://myaccount.cambridge-water.co.uk/))
   * Grand Arcade, <https://www.grandarcade.co.uk/> [stores](https://www.grandarcade.co.uk/stores/)
+  * Excursion, <https://www.luxurylifestylemag.co.uk/travel/how-to-spend-the-perfect-long-weekend-in-historic-cambridge/>
   * The old bicyle shop, [https://www.oldbicycleshop.com/](https://www.oldbicycleshop.com/)
 - Civil enformcement, <https://www.ce-service.co.uk/>
 - COVID-19 vaccine
@@ -137,6 +138,7 @@ title: Jing Hua Zhao's virtual library at PHPC
      - PhenoScanner, <http://www.phenoscanner.medschl.cam.ac.uk/>
    * medschl login, <https://webmail.medschl.cam.ac.uk/owa/auth/logon.aspx>
    * MyCompliance certificate, <https://cloud.metacompliance.com/View/Certificate?courseID=79459>
+   * Oxford vs Cambridge, <https://www.luxurylifestylemag.co.uk/the-best-of-the-rest/oxford-vs-cambridge-which-university-is-better-in-2024/>
    * Research Computing Service [Terms & Conditions](https://www.hpc.cam.ac.uk/storage/terms-and-conditions)
    * [Self-Employment Service (ESS)](https://www.hr.admin.cam.ac.uk/hr-staff/information-new-starters/employee-self-service-ess)
    * Universities Superannuation Scheme (USS), <https://www.uss.co.uk/>
@@ -339,6 +341,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * dtb, <http://dtb.cpr.ku.dk/>
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
 - Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
+- Essay writing service, <https://essayservice.com/>
 - What 3 words,, <https://what3words.com/>
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
@@ -350,4 +353,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 25/9/2024*
+***Created on** 3/5/2021 and **last changed** 27/9/2024*
