@@ -80,6 +80,7 @@ show_title: false
 - First City Recovery Center, <https://firstcityrecoverycenter.com/programs/>
 - First Step Recovery, <https://firststepsrecovery.com/>
 - FreebytheSea Sunset View Drug & Alcohol Recovery Center, <https://freebythesea.com>
+* Georgia Sky Outpatient Detox, <https://georgiaskyoutpatientdetox.com/>
 - Golden Gate Recovery, <https://goldengaterecovery.com/>
 - Immersive Recovery, <https://immersiverecovery.com/>
 * IOP Addiction Treatment for Men, <https://www.recoverintegrity.com/>
@@ -104,6 +105,7 @@ show_title: false
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 - Spero Recovery, <https://www.sperorecovery.org/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
+* The Lovett Center, <https://thelovettcenter.com/>
 + The Recovery Village Cherry Hill at Cooper, <https://www.southjerseyrecovery.com/>
 * The Villa Kali Ma holistic addiction and mental health recovery centers, <https://villakalima.com/>
 - True Life Recovery, <https://trueliferecovery.com/>
@@ -155,4 +157,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 22/9/2024*
+***Created on** 12/1/2023 and **last changed** 4/10/2024*
