@@ -32,8 +32,6 @@ show_title: false
 
 # Resource
 
-![Image](assets/images/young-sunflower.jpg){:.circle height="240px" width="240px"}
-
 ## Latest news in science
 
 + Cell, <https://www.cell.com/>
@@ -58,6 +56,8 @@ show_title: false
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + [Ultra-processed food and what does it mean](https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food)
+
+![Image](assets/images/young-sunflower.jpg){:.circle height="240px" width="240px"}
 
 ## Drug and substance abuse
 
