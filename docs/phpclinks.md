@@ -10,7 +10,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - GitHub, <https://github.com/lm-sys>
 - Crayon, <https://www.craiyon.com/>
 - Gemini, <https://gemini.google.com/>
-- Kmi chat, <https://kimi.moonshot.cn/> (PDF processing)
+- Kimi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Llama 3, <https://llama.meta.com/llama3/>
 - Midjourney, <https://www.midjourney.com/home>
 - OpenAI, <https://openai.com/>
@@ -353,4 +353,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 27/9/2024*
+***Created on** 3/5/2021 and **last changed** 7/10/2024*
