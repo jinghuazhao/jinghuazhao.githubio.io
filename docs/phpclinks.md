@@ -267,6 +267,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - time.is, <https://time.is/>
     - Tabby, <https://tabby.sh>
     - Typora, <https://typora.io/>
+    - uLisp, <http://www.ulisp.com/>
     - WebGL, <https://get.webgl.org/>
     - WSGI, <https://wsgi.readthedocs.io/>
     - yaak, <https://yaak.app/>
@@ -353,4 +354,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 7/10/2024*
+***Created on** 3/5/2021 and **last changed** 13/10/2024*
