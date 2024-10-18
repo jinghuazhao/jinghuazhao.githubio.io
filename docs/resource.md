@@ -52,7 +52,7 @@ show_title: false
 ## Featured articles and sites
 
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
-+ Alcohol
++ Alcohol consumption
     + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
     + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
     + [How much alcohol is too much?](https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/)
