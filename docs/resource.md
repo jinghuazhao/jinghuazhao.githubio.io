@@ -54,8 +54,8 @@ show_title: false
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
 + Alcohol
     + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
-    + [How much alcohol is too much?](https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/)
     + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
+    + [How much alcohol is too much?](https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/)
     + [Unit calculator](https://alcoholchange.org.uk/alcohol-facts/interactive-tools/unit-calculator)
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch](https://www.drugwatch.com/)
