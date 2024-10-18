@@ -52,7 +52,11 @@ show_title: false
 ## Featured articles and sites
 
 + [Can you grow out of a food allergy?](https://www.bbc.co.uk/food/articles/grow_out_food_allergy)
-+ [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
++ Alcohol
+    + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
+    + [How much alcohol is too much?](https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/)
+    + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
+    + [Unit calculator](https://alcoholchange.org.uk/alcohol-facts/interactive-tools/unit-calculator)
 + [Does eating processed and red meat cause cancer?](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer)
 + [Ozempic (semaglutide)](https://www.drugwatch.com/drugs/ozempic/) and [side effects](https://www.drugwatch.com/drugs/ozempic/side-effects/) from [DrugWatch](https://www.drugwatch.com/)
 * Fake Fragrances, <https://fakefragrances.com/>
@@ -157,4 +161,4 @@ show_title: false
 
 <https://observablehq.com/@d3/u-s-map>
 
-***Created on** 12/1/2023 and **last changed** 5/10/2024*
+***Created on** 12/1/2023 and **last changed** 18/10/2024*
