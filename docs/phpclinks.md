@@ -10,8 +10,11 @@ title: Jing Hua Zhao's virtual library at PHPC
   - GitHub, <https://github.com/lm-sys>
 - Crayon, <https://www.craiyon.com/>
 - Gemini, <https://gemini.google.com/>
+- HuggingChat, <https://huggingface.co/chat/>
 - Kimi chat, <https://kimi.moonshot.cn/> (PDF processing)
-- Llama 3, <https://llama.meta.com/llama3/>
+- Meta, <https://www.facebook.com/business>
+  - Llama 3, <https://llama.meta.com/llama3/>
+  - Meta AI, <https://www.meta.ai/>
 - Midjourney, <https://www.midjourney.com/home>
 - OpenAI, <https://openai.com/>
   - ChatGPT, <https://chat.openai.com/>
@@ -19,6 +22,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - GitHub, <https://github.com/openai>
   - sora, <https://openai.com/sora>
 - Perplexity AI, <https://www.perplexity.ai/> (search)
+- Reka, <https://chat.reka.ai/>
 - Stability AI, <https://stability.ai/>
 
 ## Local information
