@@ -246,6 +246,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - jinja, <https://jinja.palletsprojects.com/>
     - jqplay, <https://jqplay.org/>
     - JSEditor, <https://jseditor.io/>
+    - Krite, <https://krita.org/en/>
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
     - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
     - MobaXterm, <https://mobaxterm.mobatek.net/>
@@ -311,6 +312,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Protein Structure Prediction Center, <https://predictioncenter.org/>
     - ProteomeXchange, <https://www.proteomexchange.org/>
     - ProteoMapper Online, <https://peptideatlas.org/map/>
+    - Sage, <https://sage-docs.vercel.app/>
     - Sashimi, <ttps://sourceforge.net/projects/sashimi>
     - Skyline, <https://skyline.ms/project/home/begin.view>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
@@ -354,4 +356,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 13/10/2024*
+***Created on** 3/5/2021 and **last changed** 23/10/2024*
