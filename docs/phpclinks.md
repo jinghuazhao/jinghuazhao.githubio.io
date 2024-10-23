@@ -7,10 +7,10 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 - Anthropic, <https://www.anthropic.com/>
   - Claude, <https://claude.ai>
-    - Claude-3, <https://lmarena.ai/>
     - sonnet, <https://www.anthropic.com/claude/sonnet>
   - GitHub, <https://github.com/lm-sys>
   - LMSYS Org, <https://lmsys.org/>
+    - Chatbot Arena, <https://lmarena.ai/>
 - Crayon, <https://www.craiyon.com/>
 - Gemini, <https://gemini.google.com/>
 - HuggingChat, <https://huggingface.co/chat/>
