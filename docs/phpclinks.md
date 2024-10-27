@@ -20,7 +20,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Meta AI, <https://www.meta.ai/>
 - Midjourney, <https://www.midjourney.com/home>
 - OpenAI, <https://openai.com/>
-  - ChatGPT, <https://chat.openai.com/>
+  - ChatGPT, <https://chatgpt.com/>
   - DALL·E 3, <https://openai.com/dall-e-3>
   - GitHub, <https://github.com/openai>
   - sora, <https://openai.com/sora>
@@ -363,4 +363,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 23/10/2024*
+***Created on** 3/5/2021 and **last changed** 27/10/2024*
