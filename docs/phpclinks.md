@@ -11,6 +11,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - GitHub, <https://github.com/lm-sys>
   - LMSYS Org, <https://lmsys.org/>
     - Chatbot Arena, <https://lmarena.ai/>
+- ChatPDF, <https://www.chatpdf.com/>
 - Crayon, <https://www.craiyon.com/>
 - Gemini, <https://gemini.google.com/>
 - HuggingChat, <https://huggingface.co/chat/>
@@ -363,4 +364,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 27/10/2024*
+***Created on** 3/5/2021 and **last changed** 28/10/2024*
