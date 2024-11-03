@@ -24,6 +24,7 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-science
+show_title: false
 ---
 
 ## Latest news
