@@ -39,7 +39,7 @@ show_title: false
 + PNAS, <https://www.pnas.org/>
 + Science, <https://www.science.org/journal/science>
 
----
+## Highlights
 
 - New Scientist, <https://www.newscientist.com/>
 + Scientific American, <https://www.scientificamerican.com/>
