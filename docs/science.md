@@ -38,6 +38,11 @@ show_title: false
 
 ![Image](assets/images/young-sunflower.jpg){:.circle height="360px" width="360px"}
 
+## Prizes
+
+- The Nobel prize, <https://www.nobelprize.org/>
+- VinFuture prize, <http://vinfutureprize.org>
+
 ## Highlights
 
 - New Scientist, <https://www.newscientist.com/>
