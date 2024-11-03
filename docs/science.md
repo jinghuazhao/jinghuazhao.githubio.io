@@ -26,8 +26,6 @@ titles:
 key: page-science
 ---
 
-# Science
-
 ## Latest news
 
 + Cell, <https://www.cell.com/>
