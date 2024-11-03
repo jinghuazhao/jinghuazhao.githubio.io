@@ -32,21 +32,6 @@ show_title: false
 
 # Resource
 
-## Latest news in science
-
-+ Cell, <https://www.cell.com/>
-+ Nature, <https://www.nature.com/>
-+ PNAS, <https://www.pnas.org/>
-+ Science, <https://www.science.org/journal/science>
-
-## Highlights
-
-- New Scientist, <https://www.newscientist.com/>
-+ Scientific American, <https://www.scientificamerican.com/>
-+ Significance, <https://significancemagazine.com/>
-+ The American Statistician, <https://www.tandfonline.com/journals/utas20>
-- The Scientist, <https://www.the-scientist.com/>
-
 ![Image](assets/images/young-sunflower.jpg){:.circle height="240px" width="240px"}
 
 ## Collections
