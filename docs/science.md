@@ -27,6 +27,8 @@ key: page-science
 show_title: false
 ---
 
+# Science
+
 ## Latest news
 
 + Cell, <https://www.cell.com/>
