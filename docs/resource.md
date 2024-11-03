@@ -38,7 +38,9 @@ show_title: false
 + Nature, <https://www.nature.com/>
 + PNAS, <https://www.pnas.org/>
 + Science, <https://www.science.org/journal/science>
-- ---
+
+---
+
 - New Scientist, <https://www.newscientist.com/>
 + Scientific American, <https://www.scientificamerican.com/>
 + Significance, <https://significancemagazine.com/>
