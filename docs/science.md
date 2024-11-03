@@ -11,8 +11,8 @@ titles:
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT
-  zh-TW   : *ZH_HANT  科學
+  zh-Hant : *ZH_HANT
+  zh-TW   : &ZH_HANT  科學
   zh-HK   : *ZH_HANT
   ko      : &KO
   ko-KR   : *KO
