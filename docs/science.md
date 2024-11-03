@@ -29,6 +29,8 @@ show_title: false
 
 # Science
 
+![Image](assets/images/young-sunflower.jpg){:.circle height="360px" width="360px"}
+
 ## Latest news
 
 + Cell, <https://www.cell.com/>
