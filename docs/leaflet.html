@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>US Map with Sites</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+        .marker {
+            background-color: red;
+            color: white;
+            padding: 5px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        const sites = [
+            { name: "449 Recovery", coords: [33.4526, -117.6207] }, // California
+            { name: "Acquare Recovery", coords: [33.9121, -117.3089] }, // California
+            { name: "Addiction Resources in Northern Illinois", coords: [42.0334, -88.2275] }, // Illinois
+            { name: "Alcohol Rehab Help", coords: [39.7392, -104.9903] }, // Colorado
+            { name: "Ambrosia Treatment Center", coords: [26.1224, -80.1373] }, // Florida
+            { name: "Amethyst Recovery Detox", coords: [27.4853, -80.3895] }, // Florida
+            { name: "AToN Center", coords: [33.0206, -116.8365] }, // California
+            { name: "Bayview Recovery Center", coords: [47.3966, -122.2184] }, // Washington
+            { name: "Blue Star Recovery", coords: [33.8058, -117.5575] }, // California
+            { name: "California Treatment Center", coords: [33.9933, -117.9684] }, // California
+            { name: "Casco Bay Recovery", coords: [43.6573, -70.2470] }, // Maine
+            { name: "Crestview Recovery", coords: [45.4852, -122.6682] }, // Oregon
+            { name: "Denoon Recovery Center", coords: [41.6773, -83.6060] }, // Ohio
+            { name: "Discovery Institute", coords: [40.8549, -74.1611] }, // New Jersey
+            { name: "Drug and Alcohol Addiction Treatment Services", coords: [39.7392, -104.9903] }, // Colorado
+            { name: "Eagle Creek Ranch Recovery", coords: [43.6032, -116.1085] }, // Idaho
+            { name: "First City Recovery Center", coords: [30.4905, -88.0424] }, // Alabama
+            { name: "First Step Recovery", coords: [37.9681, -122.0674] }, // California
+            { name: "FreebytheSea Sunset View Drug & Alcohol Recovery Center", coords: [46.1939, -124.0598] }, // Washington
+            { name: "Georgia Sky Outpatient Detox", coords: [34.8492, -83.3682] }, // Georgia
+            { name: "Golden Gate Recovery", coords: [37.8057, -122.2700] }, // California
+            { name: "Immersive Recovery", coords: [29.4232, -98.4861] }, // Texas
+            { name: "IOP Addiction Treatment for Men", coords: [34.0724, -118.2280] }, // California
+            { name: "Jay Walker Lodge", coords: [41.1873, -111.9607] }, // Utah
+            { name: "Laguna Shores Recovery", coords: [33.5401, -117.7390] }, // California
+            { name: "Legends Recovery Center LLC", coords: [30.5860, -98.3420] }, // Texas
+            { name: "Live Free Recovery Services", coords: [43.2035, -71.5322] }, // New Hampshire
+            { name: "Magnolia City Detox", coords: [29.4012, -95.3704] }, // Texas
+            { name: "Mana Recovery", coords: [40.4784, -74.1058] }, // New Jersey
+            { name: "Massachusetts Addiction Treatment Center", coords: [42.3601, -71.0589] }, // Massachusetts
+            { name: "Melrose Recovery", coords: [42.4491, -71.0625] }, // Massachusetts
+            { name: "Moving Mountains Recovery", coords: [40.5073, -105.0824] }, // Colorado
+            { name: "MPower Wellness Exton", coords: [40.0183, -75.6011] }, // Pennsylvania
+            { name: "Orlando Treatment Solutions", coords: [28.5383, -81.3792] }, // Florida
+            { name: "Path To Recovery Detox", coords: [40.0282, -75.0522] }, // Pennsylvania
+            { name: "Pathways Treatment Center", coords: [38.9249, -77.0294] }, // Virginia
+            { name: "Principles Recovery Center", coords: [26.1991, -80.2440] }, // Florida
+            { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569] }, // California
+            { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880] }, // Missouri
+            { name: "Sabino Recovery", coords: [32.2866, -110.9191] }, // Arizona
+            { name: "Santa Barbara Recovery", coords: [34.4208, -119.6982] }, // California
+            { name: "Smoke Free UK", coords: [51.5085, -0.1257] }, // United Kingdom
+            { name: "Spero Recovery", coords: [36.1749, -86.7858] }, // Tennessee
+            { name: "The Freedom Center", coords: [39.8903, -77.6032] }, // Maryland
+            { name: "The Lovett Center", coords: [29.7517, -95.3662] }, // Texas
+            { name: "The Recovery Village Cherry Hill at Cooper", coords: [39.9250, -75.0311] }, // New Jersey
+            { name: "The Villa Kali Ma", coords: [33.5824, -117.7755] }, // California
+            { name: "True Life Recovery", coords: [34.0476, -118.1370] }, // California
+            { name: "Westwind Behavioral Health Treatment", coords: [34.0984, -118.3480] }, // California
+            { name: "White Lotus Landing", coords: [35.5385, -97.5104] }, // Oklahoma
+            { name: "Wisconsin Recovery Institute", coords: [43.0747, -89.3832] } // Wisconsin
+        ];
+
+        // Initialize the map
+        const map = L.map('map').setView([37.8, -96], 4); // Centered over the USA
+
+        // Add a tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Add markers for each site
+        sites.forEach(site => {
+            const marker = L.marker(site.coords).addTo(map);
+            marker.bindPopup(site.name);
+        });
+    </script>
+</body>
+</html>

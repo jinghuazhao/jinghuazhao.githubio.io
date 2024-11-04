@@ -137,6 +137,8 @@ show_title: false
 
 ---
 
+[Leaflet map](leaflet.html)
+
 ## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
 
 - Dominique Legget, <dominique.legget@thedigitalintellect.com>
@@ -147,8 +149,4 @@ show_title: false
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-## Todo
-
-<https://observablehq.com/@d3/u-s-map>
-
-***Created on** 12/1/2023 and **last changed** 3/11/2024*
+***Created on** 12/1/2023 and **last changed** 4/11/2024*
