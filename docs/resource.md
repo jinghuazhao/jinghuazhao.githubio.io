@@ -53,6 +53,10 @@ show_title: false
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + WMA Declaration of Helsinki, <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
 
+# [A map of resources](leaflet.html)
+
+This is experimental through ChatGPT.
+
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
@@ -136,8 +140,6 @@ show_title: false
 - Allied Buildings, <https://www.alliedbuildings.com/>
 
 ---
-
-[A leaflet map](leaflet.html) (experimental through ChatGPT)
 
 ## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
 
