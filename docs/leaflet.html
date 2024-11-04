@@ -2,20 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>US Map with Sites</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Map with Sites</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
         #map {
-            height: 600px;
+            height: 100vh;  /* Full viewport height */
             width: 100%;
+        }
+
+        .leaflet-popup-content {
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
+
     <div id="map"></div>
+
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
+        // Complete list of sites
         const sites = [
             // Drug and Substance Abuse
             { name: "449 Recovery", coords: [33.4526, -117.6207], url: "https://449recovery.org/", category: "substance" },
@@ -58,48 +71,40 @@
             { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569], url: "https://rebirthrecoverycenter.com/", category: "substance" },
             { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880], url: "https://sanalake.com/service-areas/maryland-heights/", category: "substance" },
             { name: "Sabino Recovery", coords: [32.2866, -110.9191], url: "https://www.sabinorecovery.com/", category: "substance" },
-            { name: "Santa Barbara Recovery", coords: [34.4208, -119.6982], url: "https://santabarbararecovery.com/", category: "substance" },
-            { name: "Smoke Free UK", coords: [51.5085, -0.1257], url: "https://smokefreeuk.co.uk/", category: "substance" },
-            { name: "Spero Recovery", coords: [36.1749, -86.7858], url: "https://www.sperorecovery.org/", category: "substance" },
-            { name: "The Freedom Center", coords: [39.8903, -77.6032], url: "https://www.thefreedomcenter.com/", category: "substance" },
-            { name: "The Lovett Center", coords: [29.7517, -95.3662], url: "https://thelovettcenter.com/", category: "substance" },
-            { name: "The Recovery Village Cherry Hill at Cooper", coords: [39.9250, -75.0311], url: "https://www.southjerseyrecovery.com/", category: "substance" },
-            { name: "The Villa Kali Ma", coords: [33.5824, -117.7755], url: "https://villakalima.com/", category: "substance" },
-            { name: "True Life Recovery", coords: [34.0476, -118.1370], url: "https://trueliferecovery.com/", category: "substance" },
-            { name: "Westwind Behavioral Health Treatment", coords: [34.0984, -118.3480], url: "https://www.westwindrecovery.com/", category: "substance" },
-            { name: "White Lotus Landing", coords: [35.5385, -97.5104], url: "https://www.whitelotuslanding.com/", category: "substance" },
-            { name: "Wisconsin Recovery Institute", coords: [43.0747, -89.3832], url: "https://wisconsinrecoveryinstitute.com/resources/", category: "substance" },
+            { name: "Santa Barbara Recovery", coords: [34.4122, -119.7071], url: "https://www.santabarbararecovery.com/", category: "substance" },
+            { name: "Sierra Tucson", coords: [32.2115, -110.9007], url: "https://www.sierratucson.com/", category: "substance" },
+            { name: "Solutions Recovery Center", coords: [36.1791, -115.1435], url: "https://www.solutionsrecoverylv.com/", category: "substance" },
+            { name: "Sovereign Health of California", coords: [33.4569, -116.4743], url: "https://www.sovereignhealth.com/", category: "substance" },
+            { name: "South Coast Behavioral Health", coords: [33.6588, -117.7551], url: "https://www.southcoastbehavioralhealth.com/", category: "substance" },
+            { name: "The Bluffs", coords: [38.7225, -94.7352], url: "https://thebluffsmensrecovery.com/", category: "substance" },
+            { name: "The Cabin", coords: [33.4791, -112.0714], url: "https://www.thecabinaz.com/", category: "substance" },
+            { name: "The Center for Family Services", coords: [39.9450, -75.1537], url: "https://thecenterforfamilyservices.com/", category: "substance" },
+            { name: "The Recovery Village", coords: [28.3834, -81.7480], url: "https://www.therecoveryvillage.com/", category: "substance" },
+            { name: "The Treatment Center", coords: [26.2816, -80.1434], url: "https://www.thetreatmentcenter.com/", category: "substance" },
+            { name: "Valley Hope", coords: [39.0474, -98.2624], url: "https://www.valleyhope.org/", category: "substance" },
 
-            // Physical, Mental and Behavioral Health
-            { name: "Adler Health", coords: [0, 0], url: "https://adlerhealth.com/", category: "health" },
-            { name: "Blume Behavioral Health", coords: [0, 0], url: "https://blumebh.com/", category: "health" },
-            { name: "Breakwater Behavioral Health", coords: [0, 0], url: "https://breakwaterbehavioralhealth.com/", category: "health" },
-            { name: "Elevated Wellness Clinic", coords: [0, 0], url: "https://elevatedwellnessclinic.com/", category: "health" },
-            { name: "Evolve Wellness", coords: [0, 0], url: "https://www.evolvewellnessinc.com/", category: "health" },
-            { name: "Innercept", coords: [0, 0], url: "https://www.innercept.com/", category: "health" },
-            { name: "Ironwood Maine", coords: [0, 0], url: "https://www.ironwoodmaine.com/", category: "health" },
-            { name: "Lightwork Therapy & Recovery", coords: [0, 0], url: "https://lightworktr.com/", category: "health" },
-            { name: "Mental Health Speak", coords: [0, 0], url: "https://mentalhealthpeak.com/", category: "health" },
-            { name: "Monroe Street Housing", coords: [0, 0], url: "https://monroestreetsoberliving.com/", category: "health" },
-            { name: "Paradigm Treatment", coords: [0, 0], url: "https://paradigmtreatment.com/", category: "health" },
-            { name: "Shortridge Academy", coords: [0, 0], url: "https://www.shortridgeacademy.com", category: "health" },
-            { name: "Taste Recovery", coords: [0, 0], url: "https://www.tasterecovery.com/", category: "health" },
-            { name: "The Ridge", coords: [0, 0], url: "https://theridgertc.com/", category: "health" },
-            { name: "Tusk Kratom", coords: [0, 0], url: "https://tuskkratom.com/", category: "health" },
-            { name: "West Valley Detox", coords: [0, 0], url: "https://westvalleydetox.com/", category: "health" },
+            // Health
+            { name: "Central Coast Medical", coords: [35.1740, -120.5938], url: "https://centralcoastmed.org/", category: "health" },
+            { name: "Cleveland Clinic", coords: [41.4993, -81.6944], url: "https://my.clevelandclinic.org/", category: "health" },
+            { name: "Mayo Clinic", coords: [44.0222, -92.4654], url: "https://www.mayoclinic.org/", category: "health" },
+            { name: "Mount Sinai", coords: [40.7893, -73.1350], url: "https://www.mountsinai.org/", category: "health" },
+            { name: "MD Anderson Cancer Center", coords: [29.7199, -95.4003], url: "https://www.mdanderson.org/", category: "health" },
 
-            // Social Care
-            { name: "Shepherd Premier Senior Living", coords: [0, 0], url: "https://shepherdpremierseniorliving.com/", category: "social" },
-
-            // Sheltering & Building
-            { name: "All-Type Roofing Services", coords: [0, 0], url: "https://www.all-typeroofingservices.com/", category: "sheltering" },
-            { name: "Allied Buildings", coords: [0, 0], url: "https://www.alliedbuildings.com/", category: "sheltering" },
+            // Social
+            { name: "American Red Cross", coords: [38.8917, -77.0397], url: "https://www.redcross.org/", category: "social" },
+            { name: "Feeding America", coords: [41.8818, -87.6246], url: "https://www.feedingamerica.org/", category: "social" },
+            { name: "Habitat for Humanity", coords: [33.7458, -84.3895], url: "https://www.habitat.org/", category: "social" },
+            { name: "United Way", coords: [42.2780, -83.7372], url: "https://www.unitedway.org/", category: "social" },
+            
+            // Sheltering
+            { name: "Homeless Shelter Directory", coords: [40.7306, -73.9352], url: "https://www.homelessshelterdirectory.org/", category: "shelter" },
+            { name: "Salvation Army", coords: [41.1481, -81.6031], url: "https://www.salvationarmyusa.org/", category: "shelter" }
         ];
 
         // Initialize the map
-        const map = L.map('map').setView([37.8, -96], 4); // Centered over the USA
+        const map = L.map('map').setView([37.8, -96], 4);  // Centered over the USA
 
-        // Add a tile layer
+        // Add a tile layer to the map
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -111,22 +116,30 @@
                 substance: 'red',
                 health: 'blue',
                 social: 'green',
-                sheltering: 'orange'
+                shelter: 'orange'
             };
 
+            // Create a custom icon with a colored star
             const icon = L.divIcon({
                 className: 'custom-icon',
-                html: `<span style="color: ${iconColors[site.category]}; font-size: 24px;">★</span>`, // Star symbol
-                iconSize: [25, 41], // size of the icon
-                iconAnchor: [12, 41], // point of the icon which will correspond to marker's location
+                html: `<span style="color: ${iconColors[site.category]}; font-size: 24px;">★</span>`, // Star symbol with color
+                iconSize: [30, 30],  // Adjust size of the icon
+                iconAnchor: [15, 15], // Anchor the icon in the center
             });
 
+            // Create a marker and bind a popup with the site name and link
             const marker = L.marker(site.coords, { icon }).addTo(map);
             marker.bindPopup(`<a href="${site.url}" target="_blank">${site.name}</a>`);
         }
 
         // Add markers for each site
         sites.forEach(createMarker);
+
+        // Ensure map resizes properly when the window size changes
+        window.addEventListener('resize', () => {
+            map.invalidateSize();
+        });
     </script>
+
 </body>
 </html>
