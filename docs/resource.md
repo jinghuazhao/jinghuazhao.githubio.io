@@ -137,7 +137,7 @@ show_title: false
 
 ---
 
-[Leaflet map](leaflet.html)
+[A leaflet map](leaflet.html) (experimental through ChatGPT)
 
 ## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
 
