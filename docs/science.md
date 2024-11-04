@@ -29,7 +29,7 @@ show_title: false
 
 # Science
 
-## Latest news
+## Current issues
 
 + Cell, <https://www.cell.com/>
 + Nature, <https://www.nature.com/>
@@ -37,11 +37,6 @@ show_title: false
 + Science, <https://www.science.org/journal/science>
 
 ![Image](assets/images/young-sunflower.jpg){:.circle height="360px" width="360px"}
-
-## Prizes
-
-- The Nobel prize, <https://www.nobelprize.org/>
-- VinFuture prize, <http://vinfutureprize.org>
 
 ## Highlights
 
@@ -51,4 +46,9 @@ show_title: false
 + The American Statistician, <https://www.tandfonline.com/journals/utas20>
 - The Scientist, <https://www.the-scientist.com/>
 
-***Created on** 3/11/2024 and **last changed** 3/11/2024*
+## Prizes
+
+- The Nobel prize, <https://www.nobelprize.org/>
+- VinFuture prize, <http://vinfutureprize.org>
+
+***Created on** 3/11/2024 and **last changed** 4/11/2024*
