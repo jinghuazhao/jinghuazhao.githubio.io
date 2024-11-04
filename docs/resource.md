@@ -53,7 +53,7 @@ show_title: false
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + WMA Declaration of Helsinki, <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
 
-## [A resource map](leaflet.html) (a ChatGPT experiment)
+## A ChatGPT experiment: [resource map](leaflet.html)
 
 ## Drug and substance abuse
 
