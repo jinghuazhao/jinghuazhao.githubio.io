@@ -10,13 +10,6 @@
             height: 600px;
             width: 100%;
         }
-        .marker {
-            background-color: red;
-            color: white;
-            padding: 5px;
-            border-radius: 3px;
-            font-size: 12px;
-        }
     </style>
 </head>
 <body>
@@ -24,57 +17,83 @@
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
         const sites = [
-            { name: "449 Recovery", coords: [33.4526, -117.6207] }, // California
-            { name: "Acquare Recovery", coords: [33.9121, -117.3089] }, // California
-            { name: "Addiction Resources in Northern Illinois", coords: [42.0334, -88.2275] }, // Illinois
-            { name: "Alcohol Rehab Help", coords: [39.7392, -104.9903] }, // Colorado
-            { name: "Ambrosia Treatment Center", coords: [26.1224, -80.1373] }, // Florida
-            { name: "Amethyst Recovery Detox", coords: [27.4853, -80.3895] }, // Florida
-            { name: "AToN Center", coords: [33.0206, -116.8365] }, // California
-            { name: "Bayview Recovery Center", coords: [47.3966, -122.2184] }, // Washington
-            { name: "Blue Star Recovery", coords: [33.8058, -117.5575] }, // California
-            { name: "California Treatment Center", coords: [33.9933, -117.9684] }, // California
-            { name: "Casco Bay Recovery", coords: [43.6573, -70.2470] }, // Maine
-            { name: "Crestview Recovery", coords: [45.4852, -122.6682] }, // Oregon
-            { name: "Denoon Recovery Center", coords: [41.6773, -83.6060] }, // Ohio
-            { name: "Discovery Institute", coords: [40.8549, -74.1611] }, // New Jersey
-            { name: "Drug and Alcohol Addiction Treatment Services", coords: [39.7392, -104.9903] }, // Colorado
-            { name: "Eagle Creek Ranch Recovery", coords: [43.6032, -116.1085] }, // Idaho
-            { name: "First City Recovery Center", coords: [30.4905, -88.0424] }, // Alabama
-            { name: "First Step Recovery", coords: [37.9681, -122.0674] }, // California
-            { name: "FreebytheSea Sunset View Drug & Alcohol Recovery Center", coords: [46.1939, -124.0598] }, // Washington
-            { name: "Georgia Sky Outpatient Detox", coords: [34.8492, -83.3682] }, // Georgia
-            { name: "Golden Gate Recovery", coords: [37.8057, -122.2700] }, // California
-            { name: "Immersive Recovery", coords: [29.4232, -98.4861] }, // Texas
-            { name: "IOP Addiction Treatment for Men", coords: [34.0724, -118.2280] }, // California
-            { name: "Jay Walker Lodge", coords: [41.1873, -111.9607] }, // Utah
-            { name: "Laguna Shores Recovery", coords: [33.5401, -117.7390] }, // California
-            { name: "Legends Recovery Center LLC", coords: [30.5860, -98.3420] }, // Texas
-            { name: "Live Free Recovery Services", coords: [43.2035, -71.5322] }, // New Hampshire
-            { name: "Magnolia City Detox", coords: [29.4012, -95.3704] }, // Texas
-            { name: "Mana Recovery", coords: [40.4784, -74.1058] }, // New Jersey
-            { name: "Massachusetts Addiction Treatment Center", coords: [42.3601, -71.0589] }, // Massachusetts
-            { name: "Melrose Recovery", coords: [42.4491, -71.0625] }, // Massachusetts
-            { name: "Moving Mountains Recovery", coords: [40.5073, -105.0824] }, // Colorado
-            { name: "MPower Wellness Exton", coords: [40.0183, -75.6011] }, // Pennsylvania
-            { name: "Orlando Treatment Solutions", coords: [28.5383, -81.3792] }, // Florida
-            { name: "Path To Recovery Detox", coords: [40.0282, -75.0522] }, // Pennsylvania
-            { name: "Pathways Treatment Center", coords: [38.9249, -77.0294] }, // Virginia
-            { name: "Principles Recovery Center", coords: [26.1991, -80.2440] }, // Florida
-            { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569] }, // California
-            { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880] }, // Missouri
-            { name: "Sabino Recovery", coords: [32.2866, -110.9191] }, // Arizona
-            { name: "Santa Barbara Recovery", coords: [34.4208, -119.6982] }, // California
-            { name: "Smoke Free UK", coords: [51.5085, -0.1257] }, // United Kingdom
-            { name: "Spero Recovery", coords: [36.1749, -86.7858] }, // Tennessee
-            { name: "The Freedom Center", coords: [39.8903, -77.6032] }, // Maryland
-            { name: "The Lovett Center", coords: [29.7517, -95.3662] }, // Texas
-            { name: "The Recovery Village Cherry Hill at Cooper", coords: [39.9250, -75.0311] }, // New Jersey
-            { name: "The Villa Kali Ma", coords: [33.5824, -117.7755] }, // California
-            { name: "True Life Recovery", coords: [34.0476, -118.1370] }, // California
-            { name: "Westwind Behavioral Health Treatment", coords: [34.0984, -118.3480] }, // California
-            { name: "White Lotus Landing", coords: [35.5385, -97.5104] }, // Oklahoma
-            { name: "Wisconsin Recovery Institute", coords: [43.0747, -89.3832] } // Wisconsin
+            // Drug and Substance Abuse
+            { name: "449 Recovery", coords: [33.4526, -117.6207], url: "https://449recovery.org/", category: "substance" },
+            { name: "Acquare Recovery", coords: [33.9121, -117.3089], url: "https://www.acquarecovery.com/", category: "substance" },
+            { name: "Addiction Resources in Northern Illinois", coords: [42.0334, -88.2275], url: "https://www.northernillinoisrecovery.com/resources/", category: "substance" },
+            { name: "Alcohol Rehab Help", coords: [39.7392, -104.9903], url: "https://alcoholrehabhelp.org/", category: "substance" },
+            { name: "Ambrosia Treatment Center", coords: [26.1224, -80.1373], url: "https://www.ambrosiatc.com/", category: "substance" },
+            { name: "Amethyst Recovery Detox", coords: [27.4853, -80.3895], url: "https://www.amethystrecovery.org/", category: "substance" },
+            { name: "AToN Center", coords: [33.0206, -116.8365], url: "https://www.atoncenter.com/", category: "substance" },
+            { name: "Bayview Recovery Center", coords: [47.3966, -122.2184], url: "https://www.bayviewrecovery.com/", category: "substance" },
+            { name: "Blue Star Recovery", coords: [33.8058, -117.5575], url: "https://bluestarrecovery.com/", category: "substance" },
+            { name: "California Treatment Center", coords: [33.9933, -117.9684], url: "https://californiaaddictiontreatment.com/", category: "substance" },
+            { name: "Casco Bay Recovery", coords: [43.6573, -70.2470], url: "https://cascobayrecovery.com/", category: "substance" },
+            { name: "Crestview Recovery", coords: [45.4852, -122.6682], url: "https://www.crestviewrecovery.com/", category: "substance" },
+            { name: "Denoon Recovery Center", coords: [41.6773, -83.6060], url: "https://www.denoonrecovery.com/", category: "substance" },
+            { name: "Discovery Institute", coords: [40.8549, -74.1611], url: "https://www.discoverynj.org/", category: "substance" },
+            { name: "Drug and Alcohol Addiction Treatment Services", coords: [39.7392, -104.9903], url: "https://addiction-treatment-services.com/", category: "substance" },
+            { name: "Eagle Creek Ranch Recovery", coords: [43.6032, -116.1085], url: "https://idahorecoverycenter.com/", category: "substance" },
+            { name: "First City Recovery Center", coords: [30.4905, -88.0424], url: "https://firstcityrecoverycenter.com/programs/", category: "substance" },
+            { name: "First Step Recovery", coords: [37.9681, -122.0674], url: "https://firststepsrecovery.com/", category: "substance" },
+            { name: "FreebytheSea Sunset View Drug & Alcohol Recovery Center", coords: [46.1939, -124.0598], url: "https://freebythesea.com", category: "substance" },
+            { name: "Georgia Sky Outpatient Detox", coords: [34.8492, -83.3682], url: "https://georgiaskyoutpatientdetox.com/", category: "substance" },
+            { name: "Golden Gate Recovery", coords: [37.8057, -122.2700], url: "https://goldengaterecovery.com/", category: "substance" },
+            { name: "Immersive Recovery", coords: [29.4232, -98.4861], url: "https://immersiverecovery.com/", category: "substance" },
+            { name: "IOP Addiction Treatment for Men", coords: [34.0724, -118.2280], url: "https://www.recoverintegrity.com/", category: "substance" },
+            { name: "Jay Walker Lodge", coords: [41.1873, -111.9607], url: "https://jaywalkerlodge.com/", category: "substance" },
+            { name: "Laguna Shores Recovery", coords: [33.5401, -117.7390], url: "https://lagunashoresrecovery.com/", category: "substance" },
+            { name: "Legends Recovery Center LLC", coords: [30.5860, -98.3420], url: "https://legendsrecovery.com/", category: "substance" },
+            { name: "Live Free Recovery Services", coords: [43.2035, -71.5322], url: "https://livefreerecoverynh.com/programs/", category: "substance" },
+            { name: "Magnolia City Detox", coords: [29.4012, -95.3704], url: "https://magnoliacitydetox.com/programs/", category: "substance" },
+            { name: "Mana Recovery", coords: [40.4784, -74.1058], url: "https://manarecoverycenter.com/", category: "substance" },
+            { name: "Massachusetts Addiction Treatment Center", coords: [42.3601, -71.0589], url: "https://advancedaddictioncenter.com/", category: "substance" },
+            { name: "Melrose Recovery", coords: [42.4491, -71.0625], url: "https://www.melroserecovery.com/", category: "substance" },
+            { name: "Moving Mountains Recovery", coords: [40.5073, -105.0824], url: "https://movingmountainsrecovery.com/", category: "substance" },
+            { name: "MPower Wellness Exton", coords: [40.0183, -75.6011], url: "https://mpowerwellness.com/", category: "substance" },
+            { name: "Orlando Treatment Solutions", coords: [28.5383, -81.3792], url: "https://orlandotreatmentsolutions.com/", category: "substance" },
+            { name: "Path To Recovery Detox", coords: [40.0282, -75.0522], url: "https://pathtorecoverydetox.com/", category: "substance" },
+            { name: "Pathways Treatment Center", coords: [38.9249, -77.0294], url: "https://pathwaystreatmentcenter.com/", category: "substance" },
+            { name: "Principles Recovery Center", coords: [26.1991, -80.2440], url: "https://principlesrecoverycenter.com/", category: "substance" },
+            { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569], url: "https://rebirthrecoverycenter.com/", category: "substance" },
+            { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880], url: "https://sanalake.com/service-areas/maryland-heights/", category: "substance" },
+            { name: "Sabino Recovery", coords: [32.2866, -110.9191], url: "https://www.sabinorecovery.com/", category: "substance" },
+            { name: "Santa Barbara Recovery", coords: [34.4208, -119.6982], url: "https://santabarbararecovery.com/", category: "substance" },
+            { name: "Smoke Free UK", coords: [51.5085, -0.1257], url: "https://smokefreeuk.co.uk/", category: "substance" },
+            { name: "Spero Recovery", coords: [36.1749, -86.7858], url: "https://www.sperorecovery.org/", category: "substance" },
+            { name: "The Freedom Center", coords: [39.8903, -77.6032], url: "https://www.thefreedomcenter.com/", category: "substance" },
+            { name: "The Lovett Center", coords: [29.7517, -95.3662], url: "https://thelovettcenter.com/", category: "substance" },
+            { name: "The Recovery Village Cherry Hill at Cooper", coords: [39.9250, -75.0311], url: "https://www.southjerseyrecovery.com/", category: "substance" },
+            { name: "The Villa Kali Ma", coords: [33.5824, -117.7755], url: "https://villakalima.com/", category: "substance" },
+            { name: "True Life Recovery", coords: [34.0476, -118.1370], url: "https://trueliferecovery.com/", category: "substance" },
+            { name: "Westwind Behavioral Health Treatment", coords: [34.0984, -118.3480], url: "https://www.westwindrecovery.com/", category: "substance" },
+            { name: "White Lotus Landing", coords: [35.5385, -97.5104], url: "https://www.whitelotuslanding.com/", category: "substance" },
+            { name: "Wisconsin Recovery Institute", coords: [43.0747, -89.3832], url: "https://wisconsinrecoveryinstitute.com/resources/", category: "substance" },
+
+            // Physical, Mental and Behavioral Health
+            { name: "Adler Health", coords: [0, 0], url: "https://adlerhealth.com/", category: "health" },
+            { name: "Blume Behavioral Health", coords: [0, 0], url: "https://blumebh.com/", category: "health" },
+            { name: "Breakwater Behavioral Health", coords: [0, 0], url: "https://breakwaterbehavioralhealth.com/", category: "health" },
+            { name: "Elevated Wellness Clinic", coords: [0, 0], url: "https://elevatedwellnessclinic.com/", category: "health" },
+            { name: "Evolve Wellness", coords: [0, 0], url: "https://www.evolvewellnessinc.com/", category: "health" },
+            { name: "Innercept", coords: [0, 0], url: "https://www.innercept.com/", category: "health" },
+            { name: "Ironwood Maine", coords: [0, 0], url: "https://www.ironwoodmaine.com/", category: "health" },
+            { name: "Lightwork Therapy & Recovery", coords: [0, 0], url: "https://lightworktr.com/", category: "health" },
+            { name: "Mental Health Speak", coords: [0, 0], url: "https://mentalhealthpeak.com/", category: "health" },
+            { name: "Monroe Street Housing", coords: [0, 0], url: "https://monroestreetsoberliving.com/", category: "health" },
+            { name: "Paradigm Treatment", coords: [0, 0], url: "https://paradigmtreatment.com/", category: "health" },
+            { name: "Shortridge Academy", coords: [0, 0], url: "https://www.shortridgeacademy.com", category: "health" },
+            { name: "Taste Recovery", coords: [0, 0], url: "https://www.tasterecovery.com/", category: "health" },
+            { name: "The Ridge", coords: [0, 0], url: "https://theridgertc.com/", category: "health" },
+            { name: "Tusk Kratom", coords: [0, 0], url: "https://tuskkratom.com/", category: "health" },
+            { name: "West Valley Detox", coords: [0, 0], url: "https://westvalleydetox.com/", category: "health" },
+
+            // Social Care
+            { name: "Shepherd Premier Senior Living", coords: [0, 0], url: "https://shepherdpremierseniorliving.com/", category: "social" },
+
+            // Sheltering & Building
+            { name: "All-Type Roofing Services", coords: [0, 0], url: "https://www.all-typeroofingservices.com/", category: "sheltering" },
+            { name: "Allied Buildings", coords: [0, 0], url: "https://www.alliedbuildings.com/", category: "sheltering" },
         ];
 
         // Initialize the map
@@ -86,11 +105,28 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
+        // Function to create a marker with a star icon based on category
+        function createMarker(site) {
+            const iconColors = {
+                substance: 'red',
+                health: 'blue',
+                social: 'green',
+                sheltering: 'orange'
+            };
+
+            const icon = L.divIcon({
+                className: 'custom-icon',
+                html: `<span style="color: ${iconColors[site.category]}; font-size: 24px;">★</span>`, // Star symbol
+                iconSize: [25, 41], // size of the icon
+                iconAnchor: [12, 41], // point of the icon which will correspond to marker's location
+            });
+
+            const marker = L.marker(site.coords, { icon }).addTo(map);
+            marker.bindPopup(`<a href="${site.url}" target="_blank">${site.name}</a>`);
+        }
+
         // Add markers for each site
-        sites.forEach(site => {
-            const marker = L.marker(site.coords).addTo(map);
-            marker.bindPopup(site.name);
-        });
+        sites.forEach(createMarker);
     </script>
 </body>
 </html>
