@@ -55,7 +55,7 @@ show_title: false
 
 ## Resource map
 
-<a href="leaflet.html"><img src="leaflet.png" width="500" height="350" align="center"></a>
+<a href="leaflet.html"><img src="leaflet.png" width="550" height="350" align="center"></a>
 
 ## Drug and substance abuse
 
