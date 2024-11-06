@@ -3,113 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map of Sites with Plotly.js</title>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Plotly Map of Sites</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> <!-- Plotly.js -->
     <style>
-        #map {
-            height: 600px;
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #plotly-chart {
+            height: 100vh; /* Full screen height */
             width: 100%;
         }
     </style>
 </head>
 <body>
-    <div id="map"></div>
+
+    <div id="plotly-chart"></div>  <!-- Plotly chart container -->
+
     <script>
-        // Sites and their coordinates with categories
+        // List of sites with their details (name, coordinates, category, url)
         const sites = [
-            { name: "449 Recovery", coords: [33.4526, -117.6207], category: "substance" },
-            { name: "Acquare Recovery", coords: [33.9121, -117.3089], category: "substance" },
-            { name: "Addiction Resources in Northern Illinois", coords: [42.0334, -88.2275], category: "substance" },
-            { name: "Alcohol Rehab Help", coords: [39.7392, -104.9903], category: "substance" },
-            { name: "Ambrosia Treatment Center", coords: [26.1224, -80.1373], category: "substance" },
-            { name: "Amethyst Recovery Detox", coords: [27.4853, -80.3895], category: "substance" },
-            { name: "AToN Center", coords: [33.0206, -116.8365], category: "substance" },
-            { name: "Bayview Recovery Center", coords: [47.3966, -122.2184], category: "substance" },
-            { name: "Blue Star Recovery", coords: [33.8058, -117.5575], category: "substance" },
-            { name: "California Treatment Center", coords: [33.9933, -117.9684], category: "substance" },
-            { name: "Casco Bay Recovery", coords: [43.6573, -70.2470], category: "substance" },
-            { name: "Crestview Recovery", coords: [45.4852, -122.6682], category: "substance" },
-            { name: "Denoon Recovery Center", coords: [41.6773, -83.6060], category: "substance" },
-            { name: "Discovery Institute", coords: [40.8549, -74.1611], category: "substance" },
-            { name: "Eagle Creek Ranch Recovery", coords: [43.6032, -116.1085], category: "substance" },
-            { name: "First City Recovery Center", coords: [30.4905, -88.0424], category: "substance" },
-            { name: "First Step Recovery", coords: [37.9681, -122.0674], category: "substance" },
-            { name: "FreebytheSea Sunset View Drug & Alcohol Recovery Center", coords: [46.1939, -124.0598], category: "substance" },
-            { name: "Georgia Sky Outpatient Detox", coords: [34.8492, -83.3682], category: "health" },
-            { name: "Golden Gate Recovery", coords: [37.8057, -122.2700], category: "health" },
-            { name: "Immersive Recovery", coords: [29.4232, -98.4861], category: "health" },
-            { name: "IOP Addiction Treatment for Men", coords: [34.0724, -118.2280], category: "health" },
-            { name: "Jay Walker Lodge", coords: [41.1873, -111.9607], category: "health" },
-            { name: "Laguna Shores Recovery", coords: [33.5401, -117.7390], category: "health" },
-            { name: "Legends Recovery Center LLC", coords: [30.5860, -98.3420], category: "health" },
-            { name: "Live Free Recovery Services", coords: [43.2035, -71.5322], category: "health" },
-            { name: "Magnolia City Detox", coords: [29.4012, -95.3704], category: "health" },
-            { name: "Mana Recovery", coords: [40.4784, -74.1058], category: "health" },
-            { name: "Massachusetts Addiction Treatment Center", coords: [42.3601, -71.0589], category: "health" },
-            { name: "Melrose Recovery", coords: [42.4491, -71.0625], category: "health" },
-            { name: "Moving Mountains Recovery", coords: [40.5073, -105.0824], category: "health" },
-            { name: "MPower Wellness Exton", coords: [40.0183, -75.6011], category: "health" },
-            { name: "Orlando Treatment Solutions", coords: [28.5383, -81.3792], category: "social care" },
-            { name: "Path To Recovery Detox", coords: [40.0282, -75.0522], category: "social care" },
-            { name: "Pathways Treatment Center", coords: [38.9249, -77.0294], category: "social care" },
-            { name: "Principles Recovery Center", coords: [26.1991, -80.2440], category: "social care" },
-            { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569], category: "social care" },
-            { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880], category: "social care" },
-            { name: "Sabino Recovery", coords: [32.2866, -110.9191], category: "social care" },
-            { name: "Santa Barbara Recovery", coords: [34.4208, -119.6982], category: "social care" },
-            { name: "Smoke Free UK", coords: [51.5085, -0.1257], category: "social care" },
-            { name: "Spero Recovery", coords: [36.1749, -86.7858], category: "social care" },
-            { name: "The Freedom Center", coords: [39.8903, -77.6032], category: "social care" },
-            { name: "The Lovett Center", coords: [29.7517, -95.3662], category: "social care" },
-            { name: "The Recovery Village Cherry Hill at Cooper", coords: [39.9250, -75.0311], category: "social care" },
-            { name: "The Villa Kali Ma", coords: [33.5824, -117.7755], category: "social care" },
-            { name: "True Life Recovery", coords: [34.0476, -118.1370], category: "social care" },
-            { name: "Westwind Behavioral Health Treatment", coords: [34.0984, -118.3480], category: "social care" },
-            { name: "White Lotus Landing", coords: [35.5385, -97.5104], category: "social care" },
-            { name: "Wisconsin Recovery Institute", coords: [43.0747, -89.3832], category: "social care" }
+            // Drug and Substance Abuse
+            { name: "449 Recovery", coords: [33.4526, -117.6207], url: "https://449recovery.org/", category: "substance" },
+            { name: "Acquare Recovery", coords: [33.9121, -117.3089], url: "https://www.acquarecovery.com/", category: "substance" },
+            { name: "Addiction Resources in Northern Illinois", coords: [42.0334, -88.2275], url: "https://www.northernillinoisrecovery.com/resources/", category: "substance" },
+            { name: "Alcohol Rehab Help", coords: [39.7392, -104.9903], url: "https://alcoholrehabhelp.org/", category: "substance" },
+            { name: "Ambrosia Treatment Center", coords: [26.1224, -80.1373], url: "https://www.ambrosiatc.com/", category: "substance" },
+            { name: "Amethyst Recovery Detox", coords: [27.4853, -80.3895], url: "https://www.amethystrecovery.org/", category: "substance" },
+            { name: "AToN Center", coords: [33.0206, -116.8365], url: "https://www.atoncenter.com/", category: "substance" },
+            { name: "Bayview Recovery Center", coords: [47.3966, -122.2184], url: "https://www.bayviewrecovery.com/", category: "substance" },
+            { name: "Blue Star Recovery", coords: [33.8058, -117.5575], url: "https://bluestarrecovery.com/", category: "substance" },
+            { name: "California Treatment Center", coords: [33.9933, -117.9684], url: "https://californiaaddictiontreatment.com/", category: "substance" },
+            { name: "Casco Bay Recovery", coords: [43.6573, -70.2470], url: "https://cascobayrecovery.com/", category: "substance" },
+            { name: "Crestview Recovery", coords: [45.4852, -122.6682], url: "https://www.crestviewrecovery.com/", category: "substance" },
+            { name: "Denoon Recovery Center", coords: [41.6773, -83.6060], url: "https://www.denoonrecovery.com/", category: "substance" },
+            { name: "Discovery Institute", coords: [40.8549, -74.1611], url: "https://www.discoverynj.org/", category: "substance" },
+            { name: "Drug and Alcohol Addiction Treatment Services", coords: [39.7392, -104.9903], url: "https://addiction-treatment-services.com/", category: "substance" },
+            { name: "Eagle Creek Ranch Recovery", coords: [43.6032, -116.1085], url: "https://idahorecoverycenter.com/", category: "substance" },
+            { name: "First City Recovery Center", coords: [30.4905, -88.0424], url: "https://firstcityrecoverycenter.com/programs/", category: "substance" },
+            { name: "First Step Recovery", coords: [37.9681, -122.0674], url: "https://firststepsrecovery.com/", category: "substance" },
+            { name: "FreebytheSea Sunset View Drug & Alcohol Recovery Center", coords: [46.1939, -124.0598], url: "https://freebythesea.com", category: "substance" },
+            { name: "Georgia Sky Outpatient Detox", coords: [34.8492, -83.3682], url: "https://georgiaskyoutpatientdetox.com/", category: "substance" },
+            { name: "Golden Gate Recovery", coords: [37.8057, -122.2700], url: "https://goldengaterecovery.com/", category: "substance" },
+            { name: "Immersive Recovery", coords: [29.4232, -98.4861], url: "https://immersiverecovery.com/", category: "substance" },
+            { name: "IOP Addiction Treatment for Men", coords: [34.0724, -118.2280], url: "https://www.recoverintegrity.com/", category: "substance" },
+            { name: "Jay Walker Lodge", coords: [41.1873, -111.9607], url: "https://jaywalkerlodge.com/", category: "substance" },
+            { name: "Laguna Shores Recovery", coords: [33.5401, -117.7390], url: "https://lagunashoresrecovery.com/", category: "substance" },
+            { name: "Legends Recovery Center LLC", coords: [30.5860, -98.3420], url: "https://legendsrecovery.com/", category: "substance" },
+            { name: "Live Free Recovery Services", coords: [43.2035, -71.5322], url: "https://livefreerecoverynh.com/programs/", category: "substance" },
+            { name: "Magnolia City Detox", coords: [29.4012, -95.3704], url: "https://magnoliacitydetox.com/programs/", category: "substance" },
+            { name: "Mana Recovery", coords: [40.4784, -74.1058], url: "https://manarecoverycenter.com/", category: "substance" },
+            { name: "Massachusetts Addiction Treatment Center", coords: [42.3601, -71.0589], url: "https://advancedaddictioncenter.com/", category: "substance" },
+            { name: "Melrose Recovery", coords: [42.4491, -71.0625], url: "https://www.melroserecovery.com/", category: "substance" },
+            { name: "Moving Mountains Recovery", coords: [40.5073, -105.0824], url: "https://movingmountainsrecovery.com/", category: "substance" },
+            { name: "MPower Wellness Exton", coords: [40.0183, -75.6011], url: "https://mpowerwellness.com/", category: "substance" },
+            { name: "Orlando Treatment Solutions", coords: [28.5383, -81.3792], url: "https://orlandotreatmentsolutions.com/", category: "substance" },
+            { name: "Path To Recovery Detox", coords: [40.0282, -75.0522], url: "https://pathtorecoverydetox.com/", category: "substance" },
+            { name: "Pathways Treatment Center", coords: [38.9249, -77.0294], url: "https://pathwaystreatmentcenter.com/", category: "substance" },
+            { name: "Principles Recovery Center", coords: [26.1991, -80.2440], url: "https://principlesrecoverycenter.com/", category: "substance" },
+            { name: "Rebirth Recovery Center", coords: [33.6705, -117.8569], url: "https://rebirthrecoverycenter.com/", category: "substance" },
+            { name: "Sana Lake Recovery Behavioral Wellness Center", coords: [38.5914, -90.3880], url: "https://sanalake.com/service-areas/maryland-heights/", category: "substance" },
+            { name: "Sabino Recovery", coords: [32.2866, -110.9191], url: "https://www.sabinorecovery.com/", category: "substance" },
+            { name: "Santa Barbara Recovery", coords: [34.4122, -119.7071], url: "https://www.santabarbararecovery.com/", category: "substance" },
+            { name: "Sierra Tucson", coords: [32.2115, -110.9007], url: "https://www.sierratucson.com/", category: "substance" },
+            { name: "Solutions Recovery Center", coords: [36.1791, -115.1435], url: "https://www.solutionsrecoverylv.com/", category: "substance" },
+            { name: "Sovereign Health of California", coords: [33.4569, -116.4743], url: "https://www.sovereignhealth.com/", category: "substance" },
+            { name: "South Coast Behavioral Health", coords: [33.6588, -117.7551], url: "https://www.southcoastbehavioralhealth.com/", category: "substance" },
+            { name: "The Bluffs", coords: [38.7225, -94.7352], url: "https://thebluffsmensrecovery.com/", category: "substance" },
+            { name: "The Cabin", coords: [33.4791, -112.0714], url: "https://www.thecabinaz.com/", category: "substance" },
+            { name: "The Center for Family Services", coords: [39.9450, -75.1537], url: "https://thecenterforfamilyservices.com/", category: "substance" },
+            { name: "The Recovery Village", coords: [28.3834, -81.7480], url: "https://www.therecoveryvillage.com/", category: "substance" },
+            { name: "The Treatment Center", coords: [26.2816, -80.1434], url: "https://www.thetreatmentcenter.com/", category: "substance" },
+            { name: "Valley Hope", coords: [39.0474, -98.2624], url: "https://www.valleyhope.org/", category: "substance" },
+
+            // Health
+            { name: "Central Coast Medical", coords: [35.1740, -120.5938], url: "https://centralcoastmed.org/", category: "health" },
+            { name: "Cleveland Clinic", coords: [41.4993, -81.6944], url: "https://my.clevelandclinic.org/", category: "health" },
+            { name: "Mayo Clinic", coords: [44.0222, -92.4654], url: "https://www.mayoclinic.org/", category: "health" },
+            { name: "Mount Sinai", coords: [40.7893, -73.1350], url: "https://www.mountsinai.org/", category: "health" },
+            { name: "MD Anderson Cancer Center", coords: [29.7199, -95.4003], url: "https://www.mdanderson.org/", category: "health" },
+
+            // Social
+            { name: "American Red Cross", coords: [38.8917, -77.0397], url: "https://www.redcross.org/", category: "social" },
+            { name: "Feeding America", coords: [41.8818, -87.6246], url: "https://www.feedingamerica.org/", category: "social" },
+            { name: "Habitat for Humanity", coords: [33.7458, -84.3895], url: "https://www.habitat.org/", category: "social" },
+            { name: "United Way", coords: [42.2780, -83.7372], url: "https://www.unitedway.org/", category: "social" },
+
+            // Sheltering
+            { name: "Homeless Shelter Directory", coords: [40.7306, -73.9352], url: "https://www.homelessshelterdirectory.org/", category: "shelter" },
+            { name: "Salvation Army", coords: [41.1481, -81.6031], url: "https://www.salvationarmyusa.org/", category: "shelter" }
         ];
 
-        // Category colors
+        // Define category colors
         const categoryColors = {
-            "substance": "red",
-            "health": "blue",
-            "social care": "green"
+            substance: 'red',
+            health: 'blue',
+            social: 'green',
+            shelter: 'orange'
         };
 
-        // Plotly map trace
+        // Extract coordinates, category colors, and popup text info
+        const lats = sites.map(site => site.coords[0]);
+        const lons = sites.map(site => site.coords[1]);
+        const colors = sites.map(site => categoryColors[site.category]);
+        const textInfo = sites.map(site => `<a href="${site.url}" target="_blank">${site.name}</a>`);
+
+        // Create Plotly data for map
         const trace = {
-            type: 'scattergeo',
-            lat: sites.map(site => site.coords[0]),
-            lon: sites.map(site => site.coords[1]),
+            type: 'scattermapbox',
+            lat: lats,
+            lon: lons,
             mode: 'markers',
             marker: {
-                size: 15, // Increased size for better visibility
-                color: sites.map(site => categoryColors[site.category]), // Color based on category
-                symbol: 'star', // Use star symbol
-                line: {
-                    color: 'black',
-                    width: 1
-                }
+                size: 12,  // Size of the markers
+                color: colors,  // Color based on category
+                opacity: 0.7
             },
-            text: sites.map(site => site.name), // Tooltip with site name
-            hoverinfo: 'text'
+            text: textInfo,  // Popup text with URL
+            hoverinfo: 'text', // Show text on hover
         };
 
+        // Set up Plotly layout with Mapbox
         const layout = {
-            title: 'Map of Recovery Sites in the US (Star Markers)',
-            geo: {
-                scope: 'usa',
-                projection: { type: 'albers usa' },
-                showland: true,
-                landcolor: "white",
-                subunitcolor: "white",
-            }
+            mapbox: {
+                style: "open-street-map", // You can change the map style (e.g., "carto-positron", "open-street-map", etc.)
+                center: {
+                    lat: 37.8,  // Center latitude for the USA
+                    lon: -96    // Center longitude for the USA
+                },
+                zoom: 4, // Zoom level
+            },
+            title: 'Sites on the Map (Color-Coded by Category)',
+            showlegend: false
         };
 
-        const data = [trace];
-
-        // Render the map
-        Plotly.newPlot('map', data, layout);
+        // Plot the chart using Plotly
+        Plotly.newPlot('plotly-chart', [trace], layout);
     </script>
+
 </body>
 </html>
