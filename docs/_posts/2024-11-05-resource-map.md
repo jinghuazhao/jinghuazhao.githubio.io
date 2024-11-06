@@ -7,8 +7,12 @@ mathjax_autoNumber: false
 mermaid: true
 ---
 
-This is visible from the resource page.
+This is visible from the resource page:
+
+<https://jinghuazhao.github.io/leaflet.html>.
 
 <!--more-->
 
-See <https://jinghuazhao.github.io/leaflet.html>.
+See also
+
+<https://jinghuazhao.github.io/plotly.html>
