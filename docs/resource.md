@@ -56,6 +56,7 @@ show_title: false
 ## Resource map
 
 <a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
+<a href="plotly.html"><img src="plotly.png" width="150" height="`00" align="center"></a>
 <a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
 
 ## Drug and substance abuse
@@ -152,4 +153,4 @@ show_title: false
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 4/11/2024*
+***Created on** 12/1/2023 and **last changed** 6/11/2024*
