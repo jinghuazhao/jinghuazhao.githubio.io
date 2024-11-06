@@ -72,8 +72,8 @@
         // Category colors
         const categoryColors = {
             "substance": "red",
-            "health": "blue",
-            "social care": "green"
+            "health": "yellow",
+            "social care": "orange"
         };
 
         // Plotly map trace
@@ -101,8 +101,13 @@
                 scope: 'usa',
                 projection: { type: 'albers usa' },
                 showland: true,
-                landcolor: "white",
+                landcolor: "grey",
                 subunitcolor: "white",
+                countrycolor: "green",
+                lakecolor: "blue",
+                showlakes: true,
+                showcountries: true,
+                showcoastlines: true
             }
         };
 

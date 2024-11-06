@@ -11,8 +11,7 @@ This is visible from the resource page:
 
 <https://jinghuazhao.github.io/leaflet.html>.
 
-<!--more-->
-
 See also
 
-<https://jinghuazhao.github.io/plotly.html>
+- <https://jinghuazhao.github.io/plotly.html>
+- <https://jinghuazhao.github.io/scattergeo.html>
