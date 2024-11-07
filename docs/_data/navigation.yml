@@ -26,16 +26,16 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Colleague
+      en      : &EN       GitHub
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  同行
+      zh-Hans : &ZH_HANS  GitHub
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  同行
+      zh-Hant : &ZH_HANT  GitHub
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO
@@ -47,7 +47,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /colleague.html
+    url: https://github.com/jinghuazhao/
 
   - titles:
       # @start locale config
