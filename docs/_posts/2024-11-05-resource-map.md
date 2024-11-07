@@ -7,11 +7,13 @@ mathjax_autoNumber: false
 mermaid: true
 ---
 
-This is visible from the resource page:
+This is based on leaflet.js
 
 <https://jinghuazhao.github.io/leaflet.html>.
 
-See also
+visible from the resource page.
 
-- <https://jinghuazhao.github.io/plotly.html>
+Also in plotly.js
+
+- <https://jinghuazhao.github.io/scattermapbox.html>
 - <https://jinghuazhao.github.io/scattergeo.html>
