@@ -20,6 +20,10 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Llama 3, <https://llama.meta.com/llama3/>
   - Meta AI, <https://www.meta.ai/>
 - Midjourney, <https://www.midjourney.com/home>
+- No-Code LLM App Builders
+  - Dify, <https://dify.ai/>
+  - Flowwise AI, <https://flowiseai.com/>
+  - LangFlow, <https://www.langflow.org/>
 - OpenAI, <https://openai.com/>
   - ChatGPT, <https://chatgpt.com/>
   - DALL·E 3, <https://openai.com/dall-e-3>
@@ -364,4 +368,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 28/10/2024*
+***Created on** 3/5/2021 and **last changed** 7/11/2024*
