@@ -332,11 +332,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 ## Special interest
 
 - 10 Lectures on Inverse Problems and Imaging, <https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html>
+- Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 - Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 - Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
-- Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 
 ## Miscellaneous links
 
