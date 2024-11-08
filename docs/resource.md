@@ -55,6 +55,8 @@ show_title: false
 
 ## Resource map
 
+(***Click to expand***)
+
 <a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
 <a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
@@ -153,4 +155,4 @@ show_title: false
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 7/11/2024*
+***Created on** 12/1/2023 and **last changed** 8/11/2024*
