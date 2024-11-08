@@ -332,6 +332,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 ## Special interest
 
 - 10 Lectures on Inverse Problems and Imaging, <https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html>
+- InSilicoUK, <https://www.insilicouk.org/>
 - Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 - Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
@@ -357,7 +358,6 @@ title: Jing Hua Zhao's virtual library at PHPC
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
 - Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
 - Essay writing service, <https://essayservice.com/>
-- InSilicoUK, <https://www.insilicouk.org/>
 - What 3 words,, <https://what3words.com/>
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
