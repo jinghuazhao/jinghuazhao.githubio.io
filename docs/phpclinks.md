@@ -336,7 +336,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 - Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
-- Van der Schaar Lab, <https://www.vanderschaar-lab.com/>
+- Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 
 ## Miscellaneous links
 
@@ -357,6 +357,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
 - Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
 - Essay writing service, <https://essayservice.com/>
+- InSilicoUK, <https://www.insilicouk.org/>
 - What 3 words,, <https://what3words.com/>
 - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
@@ -368,4 +369,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 7/11/2024*
+***Created on** 3/5/2021 and **last changed** 8/11/2024*
