@@ -59,13 +59,7 @@ viewport: "width=device-width, initial-scale=1.0"
 
 (***locations possibly in need of amendmend***)
 
-### Click to expand:
-
-<a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
-<a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
-<a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
-
-<h3>View by selection:</h3>
+**View by selection**
 
 <select id="page-dropdown">
     <option value="">--Select a map--</option>
@@ -90,6 +84,12 @@ viewport: "width=device-width, initial-scale=1.0"
         }
     });
 </script>
+
+**or Click to expand:**
+
+<a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
+<a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
+<a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
 
 ## Drug and substance abuse
 
