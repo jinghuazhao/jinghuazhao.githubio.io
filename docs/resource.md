@@ -63,7 +63,7 @@ show_title: false
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
 <a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
 
-<h3>Also available by selection:</h3>
+<h3>View by selection:</h3>
 
 <select id="page-dropdown">
     <option value="">--Select a map--</option>
