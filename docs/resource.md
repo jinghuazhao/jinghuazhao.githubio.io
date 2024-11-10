@@ -61,6 +61,27 @@ show_title: false
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
 <a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
 
+<h2>Select a map to Open</h2>
+
+<select id="page-dropdown">
+    <option value="">--Select a map--</option>
+    <option value="leaflet.html">Leaflet.js</option>
+    <option value="scattermapbox.html">plotly.js</option>
+    <option value="scattergeo.html">plotly.js+US map</option>
+</select>
+
+<script>
+    // JavaScript to handle dropdown selection and open a new HTML page
+    const dropdown = document.getElementById('page-dropdown');
+    dropdown.addEventListener('change', () => {
+        const selectedPage = dropdown.value;
+        if (selectedPage) {
+            // Redirect to the selected HTML page
+            window.location.href = selectedPage;
+        }
+    });
+</script>
+
 ## Drug and substance abuse
 
 * 449 Recovery, <https://449recovery.org/>
