@@ -57,8 +57,6 @@ viewport: "width=device-width, initial-scale=1.0"
 
 ## Resource map
 
-(***locations possibly in need of amendmend***)
-
 **View by selection or click an image to expand:**
 
 <select id="page-dropdown">
@@ -88,6 +86,8 @@ viewport: "width=device-width, initial-scale=1.0"
 <a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
 <a href="scattergeo.html"><img src="scattergeo.png" width="`150" height="100" align="center"></a>
+
+(*geographic coordinates subject to change*)
 
 ## Drug and substance abuse
 
