@@ -28,6 +28,8 @@ mathjax_autoNumber: false
 mermaid: true
 key: page-resources
 show_title: false
+charset: "UTF-8"
+viewport: "width=device-width, initial-scale=1.0"
 ---
 
 # Resource
@@ -74,10 +76,17 @@ show_title: false
 
 <script>
     const dropdown = document.getElementById('page-dropdown');
+    let lastSelectedPage = dropdown.value;
     dropdown.addEventListener('change', () => {
         const selectedPage = dropdown.value;
         if (selectedPage) {
             window.location.href = selectedPage;
+            lastSelectedPage = selectedPage;
+        }
+    });
+    dropdown.addEventListener('click', () => {
+        if (dropdown.value === lastSelectedPage && lastSelectedPage === "scattergeo.html") {
+            window.location.href = lastSelectedPage;
         }
     });
 </script>
