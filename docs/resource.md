@@ -59,7 +59,7 @@ viewport: "width=device-width, initial-scale=1.0"
 
 (***locations possibly in need of amendmend***)
 
-**View by selection**
+**View by selection or Click to expand:**
 
 <select id="page-dropdown">
     <option value="">--Select a map--</option>
@@ -84,8 +84,6 @@ viewport: "width=device-width, initial-scale=1.0"
         }
     });
 </script>
-
-**or Click to expand:**
 
 <a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
