@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,20 +11,33 @@
             padding: 0;
             font-family: Arial, sans-serif;
         }
-
         #plotly-chart {
-            height: 100vh;
+            height: 90vh;
             width: 100%;
+        }
+        #toggle-legend {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            padding: 8px 12px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: #FFF;
+            border: none;
+            cursor: pointer;
+            z-index: 1;
+        }
+        #toggle-legend:hover {
+            background-color: #0056b3;
         }
     </style>
 </head>
-
 <body>
 
+    <button id="toggle-legend">Toggle Legend</button> <!-- Toggle Legend Button -->
     <div id="plotly-chart"></div> <!-- Plotly chart container -->
 
     <script>
-        // Sites data with categories and URLs in the format as requested
         const sites = [
             // Drug and Substance Abuse
             { name: "449 Recovery", coords: [33.4526, -117.6207], category: "substance", url: "https://449recovery.org/" },
@@ -105,7 +117,6 @@
             { name: "Allied Buildings", coords: [41.8781, -87.6298], category: "shelter_building", url: "https://www.alliedbuildings.com/" }
         ];
 
-        // Define colors for each category
         const iconColors = {
             substance: 'red',
             behavioral_health: 'blue',
@@ -113,7 +124,6 @@
             shelter_building: 'orange'
         };
 
-        // Create markers
         const markers = sites.map(site => {
             return {
                 type: 'scattermapbox',
@@ -124,29 +134,30 @@
                     size: 20,
                     color: iconColors[site.category]
                 },
-                name: `${site.name} - ${site.url}`,  // Add URL to legend name
+                name: `${site.name} - ${site.url}`,
                 text: `${site.name}<br><a href="${site.url}" target="_blank">${site.url}</a>`
             };
         });
 
-        // Layout configuration for the map
+        let showLegend = true; // Initial legend state
         const layout = {
             mapbox: {
                 style: "open-street-map",
-                center: {
-                    lat: 37.0902, // Center map to the USA
-                    lon: -95.7129
-                },
+                center: { lat: 37.0902, lon: -95.7129 },
                 zoom: 4
             },
-            title: "Addiction Treatment and Mental Health Sites"
+            title: "Addiction Treatment and Mental Health Sites",
+            showlegend: showLegend
         };
 
-        // Plotly chart configuration
-        const data = markers;
-        Plotly.newPlot('plotly-chart', data, layout);
+        Plotly.newPlot('plotly-chart', markers, layout);
+
+        // Toggle Legend Function
+        document.getElementById('toggle-legend').addEventListener('click', () => {
+            showLegend = !showLegend;  // Toggle legend state
+            Plotly.relayout('plotly-chart', { showlegend: showLegend });  // Update the plot
+        });
     </script>
 
 </body>
-
 </html>
