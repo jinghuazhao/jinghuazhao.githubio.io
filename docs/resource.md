@@ -57,7 +57,7 @@ show_title: false
 
 (***locations possibly in need of amendmend***)
 
-### Click to expand
+### Click to expand:
 
 <a href="leaflet.html"><img src="leaflet.png" width="150" height="`00" align="center"></a>
 <a href="scattermapbox.html"><img src="scattermapbox.png" width="150" height="`00" align="center"></a>
