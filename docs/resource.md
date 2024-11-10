@@ -59,7 +59,7 @@ viewport: "width=device-width, initial-scale=1.0"
 
 (***locations possibly in need of amendmend***)
 
-**View by selection or Click to expand:**
+**View by selection or click an image to expand:**
 
 <select id="page-dropdown">
     <option value="">--Select a map--</option>
