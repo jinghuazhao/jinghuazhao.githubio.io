@@ -108,29 +108,6 @@ title: Jing Hua Zhao's virtual library at PHPC
 - SDU Syddansk Universitet, <https://sdu.itslearning.com/> (<itsl-jzh@sdu.dk>, <https://password.sdu.dk/>, <servicedesk@sdu.dk>)
 - Smart Services Ltd, <https://smartserviceltd.com/>
 - Tax service, <https://www.tax.service.gov.uk/personal-account> ([tax relief](https://www.gov.uk/tax-relief-for-employees))
-- The Perse School, <https://www.perse.co.uk/>
-  * Box office, <https://www.perse.co.uk/box-office/>
-  * [Outdoor Pursuits](https://twitter.com/PerseOutdoors)
-  * ParentPay, <https://www.parentpay.com/>
-  * [Post](https://perse.schoolpost.co.uk/login?ReturnUrl=%2f)
-  * Recommended websites and helplines for support
-    : [![](bees.svg)](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/) [https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/](https://www.youngminds.org.uk/parent/a-z-guide/grief-and-loss/)
-    : [![](bees.svg)](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/) [https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/](https://www.winstonswish.org/supporting-you/supporting-a-bereaved-child/)
-    : [![](bees.svg)](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/) [https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/](https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/children-and-bereavement/)
-  * School Photograph Company, <https://orders.schoolphotographs.co.uk/tspc/Home>
-  * Term dates, <https://www.perse.co.uk/term-dates/>
-  * [Lower Sixth Update - July 2022](https://sway.office.com/XAJNlr08iZTAMzlH?ref=Link)
-  * [Upper Sixth Update - September 2022](https://sway.office.com/PzZ1DD33p33nshGS?ref=Link)
-  * [Upper Sixth Update - November 2022](https://sway.office.com/lbFVjH1zxmBvAjAi?ref=Link)
-  * [Upper Sixth Update - January 2023](https://sway.office.com/bJ7AOPsD2TWegC6y?ref=Link)
-  * [Upper Sixth Update - April 2023](https://sway.office.com/YtNO0xZBWIkJiKPz?ref=Link)
-  * [Results Day Thursday 17 August](https://sway.office.com/A0hFNwGYwn0iPrVd?ref=Link)
-  * [Pastoral support beyond the Perse](https://sway.office.com/4UkGsf5FLCHJdWEE?ref=Link)
-    - The Mix, <http://www.themix.org.uk/>
-    - Youth Access, <http://www.youthaccess.org.uk/>
-    - Student Minds, <https://www.studentminds.org.uk/transitions.html> ([documentation](https://www.studentminds.org.uk/uploads/3/7/8/4/3784584/180813_transitions_interactive.pdf))
-    - Imperial external support, <https://www.imperial.ac.uk/counselling/other-sources-of-help/>
-  * Year 13 Leavers' Celebration - Photographs, ([Prizegiving](https://sway.office.com/JLtJZO85ZlFFI85e?ref=Link), [Leavers' Drinks and Dinne](https://sway.office.com/6kpHMNAy7s1dGYVb?ref=Link), [Formal Photo Booth](https://sway.office.com/fU8Ga87t1CHDRm6r?ref=Link))
 - Toyota
   * <https://www.toyota-tech.eu/> [Owner](https://www.toyota-tech.eu/Menu/Owner)
   * Touch 2 with Go [Map Update Dealer Guide](http://mapupdatecontent.toyota-europe.com/Documents/Dealer%20Guide/MapUpdate_16MM_DealerGuide_English.pdf)
@@ -325,13 +302,14 @@ title: Jing Hua Zhao's virtual library at PHPC
     - ProteomeXchange, <https://www.proteomexchange.org/>
     - ProteoMapper Online, <https://peptideatlas.org/map/>
     - Sage, <https://sage-docs.vercel.app/>
-    - Sashimi, <ttps://sourceforge.net/projects/sashimi>
+    - Sashimi, <https://sourceforge.net/projects/sashimi>
     - Skyline, <https://skyline.ms/project/home/begin.view>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
 
 ## Special interest
 
 - 10 Lectures on Inverse Problems and Imaging, <https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html>
+- canSAR.ai, <https://cansar.ai/>
 - InSilicoUK, <https://www.insilicouk.org/>
 - Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
 - Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
@@ -369,4 +347,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 8/11/2024*
+***Created on** 3/5/2021 and **last changed** 11/11/2024*
