@@ -68,17 +68,16 @@ viewport: "width=device-width, initial-scale=1.0"
 
 <script>
     const dropdown = document.getElementById('page-dropdown');
-    let lastSelectedPage = dropdown.value;
     dropdown.addEventListener('change', () => {
         const selectedPage = dropdown.value;
         if (selectedPage) {
             window.location.href = selectedPage;
-            lastSelectedPage = selectedPage;
         }
     });
     dropdown.addEventListener('click', () => {
-        if (dropdown.value === lastSelectedPage && lastSelectedPage === "scattergeo.html") {
-            window.location.href = lastSelectedPage;
+        const selectedPage = dropdown.value;
+        if (selectedPage) {
+            window.location.href = selectedPage;
         }
     });
 </script>
@@ -183,4 +182,4 @@ viewport: "width=device-width, initial-scale=1.0"
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 10/11/2024*
+***Created on** 12/1/2023 and **last changed** 11/11/2024*

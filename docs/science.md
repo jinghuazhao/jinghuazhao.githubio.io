@@ -41,6 +41,7 @@ show_title: false
 ## Highlights
 
 - New Scientist, <https://www.newscientist.com/>
+- Science News, <https://www.sciencenews.org/>
 + Scientific American, <https://www.scientificamerican.com/>
 + Significance, <https://significancemagazine.com/>
 + The American Statistician, <https://www.tandfonline.com/journals/utas20>
@@ -51,4 +52,4 @@ show_title: false
 - The Nobel prize, <https://www.nobelprize.org/>
 - VinFuture prize, <http://vinfutureprize.org>
 
-***Created on** 3/11/2024 and **last changed** 4/11/2024*
+***Created on** 3/11/2024 and **last changed** 11/11/2024*
