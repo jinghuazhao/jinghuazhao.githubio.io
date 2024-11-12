@@ -41,6 +41,7 @@ show_title: false
 ## Media
 
 - New Scientist, <https://www.newscientist.com/>
+- Quanta Magazine, <https://www.quantamagazine.org/>
 - Science Focus, <https://www.sciencefocus.com/>
 - Science News, <https://www.sciencenews.org/>
 + Scientific American, <https://www.scientificamerican.com/>
