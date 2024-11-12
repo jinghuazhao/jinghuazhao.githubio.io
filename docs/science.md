@@ -46,14 +46,14 @@ show_title: false
 + Scientific American, <https://www.scientificamerican.com/>
 - The Scientist, <https://www.the-scientist.com/>
 
-## Statistics
-
-+ Significance, <https://significancemagazine.com/>
-+ The American Statistician, <https://www.tandfonline.com/journals/utas20>
-
 ## Prizes
 
 - The Nobel prize, <https://www.nobelprize.org/>
 - VinFuture prize, <http://vinfutureprize.org>
+
+## Statistics
+
++ Significance, <https://significancemagazine.com/>
++ The American Statistician, <https://www.tandfonline.com/journals/utas20>
 
 ***Created on** 3/11/2024 and **last changed** 12/11/2024*
