@@ -38,7 +38,7 @@ show_title: false
 
 ![Image](assets/images/young-sunflower.jpg){:.circle height="360px" width="360px"}
 
-## Highlights
+## Media
 
 - New Scientist, <https://www.newscientist.com/>
 - Science Focus, <https://www.sciencefocus.com/>
