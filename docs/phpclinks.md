@@ -196,7 +196,6 @@ title: Jing Hua Zhao's virtual library at PHPC
     - zenodo, <https://zenodo.org/>
     - Western Digital, <https://www.westerndigital.com/>
   - Linux sites
-    - Avalonia Visual Basic6, <https://github.com/BAndysc/AvaloniaVisualBasic6>
     - Entroware, <https://www.entroware.com/store/index.php>
     - Fedora, <https://getfedora.org/>
     - GNU parallel, <https://www.biostars.org/p/63816/>
@@ -210,6 +209,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Adobe online, <https://www.adobe.com/uk/acrobat/online.html>
     - Aiseesoft background remover, <https://www.aiseesoft.com/online-bg-remover/>
     - apexCharts.js,  <https://apexcharts.com/>
+    - Avalonia Visual Basic6, <https://github.com/BAndysc/AvaloniaVisualBasic6>
     - balenaEtcher, <https://etcher.balena.io/>
     - Brave, <https://brave.com/>
     - brms, <https://paul-buerkner.github.io/brms/index.html> ([CRAN](https://cran.r-project.org/web/packages/brms/index.html))
