@@ -40,6 +40,8 @@ viewport: "width=device-width, initial-scale=1.0"
 
 ## Featured articles and sites
 
+<details>
+
 + Alcohol consumption
     + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
     + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
@@ -54,6 +56,8 @@ viewport: "width=device-width, initial-scale=1.0"
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + WMA Declaration of Helsinki, <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+
+</details>
 
 ## Resource map
 
@@ -182,4 +186,4 @@ viewport: "width=device-width, initial-scale=1.0"
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 11/11/2024*
+***Created on** 12/1/2023 and **last changed** 17/11/2024*
