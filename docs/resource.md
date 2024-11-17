@@ -41,39 +41,41 @@ viewport: "width=device-width, initial-scale=1.0"
 ## Featured articles and sites
 
 <details>
-  <summary>Alcohol consumption</summary>
-  <ul>
-    <li><a href="https://alcoholrehabhelp.org/addiction/effects/cancer/">Does alcohol cause cancer?</a></li>
-    <li><a href="https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/">How alcohol can affect your liver</a></li>
-    <li><a href="https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/">How much alcohol is too much?</a></li>
-    <li><a href="https://alcoholchange.org.uk/alcohol-facts/interactive-tools/unit-calculator">Unit calculator</a></li>
-  </ul>
-</details>
+  <details>
+    <summary>Alcohol consumption</summary>
+    <ul>
+      <li><a href="https://alcoholrehabhelp.org/addiction/effects/cancer/">Does alcohol cause cancer?</a></li>
+      <li><a href="https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/">How alcohol can affect your liver</a></li>
+      <li><a href="https://www.spirehealthcare.com/health-hub/specialties/lifestyle-management/how-much-alcohol-is-too-much/">How much alcohol is too much?</a></li>
+      <li><a href="https://alcoholchange.org.uk/alcohol-facts/interactive-tools/unit-calculator">Unit calculator</a></li>
+    </ul>
+  </details>
 
-<details>
-  <summary>Food intake</summary>
-  <ul>
-    <li><a href="https://www.bbc.co.uk/food/articles/grow_out_food_allergy">Can you grow out of a food allergy?</a></li>
-    <li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer">Does eating processed and red meat cause cancer?</a></li>
-    <li><a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/">The Eatwell Guide from NHS</a></li>
-    <li><a href="https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food">Ultra-processed food and what does it mean?</a></li>
-  </ul>
-</details>
+  <details>
+    <summary>Food intake</summary>
+    <ul>
+      <li><a href="https://www.bbc.co.uk/food/articles/grow_out_food_allergy">Can you grow out of a food allergy?</a></li>
+      <li><a href="https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer">Does eating processed and red meat cause cancer?</a></li>
+      <li><a href="https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/">The Eatwell Guide from NHS</a></li>
+      <li><a href="https://www.bbc.co.uk/food/articles/what_is_ultra-processed_food">Ultra-processed food and what does it mean?</a></li>
+    </ul>
+  </details>
 
-<details>
-  <summary><a href="https://www.drugwatch.com/drugs/ozempic/">Ozempic (semaglutide)</a> and <a href="https://www.drugwatch.com/drugs/ozempic/side-effects/">side effects</a> from <a href="https://www.drugwatch.com/">DrugWatch</a></summary>
-</details>
+  <details>
+    <summary><a href="https://www.drugwatch.com/drugs/ozempic/">Ozempic (semaglutide)</a> and <a href="https://www.drugwatch.com/drugs/ozempic/side-effects/">side effects</a> from <a href="https://www.drugwatch.com/">DrugWatch</a></summary>
+  </details>
 
-<details>
-  <summary><a href="https://fakefragrances.com/">Fake Fragrances</a></summary>
-</details>
+  <details>
+    <summary><a href="https://fakefragrances.com/">Fake Fragrances</a></summary>
+  </details>
 
-<details>
-  <summary><a href="https://knowyourdna.com/">Know your DNA, Know your History</a></summary>
-</details>
+  <details>
+    <summary><a href="https://knowyourdna.com/">Know your DNA, Know your History</a></summary>
+  </details>
 
-<details>
-  <summary><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki/">WMA Declaration of Helsinki</a></summary>
+  <details>
+    <summary><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki/">WMA Declaration of Helsinki</a></summary>
+  </details>
 </details>
 
 ## Resource map
@@ -207,6 +209,7 @@ viewport: "width=device-width, initial-scale=1.0"
 
 <details>
 
+```
 + Alcohol consumption
     + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
     + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
@@ -221,6 +224,7 @@ viewport: "width=device-width, initial-scale=1.0"
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + WMA Declaration of Helsinki, <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+```
 
 </details>
 
