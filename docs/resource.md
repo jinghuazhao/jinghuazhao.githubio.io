@@ -195,22 +195,9 @@ viewport: "width=device-width, initial-scale=1.0"
 
 ---
 
-## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
-
-- Dominique Legget, <dominique.legget@thedigitalintellect.com>
-- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
-- Emma Tressler, <healthcare@thedigitalintellect.com>
-- Enmanuel Batista <ebatista@drugwatch.com>
-- Mara Davis <mara@hr.knowyourdna.com>
-- Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
-- Rachel Parker, <iamrachelparker@gmail.com>
-
-***Created on** 12/1/2023 and **last changed** 17/11/2024*
-
 <details>
 
 <pre>
-
 + Alcohol consumption
     + [Does alcohol cause cancer?](https://alcoholrehabhelp.org/addiction/effects/cancer/)
     + [How alcohol can affect your liver](https://www.spirehealthcare.com/health-hub/specialties/general-health/how-alcohol-can-affect-your-liver/)
@@ -225,8 +212,18 @@ viewport: "width=device-width, initial-scale=1.0"
 * Fake Fragrances, <https://fakefragrances.com/>
 + Know your DNA, Know your History, <https://knowyourdna.com/>
 + WMA Declaration of Helsinki, <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
-
 </pre>
 
 </details>
 
+## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
+
+- Dominique Legget, <dominique.legget@thedigitalintellect.com>
+- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
+- Emma Tressler, <healthcare@thedigitalintellect.com>
+- Enmanuel Batista <ebatista@drugwatch.com>
+- Mara Davis <mara@hr.knowyourdna.com>
+- Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
+- Rachel Parker, <iamrachelparker@gmail.com>
+
+***Created on** 12/1/2023 and **last changed** 17/11/2024*
