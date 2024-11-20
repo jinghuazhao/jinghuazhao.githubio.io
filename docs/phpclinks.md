@@ -29,6 +29,12 @@ title: Jing Hua Zhao's virtual library at PHPC
   - DALL·E 3, <https://openai.com/dall-e-3>
   - GitHub, <https://github.com/openai>
   - sora, <https://openai.com/sora>
+- [Open-source LLMs](https://dev.to/guybuildingai/top-5-open-source-alternatives-for-llm-development-you-must-know-about-p30)
+  1. DeepEval (>> Humanloop), <https://github.com/confident-ai/deepeval>
+  2. Llama-3.1 (>> Open AI GPT-4), <https://huggingface.co/meta-llama/Llama-3.1-8B>
+  3. LangChain (>> OpenAI Assistants), <https://github.com/langchain-ai/langchain>
+  4. Flowwise (>> Relevance AI), <https://github.com/FlowiseAI/Flowise>
+  5. Lite LLM (>> [Martian AI](https://withmartian.com/)), <https://github.com/BerriAI/litellm>
 - Perplexity AI, <https://www.perplexity.ai/> (search)
 - Reka, <https://chat.reka.ai/>
 - Stability AI, <https://stability.ai/>
@@ -351,4 +357,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 13/11/2024*
+***Created on** 3/5/2021 and **last changed** 20/11/2024*
