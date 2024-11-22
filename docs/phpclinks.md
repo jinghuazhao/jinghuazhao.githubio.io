@@ -311,6 +311,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Protein Structure Prediction Center, <https://predictioncenter.org/>
     - ProteomeXchange, <https://www.proteomexchange.org/>
     - ProteoMapper Online, <https://peptideatlas.org/map/>
+    - RFdiffusion, <https://github.com/RosettaCommons/RFdiffusion>
     - Sage, <https://sage-docs.vercel.app/>
     - Sashimi, <https://sourceforge.net/projects/sashimi>
     - Skyline, <https://skyline.ms/project/home/begin.view>
@@ -357,4 +358,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 20/11/2024*
+***Created on** 3/5/2021 and **last changed** 22/11/2024*
