@@ -266,6 +266,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Typora, <https://typora.io/>
     - uLisp, <http://www.ulisp.com/>
     - WebGL, <https://get.webgl.org/>
+    - WinToHDD, <https://www.easyuefi.com/wintohdd/index.html> (also [easyUEFI](https://www.easyuefi.com/index-us.html))
     - WSGI, <https://wsgi.readthedocs.io/>
     - yaak, <https://yaak.app/>
     - yozosoft, <https://www.yozosoft.com/>
@@ -358,4 +359,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@tengyuu>
 
-***Created on** 3/5/2021 and **last changed** 22/11/2024*
+***Created on** 3/5/2021 and **last changed** 24/11/2024*
