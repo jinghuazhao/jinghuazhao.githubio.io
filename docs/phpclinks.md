@@ -258,6 +258,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - quarto, <https://quarto.org/>
     - RStudio, <https://www.rstudio.com/> [download](https://www.rstudio.com/products/rstudio/download/) ([Mastering Shiny](https://mastering-shiny.org/), [shinyapps](https://www.shinyapps.io/))
     - Rufus, <https://rufus.ie/en/>
+    - Scribus, <https://sourceforge.net/projects/scribus/>
     - Speedtest, <https://www.speedtest.net/>
     - Template-Rcpp, <https://github.com/stsds/Template-Rcpp> (LinkedIn [post](https://www.linkedin.com/feed/update/urn:li:activity:7136774813066358785/))
     - text-utils, <https://www.text-utils.com/>
@@ -359,4 +360,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 26/11/2024*
+***Created on** 3/5/2021 and **last changed** 1/12/2024*
