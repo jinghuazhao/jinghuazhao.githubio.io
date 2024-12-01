@@ -13,7 +13,9 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Chatbot Arena, <https://lmarena.ai/>
 - ChatPDF, <https://www.chatpdf.com/>
 - Crayon, <https://www.craiyon.com/>
-- Gemini, <https://gemini.google.com/>
+- Google, <https://www.google.com/>
+  - DeepMind, <https://deepmind.google/>
+  - Gemini, <https://gemini.google.com/>
 - HuggingChat, <https://huggingface.co/chat/>
 - Kimi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Meta, <https://www.facebook.com/business>
@@ -179,6 +181,7 @@ title: Jing Hua Zhao's virtual library at PHPC
         * [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
         * DeepMind, <https://deepmind.google/>
         * Gemini, <https://ai.google.dev/>
+        * My groups, <https://groups.google.com/my-groups>
         * Search console, <https://search.google.com/search-console/about>
         * Translate, <https://translate.google.co.uk/>
     - MicroSoft, <https://www.microsoft.com/>
