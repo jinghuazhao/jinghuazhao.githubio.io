@@ -278,6 +278,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Genomics-related sites
     - bigOmics, <https://bigomics.ch/>
     - Bioconductor support, <https://support.bioconductor.org/>
+    - Bailey lab, <https://github.com/bailey-lab>
     - CellProfiler, <https://cellprofiler.org/>
     - cerno Biosciencec, <https://cernobioscience.com/>
     - Course on GWAS by Matti Pirinen, <https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/>
