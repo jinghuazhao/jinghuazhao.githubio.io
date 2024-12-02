@@ -322,14 +322,21 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Sashimi, <https://sourceforge.net/projects/sashimi>
     - Skyline, <https://skyline.ms/project/home/begin.view>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
-  - Tutorials
+  - Tutorials & articles
     - <https://dev.to/balrajola/10-git-commands-youll-wish-you-knew-earlier-eha>
+    - <https://support.microsoft.com/en-gb/windows/enable-tpm-2-0-on-your-pc-1fd5a332-360d-4f46-a1e7-ae6b0c90645c>
+    - <https://githubnext.com/projects/github-spark>
+    - <https://www.kdnuggets.com/how-to-conduct-time-series-analysis-in-r>
+    - <https://dev.to/docsgpt/how-i-cloned-myself-with-llms-to-work-247-even-while-i-sleep-23nn>
+    - <https://www.forbes.com/sites/barrycollins/2024/11/02/how-to-replace-google-with-chatgpt-search-in-your-browser/>
+    - <https://www.windowscentral.com/software-apps/windows-11/it-blew-my-mind-when-i-learned-you-set-up-a-laptop-as-a-second-monitor-on-windows-11>
     - <https://www.kdnuggets.com/implement-named-entity-recognition-with-hugging-face-transformers>
     - <https://towardsdatascience.com/network-analysis-diffusion-models-data-lakehouses-and-more-our-best-recent-deep-dives-927c5a9063b9>
     - <https://www.thedrum.com/news/2024/11/18/humans-the-loop-rhlf-and-how-real-people-are-quietly-training-generative-ai>
     - <https://www.xda-developers.com/i-tried-running-macos-inside-a-docker-container/>
     - <https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/> 
     - <https://dev.to/guybuildingai/top-5-open-source-alternatives-for-llm-development-you-must-know-about-p30>
+    - <https://magazine.sebastianraschka.com/p/understanding-multimodal-llms>
     - <https://dev.to/bradstondev/unlock-the-power-of-meta-llama-llm-easy-guide-to-hosting-in-your-local-dev-environment-7d> 
 
 ## Special interest
@@ -375,4 +382,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 1/12/2024*
+***Created on** 3/5/2021 and **last changed** 2/12/2024*
