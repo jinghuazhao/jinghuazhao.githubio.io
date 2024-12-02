@@ -323,8 +323,14 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Skyline, <https://skyline.ms/project/home/begin.view>
     - Spectranaut, <https://biognosys.com/software/spectronaut/>
   - Tutorials
+    - <https://dev.to/balrajola/10-git-commands-youll-wish-you-knew-earlier-eha>
+    - <https://www.kdnuggets.com/implement-named-entity-recognition-with-hugging-face-transformers>
+    - <https://towardsdatascience.com/network-analysis-diffusion-models-data-lakehouses-and-more-our-best-recent-deep-dives-927c5a9063b9>
+    - <https://www.thedrum.com/news/2024/11/18/humans-the-loop-rhlf-and-how-real-people-are-quietly-training-generative-ai>
+    - <https://www.xda-developers.com/i-tried-running-macos-inside-a-docker-container/>
     - <https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/> 
     - <https://dev.to/guybuildingai/top-5-open-source-alternatives-for-llm-development-you-must-know-about-p30>
+    - <https://dev.to/bradstondev/unlock-the-power-of-meta-llama-llm-easy-guide-to-hosting-in-your-local-dev-environment-7d> 
 
 ## Special interest
 
@@ -361,6 +367,8 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
 - United States Medical Licensing Examination, <https://www.usmle.org/>
+- <https://decrypt.co/292432/mistral-ais-new-chatbot-rivals-gpt-but-for-free?amp=1>
+- <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
 - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 - <https://www.youtube.com/@Glutenn>
