@@ -333,6 +333,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - [How to use a laptop as a second monitor on Windows 11](https://www.windowscentral.com/software-apps/windows-11/it-blew-my-mind-when-i-learned-you-set-up-a-laptop-as-a-second-monitor-on-windows-11)
     - [‘Humans in the loop’: RHLF and how real people are quietly training generative AI](https://www.thedrum.com/news/2024/11/18/humans-the-loop-rhlf-and-how-real-people-are-quietly-training-generative-ai)
     - [I tried running macOS inside a Docker container – here’s how it went](https://www.xda-developers.com/i-tried-running-macos-inside-a-docker-container/)
+    - [Mistral AI’s New Chatbot Rivals GPT, But For Free](https://decrypt.co/292432/mistral-ais-new-chatbot-rivals-gpt-but-for-free?amp=1)
     - [Network Analysis, Diffusion Models, Data Lakehouses, and More: Our Best Recent Deep Dives](https://towardsdatascience.com/network-analysis-diffusion-models-data-lakehouses-and-more-our-best-recent-deep-dives-927c5a9063b9)
     - [The Beginner’s Guide to Natural Language Processing with Python](https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/)
     - [Top 5 Open-source Alternatives for LLM Development You Must Know About](https://dev.to/guybuildingai/top-5-open-source-alternatives-for-llm-development-you-must-know-about-p30)
@@ -374,7 +375,6 @@ title: Jing Hua Zhao's virtual library at PHPC
 - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
 - United States Medical Licensing Examination, <https://www.usmle.org/>
-- <https://decrypt.co/292432/mistral-ais-new-chatbot-rivals-gpt-but-for-free?amp=1>
 - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
 - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
 - <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
