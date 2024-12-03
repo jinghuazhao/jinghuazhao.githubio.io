@@ -73,6 +73,10 @@ viewport: "width=device-width, initial-scale=1.0"
   </details>
 
   <details>
+    <summary><a href="https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript">The real reason you procrastinate</a> and <a href="https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript">side effects</a></summary>
+  </details>
+
+  <details>
     <summary><a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki/">WMA Declaration of Helsinki</a></summary>
   </details>
 </details>
@@ -225,4 +229,4 @@ viewport: "width=device-width, initial-scale=1.0"
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 18/11/2024*
+***Created on** 12/1/2023 and **last changed** 3/12/2024*

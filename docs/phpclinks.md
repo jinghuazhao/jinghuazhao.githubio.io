@@ -332,7 +332,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
-- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website/), Springer
+- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), Springer
 
 ## Miscellaneous links
 
@@ -360,9 +360,8 @@ title: Jing Hua Zhao's virtual library at PHPC
 - United States Medical Licensing Examination, <https://www.usmle.org/>
 - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
 - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
-- <https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript>
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 2/12/2024*
+***Created on** 3/5/2021 and **last changed** 3/12/2024*
