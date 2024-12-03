@@ -28,6 +28,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - LangFlow, <https://www.langflow.org/>
 - OpenAI, <https://openai.com/>
   - ChatGPT, <https://chatgpt.com/>
+  - CLIP, <https://openai.com/index/clip/>
   - DALL·E 3, <https://openai.com/dall-e-3>
   - GitHub, <https://github.com/openai>
   - sora, <https://openai.com/sora>
@@ -40,6 +41,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Perplexity AI, <https://www.perplexity.ai/> (search)
 - Reka, <https://chat.reka.ai/>
 - Stability AI, <https://stability.ai/>
+- Stable diffusion, <https://github.com/CompVis>
 
 ## Local information
 
