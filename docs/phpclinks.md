@@ -29,9 +29,9 @@ title: Jing Hua Zhao's virtual library at PHPC
 - OpenAI, <https://openai.com/>
   - ChatGPT, <https://chatgpt.com/>
   - CLIP, <https://openai.com/index/clip/>
-  - DALL·E 3, <https://openai.com/dall-e-3>
+  - DALL·E 3, <https://openai.com/index/dall-e-3/>
   - GitHub, <https://github.com/openai>
-  - sora, <https://openai.com/sora>
+  - sora, <https://openai.com/index/sora/>
 - Open-source LLMs
   1. DeepEval (>> Humanloop), <https://github.com/confident-ai/deepeval>
   2. Llama-3.1 (>> Open AI GPT-4), <https://huggingface.co/meta-llama/Llama-3.1-8B>
