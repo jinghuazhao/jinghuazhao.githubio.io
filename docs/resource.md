@@ -73,7 +73,7 @@ viewport: "width=device-width, initial-scale=1.0"
   </details>
 
   <details>
-    <summary><a href="https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript">The real reason you procrastinate</a> and <a href="https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript">side effects</a></summary>
+    <summary><a href="https://www.ted.com/talks/worklife_with_adam_grant_the_real_reason_you_procrastinate/transcript">The real reason you procrastinate</a></summary>
   </details>
 
   <details>
