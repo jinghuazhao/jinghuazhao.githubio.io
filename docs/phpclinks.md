@@ -16,7 +16,10 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Google, <https://www.google.com/>
   - DeepMind, <https://deepmind.google/>
   - Gemini, <https://gemini.google.com/>
-- HuggingChat, <https://huggingface.co/chat/>
+- Hugging Face, <https://huggingface.co/models>
+  - Datasets, <https://huggingface.co/datasets>
+  - HuggingChat, <https://huggingface.co/chat/>
+  - Models, <https://huggingface.co/models>
 - Kimi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Meta, <https://www.facebook.com/business>
   - Llama 3, <https://llama.meta.com/llama3/>
