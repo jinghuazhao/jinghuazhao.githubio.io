@@ -26,6 +26,8 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Meta, <https://www.facebook.com/business>
   - Llama 3, <https://llama.meta.com/llama3/>
   - Meta AI, <https://www.meta.ai/>
+- MicroSoft
+  - Bing Image Creator, <https://www.bing.com/images/create/>
 - Midjourney, <https://www.midjourney.com/home>
 - No-Code LLM App Builders
   - Dify, <https://dify.ai/>
