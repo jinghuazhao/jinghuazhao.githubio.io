@@ -13,6 +13,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Chatbot Arena, <https://lmarena.ai/>
 - ChatPDF, <https://www.chatpdf.com/>
 - Crayon, <https://www.craiyon.com/>
+- fast.ai, <https://github.com/fastai>
 - Google, <https://www.google.com/>
   - Colab, <https://colab.research.google.com/>
   - DeepMind, <https://deepmind.google/>
