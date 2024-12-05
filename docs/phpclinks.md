@@ -14,6 +14,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - ChatPDF, <https://www.chatpdf.com/>
 - Crayon, <https://www.craiyon.com/>
 - Google, <https://www.google.com/>
+  - Colab, <https://colab.research.google.com/>
   - DeepMind, <https://deepmind.google/>
   - Gemini, <https://gemini.google.com/>
 - Hugging Face, <https://huggingface.co/models>
@@ -254,6 +255,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - MConverter, <https://mconverter.eu/> ([docx2html](https://mconverter.eu/convert/docx/html/))
     - Mermaid, <https://mermaid.js.org/> (live editor, <https://mermaid.live/>)
     - MobaXterm, <https://mobaxterm.mobatek.net/>
+    - nbviewer, <https://nbviewer.org/>
     - OddPrints, <https://www.oddprints.com/>
     - Oh My Posh, <https://ohmyposh.dev/>
     - Online2PDF, <https://online2pdf.com/docx2pdf>
@@ -370,4 +372,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 4/12/2024*
+***Created on** 3/5/2021 and **last changed** 5/12/2024*
