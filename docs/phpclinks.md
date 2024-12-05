@@ -18,7 +18,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   - Colab, <https://colab.research.google.com/>
   - DeepMind, <https://deepmind.google/>
   - Gemini, <https://gemini.google.com/>
-- Hugging Face, <https://huggingface.co/models>
+- Hugging Face, <https://huggingface.co>
   - Datasets, <https://huggingface.co/datasets>
   - HuggingChat, <https://huggingface.co/chat/>
   - Models, <https://huggingface.co/models>
