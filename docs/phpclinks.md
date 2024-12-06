@@ -45,6 +45,7 @@ title: Jing Hua Zhao's virtual library at PHPC
   3. LangChain (>> OpenAI Assistants), <https://github.com/langchain-ai/langchain>
   4. Flowwise (>> Relevance AI), <https://github.com/FlowiseAI/Flowise>
   5. Lite LLM (>> [Martian AI](https://withmartian.com/)), <https://github.com/BerriAI/litellm>
+- PaddlePaddle, <https://github.com/PaddlePaddle>
 - Perplexity AI, <https://www.perplexity.ai/> (search)
 - Reka, <https://chat.reka.ai/>
 - Stability AI, <https://stability.ai/>
