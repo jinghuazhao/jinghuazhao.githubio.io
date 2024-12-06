@@ -1,41 +1,16 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Work
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  档案
+      zh-Hans : &ZH_HANS  工作
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  檔案
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archive
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /archive.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       GitHub
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  GitHub
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  GitHub
+      zh-Hant : &ZH_HANT  工作
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO
@@ -47,32 +22,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: https://github.com/jinghuazhao/
-
-  - titles:
-      # @start locale config
-      en      : &EN       Resource
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  资源
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  資源
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       자원
-      ko-KR   : *KO
-      fr      : &FR       Ressource
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      # @end locale config
-    url: /resource.html
+    url: /work.html
 
   - titles:
       # @start locale config
@@ -101,16 +51,41 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Work
+      en      : &EN       Resource
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  工作
+      zh-Hans : &ZH_HANS  资源
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  工作
+      zh-Hant : &ZH_HANT  資源
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       자원
+      ko-KR   : *KO
+      fr      : &FR       Ressource
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /resource.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       GitHub
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  GitHub
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  GitHub
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       ko      : &KO
@@ -122,7 +97,32 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /work.html
+    url: https://github.com/jinghuazhao/
+
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  档案
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  檔案
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+      fr      : &FR       Archive
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /archive.html
 
 docs-en:
   - title:      Projects
