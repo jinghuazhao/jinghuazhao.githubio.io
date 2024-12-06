@@ -262,6 +262,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - OddPrints, <https://www.oddprints.com/>
     - Oh My Posh, <https://ohmyposh.dev/>
     - Online2PDF, <https://online2pdf.com/docx2pdf>
+    - PaddleOCR, <https://github.com/PaddlePaddle/PaddleOCR>
     - pdf24, <https://en.pdf24.org/>
     - pdf2djvu, <https://pdf2djvu.com/>
     - PDFgear, <https://www.pdfgear.com/>
@@ -375,4 +376,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 5/12/2024*
+***Created on** 3/5/2021 and **last changed** 6/12/2024*
