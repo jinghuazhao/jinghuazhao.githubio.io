@@ -5,6 +5,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## AI-related sites
 
+- AI Act, <https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai>
 - Anthropic, <https://www.anthropic.com/>
   - Claude, <https://claude.ai>
     - sonnet, <https://www.anthropic.com/claude/sonnet>
@@ -21,10 +22,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Hugging Face, <https://huggingface.co>
   - Datasets, <https://huggingface.co/datasets>
   - HuggingChat, <https://huggingface.co/chat/>
+  - Llama-3.3-70B-Instruct, <https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct>
   - Models, <https://huggingface.co/models>
 - Kimi chat, <https://kimi.moonshot.cn/> (PDF processing)
 - Meta, <https://www.facebook.com/business>
-  - Llama 3, <https://llama.meta.com/llama3/>
+  - Llama, <https://www.llama.com/> ([terms](https://ai.meta.com/llama/license/))
   - Meta AI, <https://www.meta.ai/>
 - MicroSoft
   - Bing Image Creator, <https://www.bing.com/images/create/>
@@ -377,4 +379,4 @@ title: Jing Hua Zhao's virtual library at PHPC
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
 - <https://www.youtube.com/@thatunifoodie>
 
-***Created on** 3/5/2021 and **last changed** 6/12/2024*
+***Created on** 3/5/2021 and **last changed** 7/12/2024*
