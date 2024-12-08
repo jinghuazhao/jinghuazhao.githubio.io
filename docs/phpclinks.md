@@ -68,6 +68,7 @@ title: Jing Hua Zhao's virtual library at PHPC
     - Qatar 2022, [Fixture schedule](https://www.bbc.co.uk/sport/football/60959746)
     - Russia 2018, [Brazil](https://www.bbc.co.uk/sport/av/football/44587792)
     - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
+    - US election 2024, <https://www.bbc.co.uk/news/election/2024/us/results>
 - Bletchly Park, <https://bletchleypark.org.uk/>
 - B&Q clubcard, <https://www.diy.com/customer/my_account/members>
 - Boardingware, <https://www.boardingware.com/>
@@ -346,25 +347,25 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 - 10 Lectures on Inverse Problems and Imaging, <https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html>
 - canSAR.ai, <https://cansar.ai/>
-- InSilicoUK, <https://www.insilicouk.org/>
-- Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
-- Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
-- PhysioNet, <https://physionet.org/content/ms-cxr/>
-- Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
-- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), Springer
-
-## Miscellaneous links
-
 - Essay writing service, <https://essayservice.com/>
+- InSilicoUK, <https://www.insilicouk.org/>
+- [International Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/International_Mathematical_Olympiad)
 - https:
   - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
   - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
   - <https://www.youtube.com/@Glutenn>
   - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
   - <https://www.youtube.com/@thatunifoodie>
-- [International Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/International_Mathematical_Olympiad)
+- Mihaela van der Schaar Lab, <https://www.vanderschaar-lab.com/>
+- Papers by Eran Segal, <https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=en> ([10K](https://link.springer.com/article/10.1007/s10654-021-00753-5))
+- PhysioNet, <https://physionet.org/content/ms-cxr/>
+- Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
+- Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), Springer
 - VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
 - What 3 words, <https://what3words.com/>
+
+## Country-specific links
+
 - Chinese sites
   * CCTV, <https://tv.cctv.com/>
   * Chinese Embassy [FAQ](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/zyxx/t1836400.htm) and [Passport/Travel certificatte](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/t1827718.htm)
@@ -378,10 +379,10 @@ title: Jing Hua Zhao's virtual library at PHPC
   * dtb, <http://dtb.cpr.ku.dk/>
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
 - UK
-  - CRUK, <https://fundraise.cancerresearchuk.org/page/tengyus-race-for-life>
-  - RSPCA [healthy diet for guinea pigs](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs/diet)
+  * CRUK, <https://fundraise.cancerresearchuk.org/page/tengyus-race-for-life>
+  * RSPCA [healthy diet for guinea pigs](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs/diet)
 - USA
-  - Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
-  - United States Medical Licensing Examination, <https://www.usmle.org/>
+  * Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
+  * United States Medical Licensing Examination, <https://www.usmle.org/>
 
 ***Created on** 3/5/2021 and **last changed** 8/12/2024*
