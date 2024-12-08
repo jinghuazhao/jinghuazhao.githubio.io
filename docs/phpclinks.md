@@ -28,6 +28,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Meta, <https://www.facebook.com/business>
   - Llama, <https://www.llama.com/> ([terms](https://ai.meta.com/llama/license/))
   - Meta AI, <https://www.meta.ai/>
+  - Nougat, <https://facebookresearch.github.io/nougat/>
 - MicroSoft
   - Bing Image Creator, <https://www.bing.com/images/create/>
 - Midjourney, <https://www.midjourney.com/home>
@@ -190,8 +191,6 @@ title: Jing Hua Zhao's virtual library at PHPC
     - CRAN, <https://cran.r-project.org/>
     - CS rankings, <https://csrankings.org/>
     - CyberChef, <https://gchq.github.io/CyberChef/>
-    - Facebook research
-        * [Nougat](https://facebookresearch.github.io/nougat/): Neural Optical Understanding for Academic Documents
     - Google, <https://www.google.co.uk/>
         * Adwords keywords planner, <https://ads.google.com/home/tools/keyword-planner/>
         * App Engine, <https://cloud.google.com/appengine/>
