@@ -65,8 +65,8 @@ title: Jing Hua Zhao's virtual library at PHPC
   * Weather CB1, <https://www.bbc.co.uk/weather/cb1>
   * Weather CB2, <https://www.bbc.co.uk/weather/cb2>
   * Web episodes
-    - [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
     - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
+    - [Russia 2018](https://www.bbc.co.uk/sport/av/football/44587792)
     - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - Bletchly Park, <https://bletchleypark.org.uk/>
 - B&Q clubcard, <https://www.diy.com/customer/my_account/members>
