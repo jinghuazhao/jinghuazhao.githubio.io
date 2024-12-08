@@ -48,7 +48,7 @@ Here are my [biosketch](jing_cv.pdf), [ResearchGate profile](http://www.research
 
 ## Reproducible research
 
-I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on R [gap](https://tinyurl.com/yxh3ycwg)).
+I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on [gap](https://scholar.google.co.uk/scholar?q=%22gap:+genetic+analysis+package%22)).
 
   * **Presentations**.
      [useR!2007](http://www.user2007.org/),
