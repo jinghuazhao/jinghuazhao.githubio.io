@@ -63,7 +63,11 @@ title: Jing Hua Zhao's virtual library at PHPC
 - BBC, <https://www.bbc.co.uk/>
   * bitesize, <https://www.bbc.co.uk/bitesize>
   * Weather CB1, <https://www.bbc.co.uk/weather/cb1>
-  * weather CB2, <https://www.bbc.co.uk/weather/cb2>
+  * Weather CB2, <https://www.bbc.co.uk/weather/cb2>
+  * Web episodes
+    - Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
+    - [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
+    - US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
 - Bletchly Park, <https://bletchleypark.org.uk/>
 - B&Q clubcard, <https://www.diy.com/customer/my_account/members>
 - Boardingware, <https://www.boardingware.com/>
@@ -351,8 +355,16 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## Miscellaneous links
 
-- [A healthy diet for guinea pigs](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs/diet)
-- [Brazil 2018](https://www.bbc.co.uk/sport/av/football/44587792)
+- Essay writing service, <https://essayservice.com/>
+- https:
+  - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
+  - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
+  - <https://www.youtube.com/@Glutenn>
+  - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
+  - <https://www.youtube.com/@thatunifoodie>
+- [International Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/International_Mathematical_Olympiad)
+- VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
+- What 3 words, <https://what3words.com/>
 - Chinese sites
   * CCTV, <https://tv.cctv.com/>
   * Chinese Embassy [FAQ](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/zyxx/t1836400.htm) and [Passport/Travel certificatte](http://www.chinese-embassy.org.uk/chn/qzfw/hzlxz/t1827718.htm)
@@ -362,23 +374,14 @@ title: Jing Hua Zhao's virtual library at PHPC
   * NIA [rzsq](https://rzsq.nia.gov.cn/login), [zwfw](https://s.nia.gov.cn/mps/main.html)
   * toutiao, <https://www.toutiao.com/>
   * ysyy, <https://app.cctv.com/>
-- CRUK, <https://fundraise.cancerresearchuk.org/page/tengyus-race-for-life>
-- Danish sites
+- Denmark
   * dtb, <http://dtb.cpr.ku.dk/>
   * itslearning, <https://sdu.itslearning.com> (itsl-jhzh)
-- Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
-- Essay writing service, <https://essayservice.com/>
-- https:
-  - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
-  - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
-  - <https://www.youtube.com/@Glutenn>
-  - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
-  - <https://www.youtube.com/@thatunifoodie>
-- [International Mathematical Olympiad](https://artofproblemsolving.com/wiki/index.php/International_Mathematical_Olympiad)
-- Qatar 2022, [on BBC](https://www.bbc.co.uk/sport/football/60959746) and [on ITV](https://www.itv.com/)
-- United States Medical Licensing Examination, <https://www.usmle.org/>
-- US election 2020, <https://www.bbc.co.uk/news/election/us2020/results>
-- VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
-- What 3 words, <https://what3words.com/>
+- UK
+  - CRUK, <https://fundraise.cancerresearchuk.org/page/tengyus-race-for-life>
+  - RSPCA [healthy diet for guinea pigs](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs/diet)
+- USA
+  - Educational Commission for Foreign Medical Graduates, <https://www.ecfmg.org/>
+  - United States Medical Licensing Examination, <https://www.usmle.org/>
 
 ***Created on** 3/5/2021 and **last changed** 8/12/2024*
