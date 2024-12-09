@@ -122,6 +122,7 @@ viewport: "width=device-width, initial-scale=1.0"
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/>
 - Ambrosia Treatment Center, <https://www.ambrosiatc.com/>
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
+* Arkview Recovery Center, <https://www.arkviewrecovery.com/>
 * AToN Center, <https://www.atoncenter.com/>
 * Bayview Recovery Center, <https://www.bayviewrecovery.com/>
 + Blue Star Recovery, <https://bluestarrecovery.com/>
@@ -149,6 +150,7 @@ viewport: "width=device-width, initial-scale=1.0"
 * Melrose Recovery, <https://www.melroserecovery.com/>
 * Moving Mountains Recovery, <https://movingmountainsrecovery.com/>
 * MPower Wellness Exton, <https://mpowerwellness.com/>
+* Origins Texas Recovery, <https://www.originstexas.com/>
 * Orlando Treatment Solutions, <https://orlandotreatmentsolutions.com/>
 + Path To Recovery Detox, <https://pathtorecoverydetox.com/>
 + Pathways Treatment Center, <https://pathwaystreatmentcenter.com/>
@@ -159,6 +161,7 @@ viewport: "width=device-width, initial-scale=1.0"
 - Santa Barbara Recovery, <https://santabarbararecovery.com/>
 * Smoke free UK, <https://smokefreeuk.co.uk/>
 - Spero Recovery, <https://www.sperorecovery.org/>
+* Surf City Detox, <https://surfcitydetox.com/>
 * The Freedom Center, <https://www.thefreedomcenter.com/>
 * The Lovett Center, <https://thelovettcenter.com/>
 + The Recovery Village Cherry Hill at Cooper, <https://www.southjerseyrecovery.com/>
@@ -171,6 +174,7 @@ viewport: "width=device-width, initial-scale=1.0"
 ## Physical, mental and behavioral Health
 
 * Adler Health, <https://adlerhealth.com/>
+* Arkview Recovery Center (+Anxiety/Depression), <https://www.arkviewrecovery.com/>
 * Blume Behavioral Health, <https://blumebh.com/>
 * Breakwater Behavioral Health, <https://breakwaterbehavioralhealth.com/>
 * Elevated Wellness Clinic, <https://elevatedwellnessclinic.com/>
@@ -229,4 +233,4 @@ viewport: "width=device-width, initial-scale=1.0"
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
 
-***Created on** 12/1/2023 and **last changed** 3/12/2024*
+***Created on** 12/1/2023 and **last changed** 9/12/2024*
