@@ -225,12 +225,12 @@ viewport: "width=device-width, initial-scale=1.0"
 
 ## Contributors<a href="https://jinghuazhao.github.io/resource.txt" style="font-size: 16px; font-size: 90%;vertical-align: top;"><i class="fa fa-heart" style="font-size:22px;color:red"></i></a>
 
-- Dominique Legget, <dominique.legget@thedigitalintellect.com>
-- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
-- Emma Tressler, <healthcare@thedigitalintellect.com>
 - Enmanuel Batista <ebatista@drugwatch.com>
 - Mara Davis <mara@hr.knowyourdna.com>
+- Eliza Hadley, <eliza.hadley@gv.alcoholrehabhelp.org>
+- Dominique Legget, <dominique.legget@thedigitalintellect.com>
 - Nomhle Mcunu <nmcunu@southjerseyrecoverypr.com>
 - Rachel Parker, <iamrachelparker@gmail.com>
+- Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 9/12/2024*
+***Created on** 12/1/2023 and **last changed** 11/12/2024*
