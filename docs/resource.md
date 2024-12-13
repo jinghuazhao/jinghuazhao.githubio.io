@@ -119,6 +119,7 @@ viewport: "width=device-width, initial-scale=1.0"
 * 449 Recovery, <https://449recovery.org/>
 - Acquare Recovery, <https://www.acquarecovery.com/>
 * Addiction Resources in Northern Illinois, <https://www.northernillinoisrecovery.com/resources/>
+* Adelante Recovery Center, <https://adelanterecovery.com/>
 - Alcohol Rehab Help, <https://alcoholrehabhelp.org/>
 - Ambrosia Treatment Center, <https://www.ambrosiatc.com/>
 * Amethyst Recovery DeTox, <https://www.amethystrecovery.org/>
