@@ -40,6 +40,7 @@ show_title: false
 
 ## Media
 
+- American Scientist, <https://www.americanscientist.org/>
 - Live Science, <https://www.livescience.com/>
 - New Scientist, <https://www.newscientist.com/>
 - Quanta Magazine, <https://www.quantamagazine.org/>
@@ -59,4 +60,4 @@ show_title: false
 + Significance, <https://significancemagazine.com/>
 + The American Statistician, <https://www.tandfonline.com/journals/utas20>
 
-***Created on** 3/11/2024 and **last changed** 11/12/2024*
+***Created on** 3/11/2024 and **last changed** 21/12/2024*
