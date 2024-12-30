@@ -38,7 +38,7 @@ show_title: false
 
 ![Image](assets/images/young-sunflower.jpg){:.circle height="360px" width="360px"}
 
-## Media
+## Magazines
 
 - American Scientist, <https://www.americanscientist.org/>
 - Live Science, <https://www.livescience.com/>
