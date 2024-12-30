@@ -144,13 +144,15 @@ title: Jing Hua Zhao's virtual library at PHPC
 - PhysioNet, <https://physionet.org/content/ms-cxr/>
 - Robert Kabacoff, [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/index.html)
 - Ulisses Braga-Neto (2024). [Fundamentals of Pattern Recognition and Machine Learning, 2e](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), Springer
-- URLs:
-  - <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
-  - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
-  - <https://www.youtube.com/@Glutenn>
-  - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
-  - <https://www.youtube.com/@thatunifoodie>
 - VinFuture, <https://online.vinfutureprize.org/nomination/my-nomination?tab=submitted>
 - What 3 words, <https://what3words.com/>
+
+## URLs
+
+- <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
+- <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
+- <https://www.youtube.com/@Glutenn>
+- <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
+- <https://www.youtube.com/@thatunifoodie>
 
 ***Created on** 3/5/2021 and **last changed** 30/12/2024*
