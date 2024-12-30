@@ -91,6 +91,7 @@ title: Jing Hua Zhao's virtual library at PHPC
 - Transport for London (TfL)
   * Congestion charge, <https://tfl.gov.uk/modes/driving/congestion-charge>
   * London Road User Charging account, <https://tfl.gov.uk/Ruc/Auth/Login> ([Auto Pay](mailto:cclondon@cclondon.com), [Fleet Services](mailto:FleetTeam@cclondon.com))
+  * [Tube map with new Overground lines](https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024)
 - Travel South Yorkshire, <https://journeyplanner.travelsouthyorkshire.com/>
 - Tripadvisor, <https://www.tripadvisor.co.uk>
 - University, <https://www.cam.ac.uk/>
@@ -149,7 +150,6 @@ title: Jing Hua Zhao's virtual library at PHPC
 
 ## URLs
 
-- <https://www.timeout.com/london/news/heres-what-the-tube-map-with-looks-like-with-new-overground-lines-112024>
 - <https://museprintables.com/download/pumpkin-stencil/standing-guinea-pig/>
 - <https://www.youtube.com/@Glutenn>
 - <https://www.youtube.com/channel/UCWvF4RI_DVr3tKZjjp_lrwA>
