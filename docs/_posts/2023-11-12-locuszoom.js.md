@@ -10,27 +10,25 @@ mermaid: true
 This is built on A1BG & ACE, <https://jinghuazhao.github.io/Caprion/lz.htm>
 
 ```bash
-# code for caprion_dr.js
+# (nearest) code for caprion_dr.js
 # toJSON(list(ppid=paste0(prot,"-",pqtl),data=d,analysis=paste0(prot,"-",pqtl)),auto_unbox=TRUE,pretty=FALSE)
-export analysis=~/Caprion/analysis
-export dr=_dr
+export suffix=_dr
 Rscript -e '
     library(dplyr)
     library(jsonlite)
-    analysis <- Sys.getenv("analysis")
     suffix <- Sys.getenv("suffix")
     vars <- c("variant","position","ref_allele","alt_allele_freq","beta","log_pvalue")
     merged_data <- list()
-    jsonlist <- dir(file.path(analysis,"json","gz"),pattern="json.gz")
+    jsonlist <- dir(pattern="json")
     flist <- grep("A1BG|ACE",jsonlist,value=TRUE)
     for (i in 1:length(flist))
     {
       s <- unlist(strsplit(flist[i],"-|[.]"))
-      f <- list(ppid=paste0(s[1],"-",s[2]),data=fromJSON(file.path(analysis,"json","gz",flist[i]))$data[vars])
+      f <- list(ppid=paste0(s[1],"-",s[2]),data=fromJSON(flist[i])$data[vars])
       merged_data <- c(merged_data,list(f))
     }
     merged_json <- toJSON(merged_data)
-    sink(file.path(analysis,paste0("caprion",suffix,".js")))
+    sink(paste0("caprion",suffix,".js"))
     cat("input=")
     writeLines(merged_json)
     sink()
