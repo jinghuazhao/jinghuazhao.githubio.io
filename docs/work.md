@@ -46,6 +46,19 @@ Here are my [biosketch](jing_cv.pdf), [ResearchGate profile](http://www.research
 
 ![Image](assets/images/sunflower.jpg){:.circle height="360px" width="360px"}
 
+## Professional activities
+
+I have been a member of the [Royal Statistical Society](http://www.rss.org.uk/) for approximately 20 years
+([My RSS](https://rss.org.uk/myrss/)). I served as an associate editor for
+[The Scientific World Journal](http://www.hindawi.com/journals/tswj/) until July 2017
+and now as an associate editor ([login](https://www.frontiersin.org/my-frontiers/overview))
+for [Frontiers in Genetics](http://www.frontiersin.org/) ([blog network](http://www.frontiersin.org/blog/all_blogs),
+[Frontiers impact factors](https://www.frontiersin.org/about/impact).
+[Frontiers Select](https://tinyurl.com/3ha46yyn) and
+[profile](http://community.frontiersin.org/people/Jing_HuaZhao/44539))
+after about ten years as a review editor. Over years I have also been an occasional
+reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.aspx) and many other journals.
+
 ## Reproducible research
 
 I have promoted reproducible research through curation and software implementation, presentations and data-driven projects. It is encouraging and awarding to receive your [e-mail](mailto:jinghuazhao@hotmail.com) with comments or information on citations (as [early collections](references.txt) from Google search and Google Scholar on [gap](https://scholar.google.co.uk/scholar?q=%22gap:+genetic+analysis+package%22)).
@@ -61,19 +74,6 @@ I have promoted reproducible research through curation and software implementati
   * **Projects**. [consortium work](https://jinghuazhao.github.io/consortium),
      [other projects](https://jinghuazhao.github.io/other), and
      [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
-
-## Professional activities
-
-I have been a member of the [Royal Statistical Society](http://www.rss.org.uk/) for approximately 20 years
-([My RSS](https://rss.org.uk/myrss/)). I served as an associate editor for
-[The Scientific World Journal](http://www.hindawi.com/journals/tswj/) until July 2017
-and now as an associate editor ([login](https://www.frontiersin.org/my-frontiers/overview))
-for [Frontiers in Genetics](http://www.frontiersin.org/) ([blog network](http://www.frontiersin.org/blog/all_blogs),
-[Frontiers impact factors](https://www.frontiersin.org/about/impact).
-[Frontiers Select](https://tinyurl.com/3ha46yyn) and
-[profile](http://community.frontiersin.org/people/Jing_HuaZhao/44539))
-after about ten years as a review editor. Over years I have also been an occasional
-reviewer for the [Lancet](https://www.editorialmanager.com/thelancet/default.aspx) and many other journals.
 
 ## Bookmarks from workplaces
 
