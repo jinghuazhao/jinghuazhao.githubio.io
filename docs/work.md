@@ -126,8 +126,6 @@ KCL --> UCL --> MRC --> PHPC
 
 ## Mentors/Collaborators
 
-![Image](assets/images/seeded-sunflower.png){:.circle height="360px" width="360px"}
-
 Beijing University: [Yude Chen](http://finance.sina.com.cn/economist/jingjixueren/20051219/11492209756.shtml) ([School of Public Health](http://sph.pku.edu.cn/))\
 Fudan University ([Social Medicine](https://sph.fudan.edu.cn/dept/5)): [Pihuan Jin](https://www.baike.com/wikiid/4250585070644647126?from=wiki_content&prd=innerlink&view_id=3pl79eg77sepds), [Fumin Shen](https://www.baike.com/wikiid/8733105600449106645?view_id=4otxr0qq5u2j9c), [Zhaohuan Zhang](https://baike.baidu.com/item/%E5%BC%A0%E7%85%A7%E5%AF%B0) ([Wiki Entry](http://en.wikipedia.org/wiki/Zhang_Zhaohuan))\
 Havard School of Public Health: [David Christiani](https://www.hsph.harvard.edu/david-christiani/), [William Hsiao](http://www.hsph.harvard.edu/william-hsiao/) ([Wiki Entry](http://en.wikipedia.org/wiki/William_Hsiao)), [Nan Laird](http://www.hsph.harvard.edu/nan-laird/) ([Wiki Entry](http://en.wikipedia.org/wiki/Nan_Laird))\
@@ -140,3 +138,5 @@ University of Cambridge: [Nicholas J. Wareham](https://research.com/u/nicholas-j
 University of Hong Kong: [Pak Sham](https://www.psychiatry.hku.hk/prof-pak-sham)\
 University of Illinois at Chicago: [Xiping Xu](http://www.uic.edu/sph/epi-bio/faculty-and-staff)\
 University of Southern Denmark: [Qihua Tan](http://www.sdu.dk/staff/qtan.aspx)
+
+![Image](assets/images/seeded-sunflower.png){:.circle height="360px" width="360px"}
