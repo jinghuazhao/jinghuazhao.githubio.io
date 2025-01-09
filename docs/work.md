@@ -75,7 +75,7 @@ I have promoted reproducible research through curation and software implementati
      [other projects](https://jinghuazhao.github.io/other), and
      [cambridge-ceu](https://cambridge-ceu.github.io/) GitHub organisation.
 
-## Bookmarks from workplaces
+## Workplace Bookmarks
 
 (At Mermaid Live Editor, <http://tinyurl.com/3sx6p23w>).
 
