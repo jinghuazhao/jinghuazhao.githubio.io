@@ -178,8 +178,10 @@ viewport: "width=device-width, initial-scale=1.0"
 * Arkview Recovery Center (+Anxiety/Depression), <https://www.arkviewrecovery.com/>
 * Blume Behavioral Health, <https://blumebh.com/>
 * Breakwater Behavioral Health, <https://breakwaterbehavioralhealth.com/>
+* California Healing Centers, <https://californiahealingcenters.com/>
 * Elevated Wellness Clinic, <https://elevatedwellnessclinic.com/>
 * Evolve Wellness, <https://www.evolvewellnessinc.com/>
+* Idaho Empowered, <https://idahoempowered.com/>
 * Innercept, <https://www.innercept.com/>
 * Ironwood Maine, <https://www.ironwoodmaine.com/>
 * Lightwork Therapy & Recovery, <https://lightworktr.com/>
@@ -234,4 +236,4 @@ viewport: "width=device-width, initial-scale=1.0"
 - Rachel Parker, <iamrachelparker@gmail.com>
 - Emma Tressler, <healthcare@thedigitalintellect.com>
 
-***Created on** 12/1/2023 and **last changed** 13/12/2024*
+***Created on** 12/1/2023 and **last changed** 9/1/2025*
