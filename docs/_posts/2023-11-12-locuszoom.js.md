@@ -7,6 +7,12 @@ mathjax_autoNumber: false
 mermaid: true
 ---
 
+## Update
+
+This is fully updated at <https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html>.
+
+## Original post
+
 This is built on A1BG & ACE, <https://jinghuazhao.github.io/Caprion/lz.htm>
 
 ```bash
