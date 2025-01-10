@@ -7,7 +7,7 @@ mathjax_autoNumber: false
 mermaid: true
 ---
 
-## Update
+## Update (10/1/2025)
 
 This is fully updated at <https://jinghuazhao.github.io/pQTLtools/articles/LocusZoom.js.html>.
 
