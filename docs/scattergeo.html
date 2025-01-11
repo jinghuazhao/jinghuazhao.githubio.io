@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Map of Sites with Plotly.js</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
         #map {
-            height: 600px;
+            height: 100%;
             width: 100%;
         }
     </style>
 </head>
-
 <body>
     <div id="map"></div>
-
     <script>
-        // Sites data with coordinates, categories, and URLs
         const sites = [
             // Drug and Substance Abuse
             { name: "449 Recovery", coords: [33.4526, -117.6207], category: "substance", url: "https://449recovery.org/" },
@@ -104,16 +105,12 @@
             { name: "All-Type Roofing Services", coords: [34.0522, -118.2437], category: "shelter_building", url: "https://www.all-typeroofingservices.com/" },
             { name: "Allied Buildings", coords: [41.8781, -87.6298], category: "shelter_building", url: "https://www.alliedbuildings.com/" }
         ];
-
-        // Category colors
         const categoryColors = {
             substance: 'red',
             behavioral_health: 'blue',
             social_care: 'green',
             shelter_building: 'orange'
         };
-
-        // Plotly map trace
         const trace = {
             type: 'scattergeo',
             lat: sites.map(site => site.coords[0]),
@@ -132,13 +129,13 @@
             hoverinfo: 'text',
             customdata: sites.map(site => site.url) // Store URLs as customdata
         };
-
-        // Layout for the map
         const layout = {
             title: 'Map of Recovery Sites in the US (Star Markers)',
             geo: {
                 scope: 'usa',
-                projection: { type: 'albers usa' },
+                projection: {
+                    type: 'albers usa'
+                },
                 showland: true,
                 landcolor: "grey",
                 subunitcolor: "white",
@@ -146,23 +143,19 @@
                 lakecolor: "blue",
                 showlakes: true,
                 showcountries: true,
-                showcoastlines: true
-            }
+                showcoastlines: true,
+                resolution: 50, // Higher resolution for better detail
+                center: { lat: 39.8283, lon: -98.5795 }, // Center of the US
+            },
+            autosize: true, // Dynamically adjust size based on screen space
         };
-
         const data = [trace];
-
-        // Render the map
         Plotly.newPlot('map', data, layout);
-
-        // Event listener for click event on markers to navigate to URL
         document.getElementById('map').on('plotly_click', function(eventData) {
             const clickedSiteIndex = eventData.points[0].pointIndex;
             const url = sites[clickedSiteIndex].url;
             window.open(url, '_blank'); // Opens the URL in a new tab
         });
     </script>
-
 </body>
-
 </html>
