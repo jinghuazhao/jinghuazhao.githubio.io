@@ -6,13 +6,8 @@
     <title>Map of Sites with Plotly.js</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            overflow: hidden;
-        }
         #map {
-            height: 100%;
+            height: 100vh;
             width: 100%;
         }
     </style>
@@ -111,51 +106,106 @@
             social_care: 'green',
             shelter_building: 'orange'
         };
-        const trace = {
+        const stateAbbreviations = {
+            'Alabama': 'AL', 'Alaska': 'AK', 'Arizona': 'AZ', 'Arkansas': 'AR', 'California': 'CA',
+            'Colorado': 'CO', 'Connecticut': 'CT', 'Delaware': 'DE', 'Florida': 'FL', 'Georgia': 'GA',
+            'Hawaii': 'HI', 'Idaho': 'ID', 'Illinois': 'IL', 'Indiana': 'IN', 'Iowa': 'IA', 'Kansas': 'KS',
+            'Kentucky': 'KY', 'Louisiana': 'LA', 'Maine': 'ME', 'Maryland': 'MD', 'Massachusetts': 'MA',
+            'Michigan': 'MI', 'Minnesota': 'MN', 'Mississippi': 'MS', 'Missouri': 'MO', 'Montana': 'MT',
+            'Nebraska': 'NE', 'Nevada': 'NV', 'New Hampshire': 'NH', 'New Jersey': 'NJ', 'New Mexico': 'NM',
+            'New York': 'NY', 'North Carolina': 'NC', 'North Dakota': 'ND', 'Ohio': 'OH', 'Oklahoma': 'OK',
+            'Oregon': 'OR', 'Pennsylvania': 'PA', 'Rhode Island': 'RI', 'South Carolina': 'SC', 'South Dakota': 'SD',
+            'Tennessee': 'TN', 'Texas': 'TX', 'Utah': 'UT', 'Vermont': 'VT', 'Virginia': 'VA', 'Washington': 'WA',
+            'West Virginia': 'WV', 'Wisconsin': 'WI', 'Wyoming': 'WY'
+        };
+        const stateCentersA = {
+            'Alabama': [32.8067, -86.7911], 'Alaska': [61.3707, -152.4044], 'Arizona': [33.7298, -111.4312],
+            'Arkansas': [34.9697, -92.3731], 'California': [36.1162, -119.6816], 'Colorado': [39.5501, -105.7821],
+            'Connecticut': [41.5978, -72.7554], 'Delaware': [39.3185, -75.5071], 'Florida': [27.7663, -81.6868],
+            'Georgia': [33.0406, -83.6431], 'Hawaii': [21.0943, -157.4983], 'Idaho': [44.2405, -114.4788],
+            'Illinois': [40.3495, -88.9861], 'Indiana': [39.8494, -86.2583], 'Iowa': [42.0115, -93.2105],
+            'Kansas': [39.0119, -98.4842], 'Kentucky': [40.2989, -84.7913], 'Louisiana': [31.1695, -91.8678],
+            'Maine': [44.2998, -69.4455], 'Maryland': [39.0639, -76.8021], 'Massachusetts': [42.2302, -71.5301],
+            'Michigan': [43.3266, -84.5361], 'Minnesota': [45.6945, -93.9002], 'Mississippi': [32.7416, -89.6683],
+            'Missouri': [38.5739, -92.6034], 'Montana': [46.9219, -110.4544], 'Nebraska': [41.1254, -98.2681],
+            'Nevada': [38.3135, -117.0554], 'New Hampshire': [43.4525, -71.5639], 'New Jersey': [40.2989, -74.5210],
+            'New Mexico': [34.8405, -106.2485], 'New York': [42.1657, -74.9481], 'North Carolina': [35.6301, -79.8060],
+            'North Dakota': [47.5289, -99.7840], 'Ohio': [40.3888, -82.7649], 'Oklahoma': [35.5653, -96.9289],
+            'Oregon': [43.9335, -119.4820], 'Pennsylvania': [40.5908, -77.2095], 'Rhode Island': [41.6809, -71.5118],
+            'South Carolina': [33.9196, -80.2118], 'South Dakota': [44.2998, -99.4388], 'Tennessee': [35.7478, -86.6923],
+            'Texas': [31.0545, -97.5635], 'Utah': [40.1500, -111.8624], 'Vermont': [44.0459, -72.7107],
+            'Virginia': [37.7693, -78.169968], 'Washington': [47.7315, -120.5955], 'West Virginia': [38.4912, -80.9545],
+            'Wisconsin': [43.6311, -90.3653], 'Wyoming': [43.07597, -107.29028]
+        };
+        const stateCenters = {
+            'AL': [32.8067, -86.7911], 'AK': [61.3707, -152.4044], 'AZ': [33.7298, -111.4312], 'AR': [34.9697, -92.3731],
+            'CA': [36.1162, -119.6816], 'CO': [39.5501, -105.7821], 'CT': [41.5978, -72.7554], 'DE': [39.3185, -75.5071],
+            'FL': [27.7663, -81.6868], 'GA': [33.0406, -83.6431], 'HI': [21.0943, -157.4983], 'ID': [44.2405, -114.4788],
+            'IL': [40.3495, -88.9861], 'IN': [39.8494, -86.2583], 'IA': [42.0115, -93.2105], 'KS': [39.0119, -98.4842],
+            'KY': [40.2989, -84.7913], 'LA': [31.1695, -91.8678], 'ME': [44.2998, -69.4455], 'MD': [39.0639, -76.8021],
+            'MA': [42.2302, -71.5301], 'MI': [43.3266, -84.5361], 'MN': [45.6945, -93.9002], 'MS': [32.7416, -89.6683],
+            'MO': [38.5739, -92.6034], 'MT': [46.9219, -110.4544], 'NE': [41.1254, -98.2681], 'NV': [38.3135, -117.0554],
+            'NH': [43.4525, -71.5639], 'NJ': [40.2989, -74.5210], 'NM': [34.8405, -106.2485], 'NY': [42.1657, -74.9481],
+            'NC': [35.6301, -79.8060], 'ND': [47.5289, -99.7840], 'OH': [40.3888, -82.7649], 'OK': [35.5653, -96.9289],
+            'OR': [43.9335, -119.4820], 'PA': [40.5908, -77.2095], 'RI': [41.6809, -71.5118], 'SC': [33.9196, -80.2118],
+            'SD': [44.2998, -99.4388], 'TN': [35.7478, -86.6923], 'TX': [31.0545, -97.5635], 'UT': [40.1500, -111.8624],
+            'VT': [44.0459, -72.7107], 'VA': [37.7693, -78.169968], 'WA': [47.7315, -120.5955], 'WV': [38.4912, -80.9545],
+            'WI': [43.6311, -90.3653], 'WY': [43.07597, -107.29028]
+        };
+        const stateLabelsTraceA = {
+            type: 'scattergeo',
+            lat: Object.values(stateCenters).map(center => center[0]),
+            lon: Object.values(stateCenters).map(center => center[1]),
+            mode: 'text',
+            text: Object.keys(stateAbbreviations).map(state => stateAbbreviations[state]),
+            textfont: {
+                size: 12,
+                color: 'black'
+            },
+            hoverinfo: 'none'
+        };
+        const stateLabelsTrace = {
+            type: 'scattergeo',
+            lat: Object.values(stateCenters).map(center => center[0]),
+            lon: Object.values(stateCenters).map(center => center[1]),
+            mode: 'text',
+            text: Object.keys(stateAbbreviations),
+            textfont: {
+                size: 12,
+                color: 'black'
+            },
+            hoverinfo: 'none'
+        };
+        const sitesTrace = {
             type: 'scattergeo',
             lat: sites.map(site => site.coords[0]),
             lon: sites.map(site => site.coords[1]),
             mode: 'markers',
             marker: {
-                size: 15, // Increased size for better visibility
-                color: sites.map(site => categoryColors[site.category]), // Color based on category
-                symbol: 'star', // Use star symbol
-                line: {
-                    color: 'black',
-                    width: 1
-                }
+                symbol: 'star',
+                color: sites.map(site => categoryColors[site.category] || 'gray'),
+                size: 10
             },
-            text: sites.map(site => `<a href="${site.url}" target="_blank">${site.name}</a>`), // Tooltip with clickable URL
-            hoverinfo: 'text',
-            customdata: sites.map(site => site.url) // Store URLs as customdata
+            text: sites.map(site => site.name),
+            hoverinfo: 'text'
         };
         const layout = {
-            title: 'Map of Recovery Sites in the US (Star Markers)',
+            title: 'Map of US States with Sites',
             geo: {
                 scope: 'usa',
-                projection: {
-                    type: 'albers usa'
-                },
+                projection: { type: 'albers usa' },
                 showland: true,
-                landcolor: "grey",
-                subunitcolor: "white",
-                countrycolor: "green",
-                lakecolor: "blue",
+                landcolor: "white",
                 showlakes: true,
-                showcountries: true,
                 showcoastlines: true,
-                resolution: 50, // Higher resolution for better detail
-                center: { lat: 39.8283, lon: -98.5795 }, // Center of the US
-            },
-            autosize: true, // Dynamically adjust size based on screen space
+                showstateborder: true,
+                showcountries: true,
+                showframe: true,
+                showrivers: true
+            }
         };
-        const data = [trace];
+        const data = [stateLabelsTrace, sitesTrace];
         Plotly.newPlot('map', data, layout);
-        document.getElementById('map').on('plotly_click', function(eventData) {
-            const clickedSiteIndex = eventData.points[0].pointIndex;
-            const url = sites[clickedSiteIndex].url;
-            window.open(url, '_blank'); // Opens the URL in a new tab
-        });
     </script>
 </body>
 </html>
