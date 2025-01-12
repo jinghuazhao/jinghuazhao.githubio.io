@@ -48,6 +48,7 @@ show_title: false
 - Science Illustrated, <https://scienceillustrated.com/>
 - Science News, <https://www.sciencenews.org/>
 - Scientific American, <https://www.scientificamerican.com/>
+- SciTechDaily, <https://scitechdaily.com/>
 - Smithsonian magazine, <https://www.smithsonianmag.com/>
 - The Scientist, <https://www.the-scientist.com/>
 
@@ -61,4 +62,4 @@ show_title: false
 + Significance, <https://significancemagazine.com/>
 + The American Statistician, <https://www.tandfonline.com/journals/utas20>
 
-***Created on** 3/11/2024 and **last changed** 30/12/2024*
+***Created on** 3/11/2024 and **last changed** 12/1/2025*
