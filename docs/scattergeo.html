@@ -184,9 +184,9 @@
             marker: {
                 symbol: 'star',
                 color: sites.map(site => categoryColors[site.category] || 'gray'),
-                size: 10
+                size: 12
             },
-            text: sites.map(site => site.name),
+            text: sites.map(site => `${site.name}<br>${site.url}`),
             hoverinfo: 'text'
         };
         const layout = {
@@ -201,11 +201,20 @@
                 showstateborder: true,
                 showcountries: true,
                 showframe: true,
-                showrivers: false
+                showrivers: false,
+                lonaxis: {range: [-130, -60]},
+                lataxis: {range: [24, 50]},
+                center: {lat: 37.0902, lon: -95.7129},
+                zoom: 4
             }
         };
         const data = [stateLabelsTrace, sitesTrace];
         Plotly.newPlot('map', data, layout);
+        document.getElementById('map').on('plotly_click', function(eventData) {
+            const siteIndex = eventData.points[0].pointIndex;
+            const site = sites[siteIndex];
+            window.open(site.url, '_blank');
+        });
     </script>
 </body>
 </html>
