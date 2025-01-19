@@ -7,11 +7,12 @@ mathjax_autoNumber: false
 mermaid: true
 ---
 
-We see from
+We see output from
 
 ```bash
 R CMD check --as-cran pQTLtools_0.4.tar.gz
 ```
+as in `inst/csd3.sh`:
 
 ```
 pQTLtools/inst/csd3.sh
