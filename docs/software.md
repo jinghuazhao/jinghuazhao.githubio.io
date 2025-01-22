@@ -10,6 +10,7 @@ sidebar:
 
 1. GitHub repositories
   : [![](bees.svg)](https://github.com/jinghuazhao/gaawr2) [gaawr2](https://jinghuazhao.github.io/gaawr2/)
+        - Articles, [web](https://jinghuazhao.github.io/gaawr2/articles/web.html)
         - [manual](https://jinghuazhao.github.io/gaawr2/reference/gaawr2.html), [news](https://jinghuazhao.github.io/gaawr2/news/index.html)
         - [vignette](https://jinghuazhao.github.io/gaawr2/articles/gaawr2.html)
   : [![](bees.svg)](https://github.com/jinghuazhao/pQTLdata) [pQTLdata](https://jinghuazhao.github.io/pQTLdata/)
