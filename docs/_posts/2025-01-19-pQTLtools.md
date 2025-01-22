@@ -1,6 +1,6 @@
 ---
 layout: article
-title: pQTLtools 0.4 checked!
+title: pQTLtools 0.4 is checked!
 tags: pQTLtools
 mathjax: true
 mathjax_autoNumber: false
